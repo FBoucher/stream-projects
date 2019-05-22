@@ -3,13 +3,26 @@
 This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros).
 
 
-## Reading Notes v3
+## Reading Notes
 
 A Solution to get an article to your eReader then collects your notes and generates a post. This is the third version of the solution. Every times it's to learn new technology.
 
 🔗 https://github.com/FBoucher/ReadingNotes
 
 🔗 [List of streams](ReadingNotes/stream-list.md)
+
+
+## MyClippings-Parser
+
+As simple as it could be, a .Net Core parser for the Amazon Kindle's `My Clippings.txt" file. The current version support the "Kindle Paperwhite".
+Transforming the flat file into an Array JSON Objects. We also added XUnit Test. And it's connected to a public Azure Pipeline available [here](https://dev.azure.com/cloud5mins/MyClippings-Parser) 
+
+The idea is to generate a Docker image from this web API
+
+🔗 https://github.com/FBoucher/MyClippings-Parser
+
+🔗 [List of streams](https://github.com/FBoucher/ReadingNotes#streams) (the Summary Generation)
+
 
 
 ## AZ Pics
