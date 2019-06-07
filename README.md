@@ -2,17 +2,35 @@
 
 This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros).
 
-## Projects
+# Projects
 
-### Reading Notes
+## Reading Notes
 
 A Solution to get an article to your eReader then collects your notes and generates a post. This is the third version of the solution. Every times it's to learn new technology.
 
 🔗 https://github.com/FBoucher/ReadingNotes
 
+### Stream Notes
+
+Stream notes and videos from the most recent to the older.
+
+|    Date    |   Project        |  Title                                                        | 
+|------------|------------------|---------------------------------------------------------------|
+| 2019-05-03 | Pre-Reading      | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-01 | Pre-Reading      | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-30 | Pre-Reading      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-26 | Pre-Reading      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-24 | Pre-Reading      | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-22 | Pre-Reading      | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-19 | Pre-Reading      | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-17 | Pre-Reading      | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-08 | Pre-Reading      | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+
+<sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
+
 ---
 
-### MyClippings-Parser
+## MyClippings-Parser
 
 As simple as it could be, a .Net Core parser for the Amazon Kindle's `My Clippings.txt" file. The current version support the "Kindle Paperwhite".
 Transforming the flat file into an Array JSON Objects. We also added XUnit Test. And it's connected to a public Azure Pipeline available [here](https://dev.azure.com/cloud5mins/MyClippings-Parser) 
@@ -21,9 +39,26 @@ The idea is to generate a Docker image from this web API
 
 🔗 https://github.com/FBoucher/MyClippings-Parser
 
+### Stream Notes
+
+Stream notes and videos from the most recent to the older.
+
+|    Date    |  Title                                                        | 
+|------------|---------------------------------------------------------------|
+| 2019-06-03 | [Bringing the Unit test Results from the Container to Azure Pipeline](Streams/2019-06-03-Bringing%20the%20Unit%20test%20Results%20from%20the%20Container%20to%20Azure%20Pipeline.md)
+| 2019-05-27 | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md)|
+| 2019-05-24 | [Dockerize WebAPI and stuff Container from Azure Pipeline](Streams/2019-05-24-Dockerize%20WebAPI%20and%20stuff.md)|
+| 2019-05-21 | [Working on Unit Test with Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-17 | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-17 | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+<sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
+
 ---
 
-### AZ Pics
+## AZ Pics
 
 Az Pics is a simple solution to manage your pictures and images. It will levrage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
 
@@ -31,7 +66,7 @@ Az Pics is a simple solution to manage your pictures and images. It will levrage
 
 ---
 
-### Global Azure Bootcamp 2019
+## Global Azure Bootcamp 2019
 
 All around the world user groups and communities want to learn about Azure and Cloud Computing!
 
@@ -43,7 +78,7 @@ In this repository you will find included all materials used during the demos so
 
 ---
 
-### Azure Power Tools
+## Azure Power Tools
 
 Here a little script that will completely delete all resources of every resources group inside a specific subscription. 
 
@@ -51,34 +86,17 @@ Here a little script that will completely delete all resources of every resource
 
 ---
 
-### Az Unzip Everything
+## Az Unzip Everything
 
 A simple Azure Function to Unzip files from a blob storage to another one 
 
 🔗 https://github.com/FBoucher/AzUnzipEverything
 
+### Stream Notes
 
-## Stream Notes
+Videos from the most recent to the older.
 
-|    Date    |   Project          |  Title                                                        | 
-|------------|--------------------|---------------------------------------------------------------|
-| 2019-06-03 | MyClippings-Parser | [Bringing the Unit test Results from the Container to Azure Pipeline](Streams/2019-06-03-Bringing%20the%20Unit%20test%20Results%20from%20the%20Container%20to%20Azure%20Pipeline.md)
-| 2019-05-27 | MyClippings-Parser | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md)|
-| 2019-05-24 | MyClippings-Parser | [Dockerize WebAPI and stuff Container from Azure Pipeline](Streams/2019-05-24-Dockerize%20WebAPI%20and%20stuff.md)|
-| 2019-05-21 | MyClippings-Parser | [Working on Unit Test with Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-17 | MyClippings-Parser | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-17 | MyClippings-Parser | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-15 | MyClippings-Parser | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-10 | MyClippings-Parser | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-03 | MyClippings-Parser | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-03 | Reading Notes      | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-01 | Reading Notes      | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-30 | Reading Notes      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-26 | Reading Notes      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-24 | Reading Notes      | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-22 | Reading Notes      | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-19 | Reading Notes      | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-17 | Reading Notes      | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-08 | Reading Notes      | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-
-<sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
+|    Date    |  Title                                                        | 
+|------------|---------------------------------------------------------------|
+| 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
+| 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
