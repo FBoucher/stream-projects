@@ -4,7 +4,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
-## Reading Notes
+## [Reading Notes](https://github.com/FBoucher/ReadingNotes)
 
 A Solution to get an article to your eReader then collects your notes and generates a post. This is the third version of the solution. Every times it's to learn new technology.
 
@@ -30,7 +30,7 @@ Stream notes and videos from the most recent to the older.
 
 ---
 
-## MyClippings-Parser
+## [MyClippings-Parser](https://github.com/FBoucher/MyClippings-Parser)
 
 As simple as it could be, a .Net Core parser for the Amazon Kindle's `My Clippings.txt" file. The current version support the "Kindle Paperwhite".
 Transforming the flat file into an Array JSON Objects. We also added XUnit Test. And it's connected to a public Azure Pipeline available [here](https://dev.azure.com/cloud5mins/MyClippings-Parser) 
@@ -54,11 +54,12 @@ Stream notes and videos from the most recent to the older.
 | 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
 | 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
 | 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+
 <sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
 
 ---
 
-## AZ Pics
+## [AZ Pics](https://github.com/FBoucher/AzPics)
 
 Az Pics is a simple solution to manage your pictures and images. It will levrage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
 
@@ -66,7 +67,7 @@ Az Pics is a simple solution to manage your pictures and images. It will levrage
 
 ---
 
-## Global Azure Bootcamp 2019
+## [Global Azure Bootcamp 2019](https://github.com/MSDEVMTL/GlobalAzureBootcamp-2019)
 
 All around the world user groups and communities want to learn about Azure and Cloud Computing!
 
@@ -78,7 +79,7 @@ In this repository you will find included all materials used during the demos so
 
 ---
 
-## Azure Power Tools
+## [Azure Power Tools](https://github.com/FBoucher/AzurePowerTools)
 
 Here a little script that will completely delete all resources of every resources group inside a specific subscription. 
 
@@ -86,7 +87,7 @@ Here a little script that will completely delete all resources of every resource
 
 ---
 
-## Az Unzip Everything
+## [Az Unzip Everything](https://github.com/FBoucher/AzUnzipEverything)
 
 A simple Azure Function to Unzip files from a blob storage to another one 
 
@@ -100,3 +101,4 @@ Videos from the most recent to the older.
 |------------|---------------------------------------------------------------|
 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
 | 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
+
