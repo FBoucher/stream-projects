@@ -14,17 +14,18 @@ A Solution to get an article to your eReader then collects your notes and genera
 
 Stream notes and videos from the most recent to the older.
 
-|    Date    |   Project        |  Title                                                        | 
-|------------|------------------|---------------------------------------------------------------|
-| 2019-05-03 | Pre-Reading      | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-01 | Pre-Reading      | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-30 | Pre-Reading      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-26 | Pre-Reading      | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-24 | Pre-Reading      | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-22 | Pre-Reading      | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-19 | Pre-Reading      | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-17 | Pre-Reading      | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-08 | Pre-Reading      | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+|    Date🔼   |   Project         |  Title                                                        | 
+|------------|-------------------|---------------------------------------------------------------|
+| 2019-06-03 |Summary Generation | [Create an Azure LogicApp to Generate a ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-07-Create%20an%20Azure%20LogicApp%20to%20write%20a%20ReadingNotes%20Summary.md)|
+| 2019-05-03 | Pre-Reading       | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-05-01 | Pre-Reading       | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>| 
+| 2019-04-30 | Pre-Reading       | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-26 | Pre-Reading       | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-24 | Pre-Reading       | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-22 | Pre-Reading       | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-19 | Pre-Reading       | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-17 | Pre-Reading       | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
+| 2019-04-08 | Pre-Reading       | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
 
 <sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
 
@@ -43,7 +44,7 @@ The idea is to generate a Docker image from this web API
 
 Stream notes and videos from the most recent to the older.
 
-|    Date    |  Title                                                        | 
+|    Date🔼   |  Title                                                        | 
 |------------|---------------------------------------------------------------|
 | 2019-06-03 | [Bringing the Unit test Results from the Container to Azure Pipeline](Streams/2019-06-03-Bringing%20the%20Unit%20test%20Results%20from%20the%20Container%20to%20Azure%20Pipeline.md)
 | 2019-05-27 | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md)|
