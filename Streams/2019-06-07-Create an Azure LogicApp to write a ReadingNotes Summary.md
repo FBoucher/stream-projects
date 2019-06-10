@@ -1,5 +1,5 @@
 
-# 2019-06-03 - Create an Azure LogicApp to Generate a ReadingNotes Summary
+# 2019-06-07 - Create an Azure LogicApp to Generate a ReadingNotes Summary
 
 Summary
 -------
