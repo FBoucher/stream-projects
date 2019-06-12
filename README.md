@@ -16,6 +16,8 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |   Project         |  Title                                                        | 
 |------------|-------------------|---------------------------------------------------------------|
+| 2019-06-12 |Summary Generation |[Live Coding - Azure LogicApp for the ReadingNotes project](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-12-Live-Coding-Azure-LogicApp-for-the-ReadingNotes-project.md)|
+| 2019-06-10 |Summary Generation |[Create Azure Logic App to Create ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-10-Create-Azure-Logic-App-to-Create-ReadingNotes-Summary.md)|
 | 2019-06-07 |Summary Generation | [Create an Azure LogicApp to Generate a ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-07-Create%20an%20Azure%20LogicApp%20to%20write%20a%20ReadingNotes%20Summary.md)|
 | 2019-05-03 | Pre-Reading       | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
 | 2019-05-01 | Pre-Reading       | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>| 
