@@ -2,6 +2,8 @@
 
 This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros).
 
+![Stream_Screenshots][Stream_Screenshots]
+
 # Projects
 
 ## [Reading Notes](https://github.com/FBoucher/ReadingNotes)
@@ -105,3 +107,4 @@ Videos from the most recent to the older.
 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
 | 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
 
+[Stream_Screenshots]: Streams/medias/Stream_Screenshots.png
