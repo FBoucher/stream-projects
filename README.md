@@ -6,6 +6,19 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
+## [Not a Dog Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
+
+A workshop 1 hour workshop to update a website using Cognitive services and Azure Function.
+
+### Stream Notes
+
+Stream notes and videos from the most recent to the older.
+
+|    Date🔼  |  Title                                                        | 
+|------------|---------------------------------------------------------------|
+| 2019-06-17 |[Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
+
+
 ## [Reading Notes](https://github.com/FBoucher/ReadingNotes)
 
 A Solution to get an article to your eReader then collects your notes and generates a post. This is the third version of the solution. Every times it's to learn new technology.
