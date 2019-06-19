@@ -14,7 +14,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/433987245)
-- Youtube (soon)
+- [Youtube](https://www.youtube.com/watch?v=v5UM0Pocn4g)
 
 Goals
 -----
