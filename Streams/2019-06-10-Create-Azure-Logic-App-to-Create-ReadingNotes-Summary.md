@@ -10,7 +10,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/437183099)
-- Youtube (soon)
+- [Youtube](https://youtu.be/Hy9PmaiEEh8)
 
 Goals
 -----
@@ -32,34 +32,4 @@ ToDos
 
 - Add Documentation on Git  for project MyClipping-Parser
 - Add on Git a how-to use it for project MyClipping-Parser
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
