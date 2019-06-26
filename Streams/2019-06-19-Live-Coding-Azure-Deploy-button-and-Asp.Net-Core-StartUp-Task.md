@@ -15,15 +15,15 @@ Replay
 Segments
 --------
 
-- 0:00 Greetings
-- 0:01 Streaming annoncement
-- 0:13 Racap
-- 0:51 squash & merged to master
-- 1:13 Start Creating UPload code 
-- 1:07 Check Deployment status
-- 2:34 Uploading Code is working
-- 2:50 Move code in IF of Index. Test works
-- 2:54 Merging to master
+- 0:00 - Greetings
+- 0:01 - Streaming announcement
+- 0:13 - Recap
+- 0:51 - squash & merged to master
+- 1:13 - Start Creating Upload code 
+- 1:07 - Check Deployment status
+- 2:34 - Uploading Code is working
+- 2:50 - Move code in IF of Index. Test works
+- 2:54 - Merging to master
 
 Goals
 -----
