@@ -147,6 +147,7 @@ Videos from the most recent to the older.
 
 |    Date    |  Title                                                        | 
 |------------|---------------------------------------------------------------|
+| 2019-06-28 | [Answering community questions, Azure Function and Coding projects](Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
 | 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
 

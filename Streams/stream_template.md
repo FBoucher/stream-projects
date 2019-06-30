@@ -16,6 +16,8 @@ Replay
 Segments
 --------
 
+- 0:01 - Bonjour, Hi!
+
 
 Goals
 -----
