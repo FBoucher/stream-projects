@@ -147,6 +147,7 @@ Videos from the most recent to the older.
 
 |    Date    |  Title                                                        | 
 |------------|---------------------------------------------------------------|
+| 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything (Azure Function and Blob Storage)](Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
 | 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
 | 2019-06-28 | [Answering community questions, Azure Function and Coding projects](Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
