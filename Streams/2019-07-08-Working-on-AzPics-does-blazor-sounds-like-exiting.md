@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is back on Linux! We is planning the AzPics project work. Try to do a simple "hello word" Blazor app... but things won;t work as expected...
+In this session, Frank is back on Linux! He is planning the AzPics project work. Try to do a simple "hello word" Blazor app... but things won't work as expected...
 
 Replay
 ------
@@ -17,8 +17,8 @@ Segments
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:29:00 - Starting AzPics work
-- 1:17:00 - Starting Hello word in blazor
+- 0:21:00 - Starting AzPics work
+- 1:09:00 - Starting Hello word in blazor
 
 
 Goals
