@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is installing Azure Storage Explorer on a linux machine and make it avaialble into the application list. Create an web application, unfinish, to insert and read data into a Azure Storage Table using .Net Core C# code. 
+In this session, Frank is installing Azure Storage Explorer on a linux machine and make it available into the application list. Create an web application, unfinish, to insert and read data into a Azure Storage Table using .Net Core C# code. 
 
 Replay
 ------
@@ -16,11 +16,11 @@ Replay
 Segments
 --------
 
-- 0:01 - Bonjour, Hi!
-- 0:25 - Install Azure Storage Explorer
-- ???  - Creating a shortcut the the Azure Storage, so it's available from the Applications list
-- ???  - Start playing with Azure Storage
-- 1:55 - wrap-up
+- 0:01:00 - Bonjour, Hi!
+- 0:18:00 - Install Azure Storage Explorer
+- 0:46:00 - Creating a shortcut the the Azure Storage, so it's available from the Applications list
+- 1:07:00  - Start playing with Azure Storage
+- 1:48:00 - wrap-up
 
 
 ToDos

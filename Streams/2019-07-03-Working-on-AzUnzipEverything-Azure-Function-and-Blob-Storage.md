@@ -17,10 +17,10 @@ Replay
 Segments
 --------
 
-- 0:01 Bonjour, Hi!
-- 0:08 Recap
-- 1:29 PR merged
-- 1:30 quick check to deploy Function from ARM
+- 0:01:00 Bonjour, Hi!
+- 0:08:00 Recap
+- 1:29:00 PR merged
+- 1:30:00 quick check to deploy Function from ARM
 
 
 Goals

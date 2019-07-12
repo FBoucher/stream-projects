@@ -19,6 +19,8 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-07-10 | [Learning / playing with  Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
+| 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
 | 2019-06-24 | [Starting a new project AzPics (serverless, AI)](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
 
 

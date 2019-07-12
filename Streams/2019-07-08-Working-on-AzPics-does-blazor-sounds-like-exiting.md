@@ -1,10 +1,10 @@
 
-# 2019-07-08 - 2019-06-12 - Working on AzPics, does #blazor sounds like exiting?
+# 2019-07-08 - Working on AzPics, does #blazor sounds like exiting?
 
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is back on Linux! He is planning the AzPics project work. Try to do a simple "hello word" Blazor app... but things won't work as expected...
 
 Replay
 ------
@@ -16,9 +16,9 @@ Replay
 Segments
 --------
 
-- 0:01 - Bonjour, Hi!
-- 0:29 - Starting AzPics work
-- 1:17 - Starting Hello word in blazor
+- 0:01:00 - Bonjour, Hi!
+- 0:21:00 - Starting AzPics work
+- 1:09:00 - Starting Hello word in blazor
 
 
 Goals
@@ -53,7 +53,6 @@ New Followers
 
 Notes
 ------
-
 
 - encrypt the files prior to upload. when Google offered crazy space I used rsync to sync folders but encrypted everything first (BrettMillerIT)
 - Fontend in blazor
