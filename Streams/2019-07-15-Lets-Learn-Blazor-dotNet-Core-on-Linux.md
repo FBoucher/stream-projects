@@ -37,7 +37,7 @@ Goals
 
 ToDos
 -----
-- [ ] Sounds don't play why?
+- [-] Sounds don't play why?
 
 
 New Followers
