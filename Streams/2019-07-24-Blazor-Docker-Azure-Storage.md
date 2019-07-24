@@ -1,5 +1,5 @@
 
-# 2019-07-22 - Learning Blazor on Linux (running SDK in Docker)
+# 2019-07-24 - Learning Blazor on Linux (running SDK in Docker)
 
 Summary
 -------
@@ -17,25 +17,21 @@ Segments
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:10:00 - Searching Docker Image
-- 0:40:00 - Docker created. Creating the blazor App
-- 0:55:00 - Running App from inside the container WORKS!
-- 0:57:00 - Adding Storage package
-
+- 0:00:00 - 
+- 0:00:00 - 
+- 0:00:00 - 
 
 
 Goals
 -----
 
-- [X] 2019-07-15 - Sounds don't play why?
-- [X] Create new serverside from inside docker
-- [X] Add Azure Storage to the mixt
+- [ ] Run The App
 
 
 
 ToDos
 -----
-- [ ] Run The App
+- [ ] 
 
 
 
