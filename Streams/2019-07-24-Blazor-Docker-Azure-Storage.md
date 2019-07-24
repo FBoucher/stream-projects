@@ -17,16 +17,17 @@ Segments
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:00:00 - 
-- 0:00:00 - 
-- 0:00:00 - 
+- 0:16:00 - Connecting VS to the docker
+- 0:30:00 - Demo work
+- 0:34:00 - Adding some UI
+- 1:29:00 - Simple Demo with images is working
 
 
 Goals
 -----
 
-- [ ] Run The App
-
+- [X] Run The App
+- [ ]
 
 
 ToDos
@@ -41,6 +42,8 @@ Streams Notes/ Snipets/ Shared urls
 - docker run -it --name azpicviewer-dev -v /home/frank/Dev/local/azpicsviewer:/app mcr.microsoft.com/dotnet/core/sdk:3.0.100-preview6-disco bash
 
 - dotnet new blazorserverside -n azpicsviewer -o ./
+
+- docker exec -it azpicviewer-dev bash
 
 
 
