@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this short session, Frank is creating a simple Blazor App to read images from an Azure Storage. The particularity is that the .Net SDK is running from inside a Docker container, on a Linux machine. And things are going great!
 
 Replay
 ------
@@ -28,33 +28,14 @@ Goals
 -----
 
 - [X] 2019-07-15 - Sounds don't play why?
-- [ ] Create new serverside from inside docker
-- [ ] Add Azure Storage to the mixt
+- [X] Create new serverside from inside docker
+- [X] Add Azure Storage to the mixt
 
 
 
 ToDos
 -----
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
+- [ ] Run The App
 
 
 
@@ -66,7 +47,4 @@ Streams Notes/ Snipets/ Shared urls
 - dotnet new blazorserverside -n azpicsviewer -o ./
 
 
-
-References
-----------
 
