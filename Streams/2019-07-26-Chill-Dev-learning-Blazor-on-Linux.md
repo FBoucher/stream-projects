@@ -29,7 +29,7 @@ Goals
 
 ToDos
 -----
-- [ ] 
+- [ ] Why Terminal is not attachable to a Docker container
 
 
 
