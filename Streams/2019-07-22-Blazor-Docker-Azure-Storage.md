@@ -10,7 +10,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube (soon)
+- [Youtube](https://youtu.be/j93K3xTCGes)
 
 
 Segments
@@ -23,7 +23,6 @@ Segments
 - 0:57:00 - Adding Storage package
 
 
-
 Goals
 -----
 
@@ -32,11 +31,9 @@ Goals
 - [X] Add Azure Storage to the mixt
 
 
-
 ToDos
 -----
 - [ ] Run The App
-
 
 
 Streams Notes/ Snipets/ Shared urls
@@ -45,6 +42,4 @@ Streams Notes/ Snipets/ Shared urls
 - docker run -it --name azpicviewer-dev -v /home/frank/Dev/local/azpicsviewer:/app mcr.microsoft.com/dotnet/core/sdk:3.0.100-preview6-disco bash
 
 - dotnet new blazorserverside -n azpicsviewer -o ./
-
-
 

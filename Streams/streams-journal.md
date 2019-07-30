@@ -10,6 +10,7 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-07-22 | [Learning Blazor on Linux (running SDK in Docker)](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-22-Blazor-Docker-Azure-Storage.md) |
 | 2019-07-15 | [Let's Learn Blazor (.Net Core) on Linux](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-15-Lets-Learn-Blazor-dotNet-Core-on-Linux.md) |
 | 2019-07-10 | [Learning / playing with Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
 | 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-08-Working-on-AzPics-does-blazor-sounds-like-exiting.md) |
