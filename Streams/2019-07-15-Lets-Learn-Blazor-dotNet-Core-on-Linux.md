@@ -10,7 +10,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/453179037)
-- Youtube (soon)
+- [Youtube](https://youtu.be/qy6YqWsRmQg)
 
 
 Segments
@@ -37,7 +37,7 @@ Goals
 
 ToDos
 -----
-- [ ] Sounds don't play why?
+- [-] Sounds don't play why?
 
 
 New Followers

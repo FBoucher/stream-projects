@@ -10,11 +10,13 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-07-10 | [Learning / playing with Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
-| 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
-| 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything (Azure Function and Blob Storage)](Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
-| 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
-| 2019-06-28 | [Answering community questions, Azure Function and Coding projects](Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
+| 2019-07-22 | [Learning Blazor on Linux (running SDK in Docker)](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-22-Blazor-Docker-Azure-Storage.md) |
+| 2019-07-15 | [Let's Learn Blazor (.Net Core) on Linux](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-15-Lets-Learn-Blazor-dotNet-Core-on-Linux.md) |
+| 2019-07-10 | [Learning / playing with Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
+| 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-08-Working-on-AzPics-does-blazor-sounds-like-exiting.md) |
+| 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
+| 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
+| 2019-06-28 | [Answering community questions, Azure Function and Coding projects](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
 | 2019-06-24 | [Starting a new project AzPics (serverless, AI)](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
 | 2019-06-17 | [Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
 | 2019-06-19 | [Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md)|
