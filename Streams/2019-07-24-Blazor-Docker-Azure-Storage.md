@@ -10,29 +10,23 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube (soon)
+- [Youtube](https://youtu.be/UBAWqZkJx1I)
 
 
 Segments
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:16:00 - Connecting VS to the docker
-- 0:30:00 - Demo work
-- 0:34:00 - Adding some UI
-- 1:29:00 - Simple Demo with images is working
+- 0:08:00 - Connecting VS to the docker
+- 0:22:00 - Demo work
+- 0:26:00 - Adding some UI
+- 1:21:00 - Simple Demo with images is working
 
 
 Goals
 -----
 
 - [X] Run The App
-- [ ]
-
-
-ToDos
------
-- [ ] 
 
 
 

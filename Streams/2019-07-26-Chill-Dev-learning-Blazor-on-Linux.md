@@ -17,14 +17,16 @@ Segments
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:00:00 - 
-
+- 0:03:45 - Checkout the new Streamlabs Overlay
+- 0:11:14 - Connect VSCOde to Container
+- 0:11:14 - Learning more about css bootstrap 
+- 1:13:27 - Create a new badge with Sheild.io 
 
 Goals
 -----
 
-- [ ] Create simple interface
-- [ ] Try GetBootstrap (css "framework")
+- [X] Create simple interface
+- [X] Try GetBootstrap (css "framework")
 
 
 ToDos
