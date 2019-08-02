@@ -9,7 +9,7 @@ In this short session, Frank is creating a simple Blazor App to read images from
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/456452072)
 - [Youtube](https://youtu.be/j93K3xTCGes)
 
 
