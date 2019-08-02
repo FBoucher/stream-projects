@@ -1,6 +1,6 @@
 # Stream Projects
 
-This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros).
+This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros). The complete list of the streams is available in the [journal](Streams/streams-journal.md), here are those where I we worked on a specific project.
 
 ![Stream_Screenshots][Stream_Screenshots]
 
@@ -9,7 +9,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ## [AZ Pics](https://github.com/FBoucher/AzPics)
 
-Az Pics is a simple solution to manage your pictures and images. It will levrage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
+Az Pics is a simple solution to manage your pictures and images. It will leverage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
 
 🔗 https://github.com/FBoucher/AzPics
 
@@ -19,7 +19,7 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-07-10 | [Learning / playing with  Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
+| 2019-07-10 | [Learning / playing with Azure Storage table and C#](Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
 | 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
 | 2019-06-24 | [Starting a new project AzPics (serverless, AI)](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
 
