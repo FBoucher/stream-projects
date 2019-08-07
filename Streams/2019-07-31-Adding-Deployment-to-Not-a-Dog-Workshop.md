@@ -9,25 +9,25 @@ In this session, Frank is creating an Azure Function and start an new ARM templa
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/460505805)
 - Youtube (soon)
 
 
-Segments
+Timestamps
 --------
 
 - 0:01:00 - Bonjour, Hi!
-- 0:21:00 - Back to ARM template adding Congnitive Service
-- 0:54:00 - Time to validate the ARM template
-- 1:20:00 - Template passed validation now try to deploy.
-- 1:55:00 - Template deployed without Function Code (empty FunctionApp)
+- 0:15:16 - Back to ARM template adding Congnitive Service
+- 0:48:00 - Time to validate the ARM template
+- 1:14:00 - Template passed validation now try to deploy.
+- 1:49:00 - Template deployed without Function Code (empty FunctionApp)
 
 Goals
 -----
 
 - [X] Add Function Setting into ARM template
-- [ ] Add Function Code (sourcecontrol node) into ARM template
-- [ ] Add button to deploy the final solution
+- [X] Add Function Code (sourcecontrol node) into ARM template
+- [X] Add button to deploy the final solution
 - [ ] Add badges
 - [ ] Add license, contribution, and ... the other one
 
