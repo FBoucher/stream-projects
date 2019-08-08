@@ -20,7 +20,7 @@ Timestamps
 - 00:05:00 - Building/ the On-the-Road setup
 - 00:43:06 - Recap of the Issue with the deployment
 - 01:04:01 - Exploring the Kudu deployment script option
-- 01:24:03 - What if we use a different branch the the Function code... 
+- 01:24:03 - What if we use a different branch the Function code... 
 
 
 Goals
@@ -48,14 +48,4 @@ Cheers
 
 - [@copperbeardy](https://www.twitch.tv/copperbeardy): 10 bits
 
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
