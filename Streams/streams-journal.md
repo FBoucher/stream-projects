@@ -10,7 +10,10 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-07-26 | [Chill-Dev learning Blazor on Linux)](2019-07-26-Chill-Dev-learning-Blazor-on-Linux.md) |
+| 2019-08-02 | [Fixing the on the road setup](2019-08-02-Fixing-the-On-the-Road-Setup.md) |
+| 2019-07-31 | [Adding Deployment to the Not-a-Dog-Workshop](2019-07-31-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
+| 2019-07-29 | [Adding Deployment to the Not-a-Dog-Workshop](Streams\2019-07-29-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
+| 2019-07-26 | [Chill-Dev learning Blazor on Linux](2019-07-26-Chill-Dev-learning-Blazor-on-Linux.md) |
 | 2019-07-24 | [Learning Blazor on Linux (running SDK in Docker)](2019-07-24-Blazor-Docker-Azure-Storage.md) |
 | 2019-07-22 | [Learning Blazor on Linux (running SDK in Docker)](2019-07-22-Blazor-Docker-Azure-Storage.md) |
 | 2019-07-15 | [Let's Learn Blazor (.Net Core) on Linux](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-15-Lets-Learn-Blazor-dotNet-Core-on-Linux.md) |
