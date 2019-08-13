@@ -8,7 +8,7 @@ In this session, Frank is finishing the new button to deploy to Azure the result
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/463091948)
 - [Youtube](https://youtu.be/1greOS9AHB8)
 
 
