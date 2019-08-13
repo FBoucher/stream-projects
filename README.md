@@ -39,10 +39,11 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼  |  Title                                                        | 
 |------------|---------------------------------------------------------------|
+| 2019-08-05 | [Chill Azure Development](2019-08-05-Chill-Azure-Development.md) |
 | 2019-07-31 | [Adding Deployment to the Not-a-Dog-Workshop](2019-07-31-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
 | 2019-07-29 | [Adding Deployment to the Not-a-Dog-Workshop](Streams\2019-07-29-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
-| 2019-06-17 |[Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
-| 2019-06-19 |[Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md)|
+| 2019-06-17 | [Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
+| 2019-06-19 | [Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md)|
 
 
 ## [Reading Notes](https://github.com/FBoucher/ReadingNotes)
@@ -151,7 +152,7 @@ Videos from the most recent to the older.
 
 |    Date    |  Title                                                        | 
 |------------|---------------------------------------------------------------|
-| 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything (Azure Function and Blob Storage)](Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
+| 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything](Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
 | 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
 | 2019-06-28 | [Answering community questions, Azure Function and Coding projects](Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
