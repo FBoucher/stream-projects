@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is starting a new project to Automatically delete "expired" resources inside our Azure Subscription. First things dto do is to get familliar with the Kusto Query Language (KQL)...
+In this session, Frank is starting a new project to Automatically delete "expired" resources inside our Azure Subscription. First things to do is to get familiar with the Kusto Query Language (KQL)...
 
 Replay
 ------

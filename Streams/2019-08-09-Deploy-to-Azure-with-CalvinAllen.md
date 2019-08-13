@@ -1,5 +1,5 @@
 
-# 2019-06-12 - @_CalvinAllen and Search
+# 2019-06-12 - Deploy to Azure with @_CalvinAllen
 
 Summary
 -------
