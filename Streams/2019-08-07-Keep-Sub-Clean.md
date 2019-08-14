@@ -16,9 +16,13 @@ Replay
 Segments
 --------
 
-- 0:01 - Bonjour, Hi!
-- 00:00:05 - Explain the project.
-- 00:00:14 - Explore the Azure Queries
+- 00:00:01 - Bonjour, Hi!
+- 00:01:53 - Share some news
+- 00:03:33 - Explain the project.
+- 00:16:00 - Explore the Azure Queries
+- 01:03:57 - Keyboard talk ;p
+- 01:07:16 - Debugging Azure Graph Query
+- 01:52:49 - Recap, what's next
 
 
 Goals
@@ -29,11 +33,6 @@ Goals
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
 
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
@@ -48,13 +47,6 @@ New Subscribers
 
 - [@CalvinAAllen](https://www.twitch.tv/CalvinAAllen)
 - [@theMichaelJolley](https://www.twitch.tv/theMichaelJolley)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 
