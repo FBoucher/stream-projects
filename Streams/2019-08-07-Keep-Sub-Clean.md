@@ -10,10 +10,10 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube (soon)
+- [Youtube](https://youtu.be/V4CJP4pi-28)
 
 
-Segments
+Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!

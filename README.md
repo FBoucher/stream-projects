@@ -15,7 +15,7 @@ Az Pics is a simple solution to manage your pictures and images. It will leverag
 
 ### Stream Notes
 
-Stream notes and videos from the most recent to the older.
+*Stream notes and videos from the most recent to the older.*
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
@@ -35,7 +35,7 @@ A workshop 1 hour workshop to update a website using Cognitive services and Azur
 
 ### Stream Notes
 
-Stream notes and videos from the most recent to the older.
+*Stream notes and videos from the most recent to the older.*
 
 |    Date🔼  |  Title                                                        | 
 |------------|---------------------------------------------------------------|
@@ -54,7 +54,7 @@ A Solution to get an article to your eReader then collects your notes and genera
 
 ### Stream Notes
 
-Stream notes and videos from the most recent to the older.
+*Stream notes and videos from the most recent to the older.*
 
 |    Date🔼   |   Project         |  Title                                                        | 
 |------------|-------------------|---------------------------------------------------------------|
@@ -90,7 +90,7 @@ The idea is to generate a Docker image from this web API
 
 ### Stream Notes
 
-Stream notes and videos from the most recent to the older.
+*Stream notes and videos from the most recent to the older.*
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
@@ -130,11 +130,19 @@ In this repository you will find included all materials used during the demos so
 
 ## [Azure Power Tools](https://github.com/FBoucher/AzurePowerTools)
 
-Here a little script that will completely delete all resources of every resources group inside a specific subscription. 
+Here a few little scripts that could help managing your Azure subscription. There is one that will completely delete all resources of every resources group inside a specific subscription. 
+
+We started creating a new one to Automatically delete "expired" resources inside our Azure subscription.
 
 🔗https://github.com/FBoucher/AzurePowerTools
 
+### Stream Notes
 
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](2019-08-07-Keep-Sub-Clean.md) |
 
 ---
 
@@ -148,7 +156,7 @@ A simple Azure Function to Unzip files from a blob storage to another one
 
 ### Stream Notes
 
-Videos from the most recent to the older.
+*Videos from the most recent to the older.*
 
 |    Date    |  Title                                                        | 
 |------------|---------------------------------------------------------------|
