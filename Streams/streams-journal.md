@@ -10,6 +10,7 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-08-09 | [Deploy to Azure with @_CalvinAllen](2019-08-09-Deploy-to-Azure-with-CalvinAllen.md) [<sup>2</sup>](#2) |
 | 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](2019-08-07-Keep-Sub-Clean.md) |
 | 2019-08-05 | [Chill Azure Development](2019-08-05-Chill-Azure-Development.md) |
 | 2019-08-02 | [Fixing the on the road setup](2019-08-02-Fixing-the-On-the-Road-Setup.md) |
@@ -33,25 +34,27 @@ Stream notes and videos from the most recent to the older.
 | 2019-06-03 | [Bringing the Unit test Results from the Container to Azure Pipeline](Streams/2019-06-03-Bringing%20the%20Unit%20test%20Results%20from%20the%20Container%20to%20Azure%20Pipeline.md)
 | 2019-05-27 | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md)|
 | 2019-05-24 | [Dockerize WebAPI and stuff Container from Azure Pipeline](Streams/2019-05-24-Dockerize%20WebAPI%20and%20stuff.md)|
-| 2019-05-21 | [Working on Unit Test with Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-17 | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-17 | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-03 | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-05-01 | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>| 
-| 2019-04-30 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)<sup>1</sup>|
-| 2019-04-26 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-24 | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-22 | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-19 | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-17 | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2019-04-08 | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)<sup>1</sup>|
-| 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
+| 2019-05-21 | [Working on Unit Test with Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-17 | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) [<sup>2</sup>](#2)|
+| 2019-05-17 | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-03 | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-05-01 | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)| 
+| 2019-04-30 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)[<sup>1</sup>](#1)|
+| 2019-04-26 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-24 | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-22 | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-19 | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-17 | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2019-04-08 | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
+| 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)[<sup>1</sup>](#1)|
 
-<sup>1</sup> This stream was recorded before I start taking notes, only the video remains.
+<a class="anchor" id="1"><sup>1</sup></a> This stream was recorded before I start taking notes, only the video remains.
+
+<a class="anchor" id="2"><sup>2</sup></a> Those stream were recorded with a guest.
 
 
 [Stream_Screenshots]: medias/Stream_Screenshots.png
