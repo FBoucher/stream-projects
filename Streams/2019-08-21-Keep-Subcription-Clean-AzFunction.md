@@ -23,34 +23,23 @@ Segments
 Goals
 -----
 
-- [ ] Can it easely be done with Azure Function instead of Automation?
-- [ ] Create an easy way to add tags
+- [X] Can it easely be done with Azure Function instead of Automation?
+- [\] Create an easy way to add tags
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
 
 
 ToDos
 -----
-- [ ] 
+- [ ] when you function will execute what identity will it use to list your resources ? (@Lanwalker2)
+- [ ] improve the ReamMe file (like a lot)
 
 
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
+- [@PantherDev](https://www.twitch.tv/PantherDev)
+- [@Instafluff](https://www.twitch.tv/Instafluff)
 
 
 
