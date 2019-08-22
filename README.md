@@ -7,6 +7,27 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 # Projects
 
 
+## [Az Subcription Cleaner](https://github.com/FBoucher/AzSubcriptionCleaner)
+
+Az Subcription Cleaner is a simple tool that will automatically delete "expired" resources inside our Azure Subscription.
+
+🔗 https://github.com/FBoucher/AzSubcriptionCleaner
+
+### Stream Notes
+
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2019-08-14 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-14-Keep-Subcription-Clean.md) |
+| 2019-08-12 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-12-Keep-Subcription-Clean.md) |
+| 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](Streams/2019-08-07-Keep-Sub-Clean.md) |
+
+
+---
+
+
+
 ## [AZ Pics](https://github.com/FBoucher/AzPics)
 
 Az Pics is a simple solution to manage your pictures and images. It will leverage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 

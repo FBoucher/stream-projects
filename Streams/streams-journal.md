@@ -10,6 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-08-14 | [Working on a Tool to keep our Azure Subscription Clean](2019-08-14-Keep-Subcription-Clean.md) |
+| 2019-08-12 | [Working on a Tool to keep our Azure Subscription Clean](2019-08-12-Keep-Subcription-Clean.md) |
 | 2019-08-09 | [Deploy to Azure with @_CalvinAllen](2019-08-09-Deploy-to-Azure-with-CalvinAllen.md) [<sup>2</sup>](#2) |
 | 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](2019-08-07-Keep-Sub-Clean.md) |
 | 2019-08-05 | [Chill Azure Development](2019-08-05-Chill-Azure-Development.md) |

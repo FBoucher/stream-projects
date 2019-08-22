@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is starting a new project to Automatically delete "expired" resources inside our Azure Subscription. First things dto do is to get familliar with the Kusto Query Language (KQL)...
+In this session, Frank is creating an Azure Automation for one of the Azure Power Tool. The one that automatically deletes "expired" resources inside our Azure Subscription. Once fully created and functional, he will export the ARM template to look at what kind of resources he will need in the deployment of that solution.
 
 Replay
 ------
 
-- [Twitch(for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch(for 60 days)](https://www.twitch.tv/videos/467199209)
 - Youtube (soon)
 
 
@@ -17,9 +17,10 @@ Segments
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:05 - Recap the project.
-- 00:16:05 - Create the Automation RunBook.
-- 01:53:05 - Export ARM Template
+- 00:00:44 - Recap the project.
+- 00:09:42 - Create the Automation RunBook.
+- 01:30:36 - Add code in the script to delete empty Resources Group
+- 01:48:17 - Export ARM Template
 
 
 Goals
