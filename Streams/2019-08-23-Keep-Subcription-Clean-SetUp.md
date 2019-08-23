@@ -24,9 +24,9 @@ Segments
 Goals
 -----
 
-- [ ] Explain offline modifications
-- [ ] Fix Runtime bug
-- [ ] Import Library in Azure
+- [X] Explain offline modifications
+- [X] Fix Runtime bug
+- [X] Import Library in Azure
 - [\] Create an easy way to add tags
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
@@ -34,6 +34,7 @@ Goals
 
 ToDos
 -----
+- [ ] Fix  ERROR: Run Connect-AzAccount to login.
 - [ ] when you function will execute what identity will it use to list your resources ? (@Lanwalker2)
 - [ ] improve the ReamMe file (like a lot)
 
@@ -41,16 +42,26 @@ ToDos
 New Followers
 -------------
 
-- [@PantherDev](https://www.twitch.tv/PantherDev)
-- [@Instafluff](https://www.twitch.tv/Instafluff)
+- [@anilkam ](https://www.twitch.tv/anilkam)
+
+Cheers
+-------------
+
+- [@CopperBeardy](https://www.twitch.tv/CopperBeardy) 20?
+
 
 
 
 Streams Notes/ Snipets/ Shared urls
 -----------------------------------
 
-This query return the resources that are expired
-- az graph query -q 'where todatetime(tags.expireOn) > now() | project name, type, expireOn=tostring(tags.expireOn) | limit 5'
+- I need to change the backgroud (green screen)
+    - Mountain suggested by [@SurlyDev](https://www.twitch.tv/SurlyDev)
+    - Big eyeball suggested by [@CopperBeardy](https://www.twitch.tv/CopperBeardy)
+    - Something animated
+- add discord 
+- implement Shoutout !so commands
+
 
 
 References
