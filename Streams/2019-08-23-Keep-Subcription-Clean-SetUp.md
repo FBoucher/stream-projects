@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is continuing project to Automatically delete "expired" resources inside our Azure Subscription....
+In this session, Frank is fixing some bug into the Azure Function for AzSubscriptionCleaner. Adding the Az.ResourceGraph module. Chatting with the community about some improvements related to the stream setup.
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/471174539)
 - Youtube(soon)
 
 
