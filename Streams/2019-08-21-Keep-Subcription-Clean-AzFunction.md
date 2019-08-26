@@ -31,7 +31,7 @@ Goals
 -----
 
 - [X] Can it easily be done with Azure Function instead of Automation?
-- [\] Create an easy way to add tags
+- [ ] Create an easy way to add tags
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
 
