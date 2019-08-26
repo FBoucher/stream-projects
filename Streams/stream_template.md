@@ -10,13 +10,13 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube (soon)
+- Youtube(soon)
 
 
-Segments
+Timestamps
 --------
 
-- 0:01 - Bonjour, Hi!
+- 00:00:01 - Bonjour, Hi!
 
 
 Goals
