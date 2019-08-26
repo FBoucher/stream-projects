@@ -17,7 +17,7 @@ Timestamps
 ----------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:03:30 - Intoduction to AzSubcriptionCleaner
+- 00:03:30 - Introduction to AzSubcriptionCleaner
 - 00:03:53 - Explain offline update
 - 00:18:00 - Update the ARM template fix the Runtime
 - 00:18:00 - Start searching for how to add module
@@ -31,7 +31,7 @@ Goals
 - [X] Explain offline modifications
 - [X] Fix Runtime bug
 - [X] Import Library in Azure
-- [\] Create an easy way to add tags
+- [ ] Create an easy way to add tags
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
 
@@ -46,7 +46,7 @@ ToDos
 New Followers
 -------------
 
-- [@anilkam ](https://www.twitch.tv/anilkam)
+- [@anilkam](https://www.twitch.tv/anilkam)
 
 Cheers
 -------------
