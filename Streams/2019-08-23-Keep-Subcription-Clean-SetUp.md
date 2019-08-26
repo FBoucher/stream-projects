@@ -13,12 +13,16 @@ Replay
 - Youtube(soon)
 
 
-Segments
---------
+Timestamps
+----------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:05:00 - Intoduction to AzSubcriptionCleaner
-- 00:10:05 - Explain offline modifications
+- 00:03:30 - Intoduction to AzSubcriptionCleaner
+- 00:03:53 - Explain offline update
+- 00:18:00 - Update the ARM template fix the Runtime
+- 00:18:00 - Start searching for how to add module
+- 01:20:56 - Adding PowerShell module to the Azure Function
+- 01:32:27 - Chatting about some suggestions for the stream
 
 
 Goals
