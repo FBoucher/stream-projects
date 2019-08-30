@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is fixing some bug into the Azure Function for AzSubscriptionCleaner. Adding the Az.ResourceGraph module. Chatting with the community about some improvements related to the stream setup.
+In this session, Frank is ...
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/471174539)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 
@@ -17,20 +17,15 @@ Timestamps
 ----------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:03:30 - Introduction to AzSubcriptionCleaner
-- 00:03:53 - Explain offline update
-- 00:18:00 - Update the ARM template fix the Runtime
-- 00:18:00 - Start searching for how to add module
-- 01:20:56 - Adding PowerShell module to the Azure Function
-- 01:32:27 - Chatting about some suggestions for the stream
+- 00:00:00 - Show & Tell
+- 00:00:00 - Introduction to AzSubcriptionCleaner
+- 00:00:00 - Start working on Bug ERROR: Run Connect-AzAccount to login.
 
 
 Goals
 -----
 
-- [X] Explain offline modifications
-- [X] Fix Runtime bug
-- [X] Import Library in Azure
+- [ ] Fix  ERROR: Run Connect-AzAccount to login.
 - [ ] Create an easy way to add tags
 - [ ] Sent notification with list of expired resources
 - [ ] capture any errors that might happen
@@ -46,12 +41,12 @@ ToDos
 New Followers
 -------------
 
-- [@anilkam](https://www.twitch.tv/anilkam)
+- [@](https://www.twitch.tv/)
 
 Cheers
 -------------
 
-- [@CopperBeardy](https://www.twitch.tv/CopperBeardy) 20?
+- [@](https://www.twitch.tv/)
 
 
 
@@ -59,12 +54,7 @@ Cheers
 Streams Notes/ Snipets/ Shared urls
 -----------------------------------
 
-- I need to change the backgroud (green screen)
-    - Mountain suggested by [@SurlyDev](https://www.twitch.tv/SurlyDev)
-    - Big eyeball suggested by [@CopperBeardy](https://www.twitch.tv/CopperBeardy)
-    - Something animated
-- add discord 
-- implement Shoutout !so commands
+- 
 
 
 
