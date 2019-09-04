@@ -20,16 +20,17 @@ Timestamps
 - 00:31:01 - Azure Function is Working!
 - 00:31:01 - Edit Azure Function ARM template
 - 00:31:01 - Edit ReadMe Function
-
+- 01:31:01 - Add tasks in Board
+- 01:31:01 - wrapping up
 
 
 Goals
 -----
 
-- [ ] 2 Big News!
-- [ ] Add the Automation in a sub Folder
+- [X] 2 Big News!
+- [X] Add the Automation in a sub Folder
 - [ ] Create tasks in the board
-- [ ] Update ReadMe
+- [X] Update ReadMe
 - [ ] Instruction to add tag in Azure CLI
 
 
