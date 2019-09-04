@@ -17,15 +17,17 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:01 - Bonjour, Hi!
 
 
 Goals
 -----
 
-- [ ] Move the function in a sub Folder
+- [X] Move the function in a sub Folder
 - [ ] Add the Automation in a sub Folder
 - [ ] Create tasks in the board
 - [ ] Update ReadMe
+- [ ] Instruction to add tag in Azure CLI
 
 
 
@@ -57,7 +59,7 @@ Cheers
 Streams Notes/ Snipets/ Shared urls
 -----------------------------------
 
-- 
+- https://markheath.net/post/managed-identity-key-vault-azure-functions
 
 
 References
