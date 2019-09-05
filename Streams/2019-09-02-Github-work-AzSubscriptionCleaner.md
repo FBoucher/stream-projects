@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is restructuring the GitHub project to have two solutions. One using Azure Automation, and the other one using Azure Function. @Lanwalker2 join mid-stream and suggested to do some test/ to understand with the Function is throwing errors. An chill and relax stream.
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/476052694)
 - Youtube(soon)
 
 
@@ -17,7 +17,12 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - Bonjour, Hi!
+- 00:01:12 - Stream's plan 
+- 00:07:06 - Creating sub folders moving stuff, working on the ReadMe files
+- 00:48:16 - @Lanwalker2 join by voice, and we talk about WoW and games
+- 01:05:04 - Doing a few simple test on the Function version with @Lanwalker2 
+- 01:10:39 - Chatting about Nintendo switch games
+- 01:18:22 - Back to the experiment/ test on the Azure Function
 
 
 Goals
@@ -28,31 +33,6 @@ Goals
 - [ ] Create tasks in the board
 - [ ] Update ReadMe
 - [ ] Instruction to add tag in Azure CLI
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 
