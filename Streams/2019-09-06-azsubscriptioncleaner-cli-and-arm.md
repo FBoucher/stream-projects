@@ -1,5 +1,5 @@
 
-# 2019-09-04 - Azure Function and GitHub management for AzSubscription Cleaner
+# 2019-09-06 - Azure Subscription Cleaner CLI and ARM
 
 Summary
 -------
@@ -17,21 +17,14 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:31:01 - Azure Function is Working!
-- 00:31:01 - Edit Azure Function ARM template
-- 00:31:01 - Edit ReadMe Function
-- 01:31:01 - Add tasks in Board
-- 01:31:01 - wrapping up
 
 
 Goals
 -----
 
-- [X] 2 Big News!
-- [X] Add the Automation in a sub Folder
-- [X] Create tasks in the board
-- [X] Update ReadMe
 - [ ] Instruction to add tag in Azure CLI
+- [ ] ARM template for Automation
+- [ ] Serverless Library
 
 
 
@@ -63,7 +56,7 @@ Cheers
 Streams Notes/ Snipets/ Shared urls
 -----------------------------------
 
-- https://markheath.net/post/managed-identity-key-vault-azure-functions
+- 
 
 
 References
