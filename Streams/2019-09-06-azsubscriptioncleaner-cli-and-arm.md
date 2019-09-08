@@ -1,5 +1,5 @@
 
-# 2019-09-06 - Azure Subscription Cleaner CLI and ARM
+# 2019-09-06 - Azure Subscription Cleaner Mostly Azure CLI 
 
 Summary
 -------
