@@ -19,6 +19,9 @@ Az Subcription Cleaner is a simple tool that will automatically delete "expired"
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-08-02 | [GitHub management for AzSubscription Cleaner](2019-09-02-Github-work-AzSubscriptionCleaner.md) |
+| 2019-08-04 | [Azure Function and GitHub management for AzSubscription Cleaner](2019-09-04-Function-and-Github-work-AzSubscriptionCleaner.md) |
+| 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI ](2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
 | 2019-08-30 | [Working on AzCleanerSubscription - Adding Identity in Azure Function](Streams/2019-08-30-AzCleanerSubscription-Adding-Identity.md) |
 | 2019-08-14 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-14-Keep-Subcription-Clean.md) |
 | 2019-08-12 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-12-Keep-Subcription-Clean.md) |
