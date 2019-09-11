@@ -10,7 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI ](2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
+| 2019-09-09 | [ Working on a thumbnail... Chat, relax](2019-09-09-Working-on-a-thumbnail-chat-relax.md) |
+| 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI](2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
 | 2019-08-04 | [Azure Function and GitHub management for AzSubscription Cleaner](2019-09-04-Function-and-Github-work-AzSubscriptionCleaner.md) |
 | 2019-08-02 | [GitHub management for AzSubscription Cleaner](2019-09-02-Github-work-AzSubscriptionCleaner.md) |
 | 2019-08-30 | [Working on AzCleanerSubscription - Adding Identity in Azure Function](2019-08-30-AzCleanerSubscription-Adding-Identity.md) |
