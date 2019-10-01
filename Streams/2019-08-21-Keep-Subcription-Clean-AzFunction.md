@@ -10,7 +10,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/470394622)
-- Youtube(soon)
+- [Youtube](https://youtu.be/TFvjaCZoNJI)
 
 
 Segments

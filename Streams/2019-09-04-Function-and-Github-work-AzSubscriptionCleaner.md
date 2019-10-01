@@ -4,24 +4,26 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is fixing the last error in the Azure Subscription Cleaner, Function version related to Identity. Then update the ARM tempalte, the ReadMe and add some todos on a GLO board!
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/476831551)
+- [Youtube](https://youtu.be/Tu0GX8Ps4to)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:31:01 - Azure Function is Working!
-- 00:31:01 - Edit Azure Function ARM template
-- 00:31:01 - Edit ReadMe Function
-- 01:31:01 - Add tasks in Board
-- 01:31:01 - wrapping up
+- 00:02:05 - Some news...
+- 00:10:41 - Starting where we left Azure Function-Identity
+- 00:18:16 - Azure Function is Working!
+- 00:28:16 - Edit Azure Function ARM template
+- 00:39:07 - Edit ReadMe Function add final step to deploy
+- 01:30:01 - Add tasks in Board
+- 01:51:51 - wrapping up
 
 
 Goals
@@ -32,33 +34,6 @@ Goals
 - [X] Create tasks in the board
 - [X] Update ReadMe
 - [ ] Instruction to add tag in Azure CLI
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
 
 Streams Notes/ Snipets/ Shared urls
 -----------------------------------
