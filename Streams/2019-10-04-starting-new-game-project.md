@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is starting a new project. It's a text-based adventure game that will (eventually) use AI. Starting by the beginning, he will list the tech and features of this project.
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/490059514)
 - Youtube(soon)
 
 
@@ -17,13 +17,17 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:02:10 - I read a book about...
+- 00:18:37 - Draft notes about game-plan
+- 00:32:54 - try to Run in debug the Project Dover
+- 00:38:37 - @1kevgriff (author of Project Dover), visit on the stream
+- 00:54:43 - Test Project Dover in VS2019
+- 01:22:41 - Add Item list in a room
 
 Goals
 -----
 
-- [ ] Something...
-
+- [X] Just get started... and see it it look fun.
 
 
 ToDos
@@ -37,13 +41,7 @@ New Followers
 - [@nopogo_tv](https://www.twitch.tv/nopogo_tv)
 - [@1kevgriff](https://www.twitch.tv/1kevgriff)
 - [@JTsom](https://www.twitch.tv/JTsom)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
+- [@iAmRuk](https://www.twitch.tv/iAmRuk)
 
 
 Raiding
@@ -53,7 +51,7 @@ Raiding
 
 
 
-Streams Notes/ Snipets/ Shared urls
+Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
 Blind2050 - https://github.com/FBoucher/ProjectDover
@@ -82,4 +80,5 @@ References
 ----------
 
 - Inspired from: https://github.com/1kevgriff/ProjectDover
+
 - Interesting book: https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels
