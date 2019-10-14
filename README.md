@@ -6,12 +6,11 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
+## [Blind 2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
-## [Az Subcription Cleaner](https://github.com/FBoucher/AzSubcriptionCleaner)
+Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
-Az Subcription Cleaner is a simple tool that will automatically delete "expired" resources inside our Azure Subscription.
-
-🔗 https://github.com/FBoucher/AzSubcriptionCleaner
+🔗 https://github.com/FBoucher/ProjectDover
 
 ### Stream Notes
 
@@ -19,9 +18,29 @@ Az Subcription Cleaner is a simple tool that will automatically delete "expired"
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI ](2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
-| 2019-08-04 | [Azure Function and GitHub management for AzSubscription Cleaner](2019-09-04-Function-and-Github-work-AzSubscriptionCleaner.md) |
-| 2019-08-02 | [GitHub management for AzSubscription Cleaner](2019-09-02-Github-work-AzSubscriptionCleaner.md) |
+| 2019-10-04 | [Starting new game project](Streams/2019-10-04-starting-new-game-project.md) |
+
+
+---
+
+
+## [Azure Subscription Cleaner (AzSubscriptionCleaner)](https://github.com/FBoucher/AzSubscriptionCleaner)
+
+Azure Subscription Cleaner is a simple tool that will automatically delete "expired" resources inside our Azure Subscription.
+
+🔗 https://github.com/FBoucher/AzSubscriptionCleaner
+
+### Stream Notes
+
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2019-10-02 | [Building ARM template for Azure Subscription Cleaner](Streams/2019-10-02-Building-ARM-for-AzSubscriptionCleaner.md) |
+| 2019-09-30 | [GitHub Azure and Chatting](Streams/2019-09-30-github-azure-chatting.md) |
+| 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI ](Streams/2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
+| 2019-08-04 | [Azure Function and GitHub management for AzSubscription Cleaner](Streams/2019-09-04-Function-and-Github-work-AzSubscriptionCleaner.md) |
+| 2019-08-02 | [GitHub management for AzSubscription Cleaner](Streams/2019-09-02-Github-work-AzSubscriptionCleaner.md) |
 | 2019-08-30 | [Working on AzCleanerSubscription - Adding Identity in Azure Function](Streams/2019-08-30-AzCleanerSubscription-Adding-Identity.md) |
 | 2019-08-14 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-14-Keep-Subcription-Clean.md) |
 | 2019-08-12 | [Working on a Tool to keep our Azure Subscription Clean](Streams/2019-08-12-Keep-Subcription-Clean.md) |
@@ -64,11 +83,16 @@ A workshop 1 hour workshop to update a website using Cognitive services and Azur
 
 |    Date🔼  |  Title                                                        | 
 |------------|---------------------------------------------------------------|
-| 2019-08-05 | [Chill Azure Development](2019-08-05-Chill-Azure-Development.md) |
-| 2019-07-31 | [Adding Deployment to the Not-a-Dog-Workshop](2019-07-31-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
-| 2019-07-29 | [Adding Deployment to the Not-a-Dog-Workshop](Streams\2019-07-29-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
+| 2019-08-05 | [Chill Azure Development](Streams/2019-08-05-Chill-Azure-Development.md) |
+| 2019-07-31 | [Adding Deployment to the Not-a-Dog-Workshop](Streams/2019-07-31-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
+| 2019-07-29 | [Adding Deployment to the Not-a-Dog-Workshop](Streams/2019-07-29-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
 | 2019-06-17 | [Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
 | 2019-06-19 | [Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md)|
+
+
+
+---
+
 
 
 ## [Reading Notes](https://github.com/FBoucher/ReadingNotes)
@@ -167,7 +191,9 @@ We started creating a new one to Automatically delete "expired" resources inside
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](2019-08-07-Keep-Sub-Clean.md) |
+| 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](Streams/2019-08-07-Keep-Sub-Clean.md) |
+
+
 
 ---
 
@@ -192,3 +218,6 @@ A simple Azure Function to Unzip files from a blob storage to another one
 | 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)<sup>1</sup>|
 
 [Stream_Screenshots]: Streams/medias/Stream_Screenshots.png
+
+
+---
