@@ -13,7 +13,6 @@ Stream notes and videos from the most recent to the older.
 | 2019-10-04 | [Starting new game project](2019-10-04-starting-new-game-project.md) |
 | 2019-10-02 | [Building ARM template for Azure Subscription Cleaner](2019-10-02-Building-ARM-for-AzSubscriptionCleaner.md) |
 | 2019-09-30 | [GitHub Azure and Chatting](2019-09-30-github-azure-chatting.md) |
-
 | 2019-09-09 | [Working on a thumbnail... Chat, relax](2019-09-09-Working-on-a-thumbnail-chat-relax.md) |
 | 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI](2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |
 | 2019-08-04 | [Azure Function and GitHub management for AzSubscription Cleaner](2019-09-04-Function-and-Github-work-AzSubscriptionCleaner.md) |

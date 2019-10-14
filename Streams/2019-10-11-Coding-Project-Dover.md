@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is creating a nice kanban board, using GitKran GLO, for the project and start working on what will be the inventory system.
+In this session, Frank is creating a nice kanban board, using GitKraken GLO, for the project and start working on what will be the inventory system.
 
 Replay
 ------
