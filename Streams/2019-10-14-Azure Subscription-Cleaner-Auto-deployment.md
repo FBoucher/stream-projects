@@ -3,7 +3,7 @@
 
 Summary
 -------
-
+In this session, Frank is working on an automatic deployment from GitHub using and Azure Resource Manager (ARM) template. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. 
 
 Replay
 ------
@@ -16,17 +16,16 @@ Timestamps
 --------
 
 - 00:00:21 - Bonjour, Hi!
-- 00:00:21 - Start cleaning the ARM template
-- 00:00:21 - Planning to do a 2 step deployment
-- 00:00:21 - Deployment Error....
-- 00:00:21 - Modules need to have uri... download them from NuGet add it to GitHub.
-
+- 00:12:31 - Start cleaning the ARM template
+- 00:49:28 - Planning to do a 2 step deployment
+- 01:09:11 - Deployment Error....
+- 01:22:38 - Modules need to have uri... download them from NuGet add it to GitHub.
+- 01:51:41 - Stiff getting Errors
 
 Goals
 -----
 
 - [ ] Clean ARM template
-
 
 
 ToDos
@@ -58,23 +57,6 @@ New Subscribers
 
 - [@](https://www.twitch.tv/)
 
-
-
 Cheers
 ------
 - [@Lanwalker2](https://www.twitch.tv/Lanwalker2):  played KIDS SAY YEA!!! for 0 Bits
-- [@](https://www.twitch.tv/):  bits
-
- 
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
-
-
-
