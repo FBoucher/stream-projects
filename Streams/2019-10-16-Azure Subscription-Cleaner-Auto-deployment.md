@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is "fighting" against a error in the deployment of AzSubscriptionCleaner. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. https://github.com/FBoucher/AzSubscriptionCleaner
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/495501007)
 - Youtube(soon)
 
 
@@ -17,21 +17,21 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!\
-- 00:00:01 - Fixing the Deployment. Dependency missing
+- 00:04:54 - Fixing the Deployment. Dependency missing
+- 00:40:43 - Showing special Coaster from StickerMule and new Cloud 5 mins sticker
 
 
 Goals
 -----
 
-- [ ] Clean ARM template
-
+- [X] Clean ARM template
+- [ ] Deploy the Azure Automation Solution using an ARM template\
 
 
 ToDos
 -----
-- [ ] Deploy the Azure Automation Solution using an ARM template\
-- [x] Error in deployment 
 
+- [x] Error in deployment 
     Accepted: Az.Accounts (Microsoft.Automation/automationAccounts/modules)
     Accepted: Az.ResourceGraph (Microsoft.Automation/automationAccounts/modules)
     Accepted: Az.Resources (Microsoft.Automation/automationAccounts/modules)
@@ -51,29 +51,16 @@ ToDos
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@ronin__engineer](https://www.twitch.tv/ronin__engineer)
+- [@phrakberg](https://www.twitch.tv/phrakberg)
+- [@patsmth](https://www.twitch.tv/patsmth)
+- [@HamitCanKilic](https://www.twitch.tv/HamitCanKilic)
+- [@dankdragon8](https://www.twitch.tv/dankdragon8)
 
 
-New Subscribers
+Raides
 ---------------
 
-- [@](https://www.twitch.tv/)
+- [@cldubya](https://www.twitch.tv/cldubya) has raided you with a party of 24.
 
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
-
+ 

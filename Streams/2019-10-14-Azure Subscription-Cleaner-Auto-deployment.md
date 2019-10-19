@@ -8,7 +8,7 @@ In this session, Frank is working on an automatic deployment from GitHub using a
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/494696974)
 - Youtube(soon)
 
 
