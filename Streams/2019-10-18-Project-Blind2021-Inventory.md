@@ -4,12 +4,12 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is back in Linux and is working on the inventory system for project Blind2021 a Text-based Adventure game in .Net Core. Great progress was made and a lot of fun.
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/496230783)
 - Youtube(soon)
 
 
@@ -17,19 +17,18 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - Work on Inventory
+- 00:03:10 - Back to Linux - Elementary OS 
+- 00:27:00 - Work on Inventory
+- 01:37:55 - Watching a cute little cat
+- 01:39:36 - First run (testing)
+- 01:41:38 - Pro tip 😅😋
+- 01:57:54 - Cool it's all working
 
 
 Goals
 -----
 
-- [ ] Something...
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
+- [X] Add a item from a room to the character inventory
 
 
 New Followers
@@ -38,8 +37,6 @@ New Followers
 - [@TheDevOpsAddict](https://www.twitch.tv/TheDevOpsAddict)
 - [@t0mii_](https://www.twitch.tv/t0mii_)
 - [@jbh630](https://www.twitch.tv/jbh630)
-
-
 
 
 Hosting

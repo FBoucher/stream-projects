@@ -6,7 +6,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
-## [Blind 2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
+## [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
 Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
@@ -18,6 +18,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-10-11 | [Coding Project Dover working on the inventory](2019-10-11-Coding-Project-Dover.md) |
 | 2019-10-04 | [Starting new game project](Streams/2019-10-04-starting-new-game-project.md) |
 
 
@@ -36,6 +37,7 @@ Azure Subscription Cleaner is a simple tool that will automatically delete "expi
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-10-09 | [Azure Subscription Cleaner Auto deployment](Streams/2019-10-09-AzSubcriptionCleaner-deployment.md) |
 | 2019-10-02 | [Building ARM template for Azure Subscription Cleaner](Streams/2019-10-02-Building-ARM-for-AzSubscriptionCleaner.md) |
 | 2019-09-30 | [GitHub Azure and Chatting](Streams/2019-09-30-github-azure-chatting.md) |
 | 2019-08-06 | [Azure Subscription Cleaner Mostly Azure CLI ](Streams/2019-09-06-azsubscriptioncleaner-cli-and-arm.md) |

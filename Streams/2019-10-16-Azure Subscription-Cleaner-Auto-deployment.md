@@ -4,19 +4,19 @@
 Summary
 -------
 
-In this session, Frank is "fighting" against a error in the deployment of AzSubscriptionCleaner. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. https://github.com/FBoucher/AzSubscriptionCleaner
+In this session, Frank is "fighting" against an error in the deployment of AzSubscriptionCleaner. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. https://github.com/FBoucher/AzSubscriptionCleaner
 
 Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/495501007)
-- Youtube(soon)
+- [Youtube](https://youtu.be/VpfXLTaeJX4)
 
 
 Timestamps
 --------
 
-- 00:00:01 - Bonjour, Hi!\
+- 00:00:01 - Bonjour, Hi!
 - 00:04:54 - Fixing the Deployment. Dependency missing
 - 00:40:43 - Showing special Coaster from StickerMule and new Cloud 5 mins sticker
 

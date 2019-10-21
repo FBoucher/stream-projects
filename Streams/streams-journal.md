@@ -10,6 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-10-11 | [Coding Project Dover working on the inventory](2019-10-11-Coding-Project-Dover.md) |
+| 2019-10-09 | [Azure Subscription Cleaner Auto deployment](2019-10-09-AzSubcriptionCleaner-deployment.md) |
 | 2019-10-04 | [Starting new game project](2019-10-04-starting-new-game-project.md) |
 | 2019-10-02 | [Building ARM template for Azure Subscription Cleaner](2019-10-02-Building-ARM-for-AzSubscriptionCleaner.md) |
 | 2019-09-30 | [GitHub Azure and Chatting](2019-09-30-github-azure-chatting.md) |
