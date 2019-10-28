@@ -18,6 +18,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-10-18 | [Coding .Net Core on Project Blind2021 - Inventory System](2019-10-18-Project-Blind2021-Inventory.md) |
 | 2019-10-11 | [Coding Project Dover working on the inventory](2019-10-11-Coding-Project-Dover.md) |
 | 2019-10-04 | [Starting new game project](Streams/2019-10-04-starting-new-game-project.md) |
 
@@ -37,6 +38,8 @@ Azure Subscription Cleaner is a simple tool that will automatically delete "expi
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-10-16 | [Azure Subscription Cleaner Auto deployment](2019-10-16-Azure%20Subscription-Cleaner-Auto-deployment.md) |
+| 2019-10-14 | [Azure Subscription Cleaner Auto deployment](2019-10-14-Azure%20Subscription-Cleaner-Auto-deployment.md) |
 | 2019-10-09 | [Azure Subscription Cleaner Auto deployment](Streams/2019-10-09-AzSubcriptionCleaner-deployment.md) |
 | 2019-10-02 | [Building ARM template for Azure Subscription Cleaner](Streams/2019-10-02-Building-ARM-for-AzSubscriptionCleaner.md) |
 | 2019-09-30 | [GitHub Azure and Chatting](Streams/2019-09-30-github-azure-chatting.md) |
@@ -85,6 +88,7 @@ A workshop 1 hour workshop to update a website using Cognitive services and Azur
 
 |    Date🔼  |  Title                                                        | 
 |------------|---------------------------------------------------------------|
+| 2019-10-21 | [Reviewing Not a Dog Workshop Asp.Net Core and Azure AI](2019-10-21-Reviewing-Not-a-Dog-Workshop-AspNetCore-and-Azure-AI.md) |
 | 2019-08-05 | [Chill Azure Development](Streams/2019-08-05-Chill-Azure-Development.md) |
 | 2019-07-31 | [Adding Deployment to the Not-a-Dog-Workshop](Streams/2019-07-31-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
 | 2019-07-29 | [Adding Deployment to the Not-a-Dog-Workshop](Streams/2019-07-29-Adding-Deployment-to-Not-a-Dog-Workshop.md) |
