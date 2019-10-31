@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this "on the road" session, Frank is testing, adjusting the stream setup. Then jump in the documentation of AzSubscriptionClearner to put the last touch to this project. 
 
 Replay
 ------
@@ -17,44 +17,14 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:41 - Quick overview setup, issues with StreamLab, possible fix
+- 00:15:18 - Start adding more details into AzSubscriptionCleaner doc on how to deploy Azure Automation solution.
 
 
 Goals
 -----
 
-- [ ] Have a nice On the Road setup
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
+- [X] Have a nice On the Road setup
 
 
 References
