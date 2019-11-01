@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is starting a new .Net Core community project. This project is for a community to be able to submit ideas and then vote on them (ex: decide what's the next feature to be developed, or the next video topic). But first, it needs a new and a few little things...
 
 Replay
 ------
@@ -17,8 +17,17 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - Bonjour, Hi!
-
+- 00:03:11 - Show & Tell
+- 00:07:49 - New project pitch
+- 00:16:19 - Project name ideas
+- 00:18:47 - @developersgarage raided with a party of 7
+- 00:36:32 - Voting for the name
+- 00:39:21 - Creating new repository in GitHub, with community features
+- 00:03:11 - Showing All-Contributors bots features
+- 01:01:37 - Creating Kanban Glo board 
+- 01:13:41 - Back from doorbell interruption
+- 01:34:08 - Testing dotnet new command with Auth
+- 01:53:38 - Adding contributors of the day
 
 Goals
 -----
@@ -101,5 +110,7 @@ Octa-Vote
 
 References
 ----------
+
+- Recognize All Contributors: https://allcontributors.org/
 
 - https://docs.microsoft.com/en-ca/aspnet/core/security/authentication/social/index?view=aspnetcore-3.0&tabs=visual-studio
