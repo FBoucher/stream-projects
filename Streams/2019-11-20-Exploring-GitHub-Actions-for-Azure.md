@@ -17,18 +17,20 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:01 - Use-R-vote
+
 
 
 Goals
 -----
 
-- [ ] Something...
+- [ ] Deploy an App to Azure using GitHub Action
 
 
 
 ToDos
 -----
-- [ ] unfinish todos from previous stream
+- [ ] Setup the initial deploy. Where the resources come from. get the publishProfiles from GitHubAction
 
 
 New Followers
@@ -40,23 +42,11 @@ New Followers
 New Subscribers
 ---------------
 
-- [@](https://www.twitch.tv/)
+- [@Lanwalker2](https://www.twitch.tv/Lanwalker2) resubscribed (Prime) for 2 months
 
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
 
 
 References
 ----------
 
+https://github.com/Azure/webapps-deploy
