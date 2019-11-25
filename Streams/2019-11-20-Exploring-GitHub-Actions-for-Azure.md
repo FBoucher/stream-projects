@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this session, Frank is doing a recap of the two weeks offline and learning how to use the GitHub action to build to add a CI-CD to an existing solution.
 
 Replay
 ------
@@ -17,9 +17,11 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - Use-R-vote
-
-
+- 00:00:56 - Show & tell
+- 00:15:48 - Use-R-vote explain
+- 00:31:00 - Start configuration of GitHub Actions
+- 01:42:36 - Test the ci-cd
+- 01:49:18 - Wrapping-up
 
 Goals
 -----
@@ -31,12 +33,6 @@ Goals
 ToDos
 -----
 - [ ] Setup the initial deploy. Where the resources come from. get the publishProfiles from GitHubAction
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
 
 
 New Subscribers
