@@ -8,6 +8,8 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ## [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
+<img src="https://github.com/FBoucher/ProjectDover/raw/master/medias/Text-Based-Game_800.png" alt="Blind2021 cover" width="400"/>
+
 Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
 🔗 https://github.com/FBoucher/ProjectDover
@@ -18,15 +20,41 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2019-10-18 | [Coding .Net Core on Project Blind2021 - Inventory System](2019-10-18-Project-Blind2021-Inventory.md) |
-| 2019-10-11 | [Coding Project Dover working on the inventory](2019-10-11-Coding-Project-Dover.md) |
+| 2019-11-22 | [Blind2021 adding Room Status and more](Streams/2019-11-22-Blind2020-Database-or-Room-Status.md) |
+| 2019-10-18 | [Coding .Net Core on Project Blind2021 - Inventory System](Streams/2019-10-18-Project-Blind2021-Inventory.md) |
+| 2019-10-11 | [Coding Project Dover working on the inventory](Streams/2019-10-11-Coding-Project-Dover.md) |
 | 2019-10-04 | [Starting new game project](Streams/2019-10-04-starting-new-game-project.md) |
+
 
 
 ---
 
 
+
+## [Use-R-Vote (aka outspoken)](https://github.com/FBoucher/use-r-vote)
+
+An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
+
+🔗 https://github.com/FBoucher/use-r-vote
+
+### Stream Notes
+
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2019-11-20 | [Exploring GitHub Actions for deploying to Azure](Streams/2019-11-20-Exploring-GitHub-Actions-for-Azure.md) |
+| 2019-10-30 | [New Project Community Vote](Streams/2019-10-30-New-Project-Community-Vote.md) |
+
+
+
+---
+
+
+
 ## [Azure Subscription Cleaner (AzSubscriptionCleaner)](https://github.com/FBoucher/AzSubscriptionCleaner)
+
+<img src="https://github.com/FBoucher/AzSubscriptionCleaner/raw/master/medias/AzSubscriptionCleaner.png" alt="Blind2021 cover" width="400"/>
 
 Azure Subscription Cleaner is a simple tool that will automatically delete "expired" resources inside our Azure Subscription.
 
@@ -52,11 +80,14 @@ Azure Subscription Cleaner is a simple tool that will automatically delete "expi
 | 2019-08-07 | [Creating a Tool to keep our Azure Subscription Clean](Streams/2019-08-07-Keep-Sub-Clean.md) |
 
 
+
 ---
 
 
 
 ## [AZ Pics](https://github.com/FBoucher/AzPics)
+
+<img src="https://github.com/FBoucher/AzPics/raw/master/medias/AzPics_300px.png" alt="Blind2021 cover" width="400"/>
 
 Az Pics is a simple solution to manage your pictures and images. It will leverage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
 
@@ -79,6 +110,8 @@ Az Pics is a simple solution to manage your pictures and images. It will leverag
 
 
 ## [Not a Dog Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
+
+<img src="https://github.com/FBoucher/Not-a-Dog-Workshop/raw/master/medias/workshopHeader.png" alt="Blind2021 cover" width="400"/>
 
 A workshop 1 hour workshop to update a website using Cognitive services and Azure Function.
 

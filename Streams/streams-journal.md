@@ -10,6 +10,10 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 63 | 2019-11-22 | [Blind2021 adding Room Status and more](2019-11-22-Blind2020-Database-or-Room-Status.md) |
+| 62 | 2019-11-20 | [Exploring GitHub Actions for deploying to Azure](2019-11-20-Exploring-GitHub-Actions-for-Azure.md) |
+| 61 | 2019-10-30 | [New Project Community Vote](2019-10-30-New-Project-Community-Vote.md) |
+| 60 | 2019-10-23 | [Slobs on the Road configuration](2019-10-23-Slobs-on-the-road.md) |
 | 59 | 2019-10-21 | [Reviewing Not a Dog Workshop Asp.Net Core and Azure AI](2019-10-21-Reviewing-Not-a-Dog-Workshop-AspNetCore-and-Azure-AI.md) |
 | 58 | 2019-10-18 | [Coding .Net Core on Project Blind2021 - Inventory System](2019-10-18-Project-Blind2021-Inventory.md) |
 | 57 | 2019-10-16 | [Azure Subscription Cleaner Auto deployment](2019-10-16-Azure%20Subscription-Cleaner-Auto-deployment.md) |

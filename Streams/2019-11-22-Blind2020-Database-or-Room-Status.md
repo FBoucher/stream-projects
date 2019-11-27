@@ -1,5 +1,5 @@
 
-# 2019-11-22 - Blind2020 adding Room Status?
+# 2019-11-22 - Blind2021 adding Room Status and more
 
 Summary
 -------
