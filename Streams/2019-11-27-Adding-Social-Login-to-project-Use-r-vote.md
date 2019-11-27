@@ -25,36 +25,18 @@ Goals
 - [ ] Add Twitter Login
 
 
+Raders
+---------------
 
-ToDos
------
-- [ ] unfinish todos from previous stream
+- [@cldubya](https://www.twitch.tv/cldubya) has raided you with a party of 19.
+
 
 
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@Xyl0n_Zz](https://www.twitch.tv/Xyl0n_Zz)
 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
 
 
 References
