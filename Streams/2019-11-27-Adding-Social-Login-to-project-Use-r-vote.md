@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is trying to add social login to the project Use-R-vote but things won't work as expected. The version of .Net Core is not the good one... Definitely a good learning stream. 
+In this life session, Frank is trying to add social login to the project Use-R-vote but things won't work as expected. The version of .Net Core is not the good one... Definitely a good learning stream. 
 
 Replay
 ------
