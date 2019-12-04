@@ -10,6 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 65 | 2019-11-29 | [Working on the summary generator for our game project: Blind2021](2019-11-29-Blind2021-Game-Session-summary-generator.md) |
+| 64 | 2019-11-27 | [Adding Social Login to the .Net Core Blazor project: Use-R-vote](2019-11-27-Adding-Social-Login-to-project-Use-r-vote.md) |
 | 63 | 2019-11-22 | [Blind2021 adding Room Status and more](2019-11-22-Blind2020-Database-or-Room-Status.md) |
 | 62 | 2019-11-20 | [Exploring GitHub Actions for deploying to Azure](2019-11-20-Exploring-GitHub-Actions-for-Azure.md) |
 | 61 | 2019-10-30 | [New Project Community Vote](2019-10-30-New-Project-Community-Vote.md) |

@@ -20,10 +20,12 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-11-29 | [Working on the summary generator for our game project: Blind2021]((Streams/2019-11-29-Blind2021-Game-Session-summary-generator.md) |
 | 2019-11-22 | [Blind2021 adding Room Status and more](Streams/2019-11-22-Blind2020-Database-or-Room-Status.md) |
 | 2019-10-18 | [Coding .Net Core on Project Blind2021 - Inventory System](Streams/2019-10-18-Project-Blind2021-Inventory.md) |
 | 2019-10-11 | [Coding Project Dover working on the inventory](Streams/2019-10-11-Coding-Project-Dover.md) |
 | 2019-10-04 | [Starting new game project](Streams/2019-10-04-starting-new-game-project.md) |
+
 
 
 
@@ -32,6 +34,8 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 
 ## [Use-R-Vote (aka outspoken)](https://github.com/FBoucher/use-r-vote)
+
+<img src="https://raw.githubusercontent.com/FBoucher/use-r-vote/master/medias/user-r-vote_800.png" alt="Blind2021 cover" width="400"/>
 
 An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
 
@@ -43,6 +47,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2019-11-27 | [Adding Social Login to the .Net Core Blazor project: Use-R-vote]((Streams/2019-11-27-Adding-Social-Login-to-project-Use-r-vote.md) |
 | 2019-11-20 | [Exploring GitHub Actions for deploying to Azure](Streams/2019-11-20-Exploring-GitHub-Actions-for-Azure.md) |
 | 2019-10-30 | [New Project Community Vote](Streams/2019-10-30-New-Project-Community-Vote.md) |
 
