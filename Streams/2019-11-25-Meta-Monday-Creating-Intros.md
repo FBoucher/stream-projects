@@ -1,5 +1,5 @@
 
-# 2019-11-12 - Stream Template
+# 2019-11-25 Meta-Monday Creating new Intros for Twitch streams
 
 Summary
 -------
@@ -22,7 +22,9 @@ Timestamps
 Goals
 -----
 
-- [ ] Something...
+- [X] Create new Intro with countdown
+- [ ] Update the Twitch home page
+- [ ] New Offline banner
 
 
 
