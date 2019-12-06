@@ -36,8 +36,10 @@ ToDos
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
-
+- [@kiranhari](https://www.twitch.tv/kiranhari)
+- [@ReturnToDust](https://www.twitch.tv/ReturnToDust)
+- [@bobodyfn](https://www.twitch.tv/bobodyfn)
+- [@djalmocruzjr](https://www.twitch.tv/djalmocruzjr)
 
 New Subscribers
 ---------------
