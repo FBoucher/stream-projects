@@ -6,7 +6,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this recorded live session from Twitch , Frank is upgrading to .Net Core v3.1 LTS. Than learn how to save some information (not a save game yet...) in MongoDB using a Docker container to host the database.
 
 Replay
 ------
@@ -19,6 +19,10 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:51 - Plans for today
+- 00:06:34 - Quick demo, current status
+- 00:19:19 - Upgrade .Net Core to v3.1 LTS
+- 02:21:32 - Wrapping-up and thank you 
 
 
 Goals

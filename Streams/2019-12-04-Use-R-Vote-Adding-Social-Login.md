@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this recorded live session from Twitch, Frank is adding social login (focusing on Twitter this time) to a .Net Core Blazor web application deployed in Azure. Things won't be easy. A stream like you like them... Not going as planned!  
 
 Replay
 ------
@@ -17,18 +17,26 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:04:44 - Jump into the code.
+- 00:17:11 - Unboxing a mysterious package... 
+- 00:24:04 - Back to the code.
+- 00:49:33 - Do you want stickers?!
+- 00:53:23 - Try to make it works
+- 01:49:20 - Wrapping-up, Thanks 
 
 
 Goals
 -----
 
-- [ ] Something...
-
+- [ ] Login to Use-R-Vote using a Twitter account
+- [ ] Login to Use-R-Vote using a Facebook account
+- [ ] Login to Use-R-Vote using a GitHub account
+- [ ] Login to Use-R-Vote using a Microsoft account
 
 
 ToDos
 -----
-- [ ] unfinish todos from previous stream
+- [ ] Update the docs.... maybe.
 
 
 New Followers
