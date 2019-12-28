@@ -10,6 +10,10 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 69 | 2019-12-20 | [Adding save game, loading maps - Project: Blind2021](2019-12-20-Blind2021-save-game-loading-maps.md) |
+| 68 | 2019-12-18 | [Deploying to Azure with social login configured - Project: Use-R-Vote](2019-12-18-Deploying-to-Azure-a-website-with-social-login-configured-from-GitHub-Use-R-Vote.md) |
+| 67 | 2019-12-06 | [Upgrade .Net Core and MongoDB - Project: Blind2021](2019-12-06-Blind2021-Upgrade-and-MongoDB.md) |
+| 66 | 2019-12-04 | [Adding Social Login to .Net Core WebApp - Project: Use-R-Vote](2019-12-04-Use-R-Vote-Adding-Social-Login.md) |
 | 65 | 2019-11-29 | [Working on the summary generator for our game project: Blind2021](2019-11-29-Blind2021-Game-Session-summary-generator.md) |
 | 64 | 2019-11-27 | [Adding Social Login to the .Net Core Blazor project: Use-R-vote](2019-11-27-Adding-Social-Login-to-project-Use-r-vote.md) |
 | 63 | 2019-11-22 | [Blind2021 adding Room Status and more](2019-11-22-Blind2020-Database-or-Room-Status.md) |
@@ -74,7 +78,7 @@ Stream notes and videos from the most recent to the older.
 | 04 | 2019-04-19 | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
 | 03 | 2019-04-17 | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
 | 02 | 2019-04-08 | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 01 | 2018-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)[<sup>1</sup>](#1)|
+| 01 | 2019-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)[<sup>1</sup>](#1)|
 
 <a class="anchor" id="1"><sup>1</sup></a> This stream was recorded before I start taking notes, only the video remains.
 

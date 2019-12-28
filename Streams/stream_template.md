@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this session, Frank is 
+In this live stream session, Frank is 
 
 Replay
 ------
