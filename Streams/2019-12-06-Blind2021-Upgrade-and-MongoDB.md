@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/517821028)
-- Youtube(soon)
+- [Youtube](https://youtu.be/pbLZyXXKi4M)
 
 
 Timestamps
