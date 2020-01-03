@@ -9,7 +9,7 @@ In this live stream session, Frank is
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/530269968)
 - Youtube(soon)
 
 
@@ -22,7 +22,7 @@ Timestamps
 Goals
 -----
 
-- [ ] Something...
+- [ ] Add Unit Test
 
 
 
