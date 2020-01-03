@@ -34,7 +34,7 @@ ToDos
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@Grehgarious](https://www.twitch.tv/Grehgarious)
 
 
 New Subscribers
