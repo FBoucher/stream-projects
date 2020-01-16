@@ -22,19 +22,25 @@ Timestamps
 Goals
 -----
 
-- [ ] Identify the Data store azure storage, SQL Database, noSQL
+- [X] Identify the Data store azure storage, SQL Database, noSQL
+    * SQL, Azure SQL (serverless)
+    * Should we use Entity framework (EF) 
 
 
 
 ToDos
 -----
-- [ ] 
+- [ ] How SignInManager.IsSignedIn works? Where come from the form that ask for the email.
+- [X]  Extension in VSCode to create new classes
+- [ ] Identify the "scaffolding" option available with VSCOde or dotnet CLI
 
 
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@lonelyforestcat](https://www.twitch.tv/lonelyforestcat)
+- [@meisterb66](https://www.twitch.tv/meisterb66)
+- [@rebelshade](https://www.twitch.tv/rebelshade)
 
 
 New Subscribers
@@ -44,10 +50,10 @@ New Subscribers
 
 
 
-Cheers
+Raids
 ------
 
-- [@](https://www.twitch.tv/):  bits
+- [@developersgarage](https://www.twitch.tv/developersgarage):  has raided you with a party of 13.
 
 
 
@@ -59,4 +65,4 @@ Streams Notes/ Snipets/ Shared urls
 
 References
 ----------
-
+- C# Extensions: https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions
