@@ -9,54 +9,15 @@ In this live stream session, Frank is
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/533778476)
+- [Youtube](https://youtu.be/M45790DoCRA)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
-
-Goals
------
-
-- [ ] Something...
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snipets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
+- 00:00:35 - Show & Tell
+- 00:02:39 - Plan of of day Commands.cs
+- 01:34:00 - Try to run the Unit Tests. But PC is slooow
 
