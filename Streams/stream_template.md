@@ -51,7 +51,7 @@ Cheers
 
 
 
-Streams Notes/ Snipets/ Shared urls
+Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
 - 
