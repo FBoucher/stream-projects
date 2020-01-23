@@ -34,13 +34,13 @@ ToDos
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@wanadzha](https://www.twitch.tv/wanadzha)
 
 
 New Subscribers
 ---------------
 
-- [@](https://www.twitch.tv/)
+- [@lanwalker2](https://www.twitch.tv/lanwalker2)
 
 
 
