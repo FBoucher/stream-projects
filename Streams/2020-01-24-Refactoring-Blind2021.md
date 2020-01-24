@@ -1,5 +1,5 @@
 
-# 2020-01-24 - Refactoring
+# 2020-01-24 - Refactoring Blind2021
 
 Summary
 -------
@@ -22,7 +22,7 @@ Timestamps
 Goals
 -----
 
-- [ ] Something...
+- [X] Validate Settings works
 
 
 
@@ -55,6 +55,7 @@ Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
 - 
+'D:\Dev\GitHub\FBoucher\ProjectDover\src\ProjectDover\bin\Debug\netcoreapp3.1\ProjectDover\medias\blind2021-ascii.txt
 
 
 References
