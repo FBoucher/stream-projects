@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is creating a continuous integration workflow using GitHub Action to build and execute unit tests at every push to GitHub.
 
 Replay
 ------
@@ -17,6 +17,14 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:02:16 - Plan of the day
+- 00:06:51 - Exploring GitHub Action templates
+- 00:12:47 - @codephobia Raided
+- 00:27:30 - Creating new branch - Starting coding the workflow  
+- 01:09:14 - First build successful
+- 01:13:08 - Trying to show results of the tests like Azure DevOps
+- 01:47:20 - Trying to do a Schedule Build
+- 01:57:02 - Wrapping-up
 
 
 Goals
