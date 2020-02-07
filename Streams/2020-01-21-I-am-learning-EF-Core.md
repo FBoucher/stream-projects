@@ -4,25 +4,28 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is learning Entity Framework (EF) Core following docs sample.
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/eefJC0flC5I)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:06:23 - Mostly start new Project in Visual Studio
+- 00:13:47 - Creating a Console  application in VS Code
+- 00:36:12 - @lanwalker2 make me jump with  "HELLO" from Discord
+- 00:52:30 - Creating a website projects
+- 01:49:49 - Summarize, wrap-up
 
 Goals
 -----
 
-- [ ] Learning... :)
+- [x] Learning... :)
 
 
 
