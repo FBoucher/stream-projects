@@ -50,7 +50,7 @@ New Followers
 Raids
 ---------------
 
-- [@](https://www.twitch.tv/CopperBeardy) has raided you with a party of 3.
+- [@CopperBeardy](https://www.twitch.tv/CopperBeardy) has raided you with a party of 3.
 
 
 
