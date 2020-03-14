@@ -9,7 +9,7 @@ In this live stream session, Frank explains the main goal of a new project a bud
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/566462754)
 - Youtube(soon)
 
 
@@ -17,6 +17,16 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:56 - Feel good to be back.
+- 00:05:01 - Big news Live Coders event April 9th, and more
+- 00:10:11 - Tour of the resources created for the project
+- 00:10:47 - Explain where the inspiration, the "origin" of the project.
+- 00:24:30 - Show the ARM template for this project
+- 00:30:27 - Show the C# code (.Net Core 3.1) of the Azure Function 
+- 00:32:04 - Presenting PeaCock extension
+- 00:58:44 - Running a quick demo to start the debugging session :)
+- 00:58:04 - Investigating on the binding issue
+- 02:19:04 - Wrapping up
 
 
 Goals
