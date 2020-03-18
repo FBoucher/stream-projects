@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank explains the main goal of a new project a budget friendly Url Shortener using serverless feature in Azure. It should be super easy to deploy (one-click), not expensive to run, and offer control of on the EndUrl part.  We are usinfg the new version of the Azure Functions and learning the new way to do bindings.  And we did learn a lot... more to come :)
+In this live stream session, Frank explains the main goal of a new project a budget-friendly Url Shortener using serverless features in Azure. It should be super easy to deploy (one-click), not expensive to run, and offer control of on the EndUrl part.  We are using the new version of the Azure Functions and learning the new way to do bindings.  And we did learn a lot... more to come :)
 
 Replay
 ------
