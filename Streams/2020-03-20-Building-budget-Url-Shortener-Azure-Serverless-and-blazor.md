@@ -1,5 +1,5 @@
 
-# 2020-01-03 - Stream Template
+# 2020-03-20 - Building a budget Url-Shortener with Azure Serverless and .Net Blazor
 
 Summary
 -------
@@ -29,38 +29,20 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 Goals
 -----
 
-- [ ] Something...
+- [ ] Admin page
+- [ ] How to collaborate, todos, wishlist
+- [X] Proxy is not working (create issue, fix it)
+- [X] Ref project of Jeremy
+- [X] Explain the optional deployment method 
 
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@onggieoi](https://www.twitch.tv/onggieoi)
 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
+- [@facu_rodriguez_](https://www.twitch.tv/facu_rodriguez_)
 
 
 
