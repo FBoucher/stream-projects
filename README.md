@@ -42,6 +42,11 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2020-01-31 | [GitHub Action and Unit tests for .Net Code - Project: Blind2021](2020-01-31-GitHub-Action-and-Unit-tests-for-dotnetcore.md) |
+| 2020-01-24 | [Refactoring Blind2021](2020-01-24-Refactoring-Blind2021.md) |
+| 2020-01-17 | [Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021](2020-01-17-Refactoring-Adding-Configuration-Settings.md) |
+| 2020-01-10 | [Refactoring and Adding unit tests to Blind 2021 - on the road](2020-01-10-Refactoring-ontheroad.md) |
+| 2020-01-03 | [Adding Unit test and refactoring - Project Blind2021](2020-01-03-Adding-xUnit-and-refactoring.md) |
 | 2019-12-20 | [Adding save game, loading maps](Streams/2019-12-20-Blind2021-save-game-loading-maps.md) |
 | 2019-12-06 | [Upgrade .Net Core and MongoDB](Streams/2019-12-06-Blind2021-Upgrade-and-MongoDB.md) |
 | 2019-11-29 | [Working on the summary generator for our game project: Blind2021](Streams/2019-11-29-Blind2021-Game-Session-summary-generator.md) |
@@ -70,6 +75,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2020-01-15 | [We need a data store... Project: Use-R-Vote](2020-01-15-We-need-a-data-store-Use-R-Vote.md) |
 | 2019-12-18 | [Deploying to Azure with social login configured](Streams/2019-12-18-Deploying-to-Azure-a-website-with-social-login-configured-from-GitHub-Use-R-Vote.md) |
 | 2019-12-04 | [Adding Social Login to .Net Core WebApp](Streams/2019-12-04-Use-R-Vote-Adding-Social-Login.md) |
 | 2019-11-27 | [Adding Social Login to the .Net Core Blazor project: Use-R-vote](Streams/2019-11-27-Adding-Social-Login-to-project-Use-r-vote.md) |
