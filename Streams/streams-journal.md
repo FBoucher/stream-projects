@@ -10,6 +10,19 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 82 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
+| 81 | 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
+| 80 | 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
+| 79 | 2020-02-21 | [Creating Demo and slides (a few hour before travel)](2020-02-21-Creating-Demo-and-slides.md) |
+| 78 | 2020-02-19 | [Creating Demo and slides while testing On the road setup](2020-02-19-Creating-Demo-and-slides-while-testing-On-the-road-setup.md) |
+| 77 | 2020-02-20 | [Creating material for an Azure Resource Manager (ARM) template tutorial series](2020-02-14-Creating-material-for-ARM-template-tutorial-series.md) |
+| 76 | 2020-01-31 | [GitHub Action and Unit tests for .Net Code - Project: Blind2021](2020-01-31-GitHub-Action-and-Unit-tests-for-dotnetcore.md) |
+| 75 | 2020-01-24 | [Refactoring Blind2021](2020-01-24-Refactoring-Blind2021.md) |
+| 74 | 2020-01-21 | [I am learning EF Core, From scratch](2020-01-21-I-am-learning-EF-Core.md) |
+| 73 | 2020-01-17 | [Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021](2020-01-17-Refactoring-Adding-Configuration-Settings.md) |
+| 72 | 2020-01-15 | [We need a data store... Project: Use-R-Vote](2020-01-15-We-need-a-data-store-Use-R-Vote.md) |
+| 71 | 2020-01-10 | [Refactoring and Adding unit tests to Blind 2021 - on the road](2020-01-10-Refactoring-ontheroad.md) |
+| 70 | 2020-01-03 | [Adding Unit test and refactoring - Project Blind2021](2020-01-03-Adding-xUnit-and-refactoring.md) |
 | 69 | 2019-12-20 | [Adding save game, loading maps - Project: Blind2021](2019-12-20-Blind2021-save-game-loading-maps.md) |
 | 68 | 2019-12-18 | [Deploying to Azure with social login configured - Project: Use-R-Vote](2019-12-18-Deploying-to-Azure-a-website-with-social-login-configured-from-GitHub-Use-R-Vote.md) |
 | 67 | 2019-12-06 | [Upgrade .Net Core and MongoDB - Project: Blind2021](2019-12-06-Blind2021-Upgrade-and-MongoDB.md) |
