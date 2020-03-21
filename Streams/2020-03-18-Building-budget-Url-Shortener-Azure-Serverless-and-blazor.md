@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is demoing and explaining how the new AzUrlShortener is working. Then On GitHub add some documentation to help people to deploy it and to use it. Great Stream a lot of fun.
 
 Replay
 ------
@@ -17,7 +17,13 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:05:01 - Recap the main feature of the Application
+- 00:15:01 - Tour of the deployment, Code, etc. 
+- 00:05:01 - little demo...
+- 01:23:20 - Adding GitHub documentation
+- 02:14:01 - Create a GLO board (awesome kanban board)
+- 02:27:18 - Continue with the documentation
+- 03:18:01 - Wrapping-up :)
 
 
 Project

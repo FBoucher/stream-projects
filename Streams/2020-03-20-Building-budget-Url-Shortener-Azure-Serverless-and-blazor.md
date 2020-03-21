@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is continuing the work on the project AzUrlShortener a  budget friendly Url-Shortener using Azure Function (Serverless) and Storage with .Net Core. The focus of this stream will be on the UrlRedirect function; that's the one implicitly called when someone use a short url.
 
 Replay
 ------
