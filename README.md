@@ -6,6 +6,28 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
+## [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
+
+<img src="Streams\medias\Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+
+An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
+
+🔗 https://github.com/FBoucher/AzUrlShortener
+
+### Stream Notes
+
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Core](Streams/2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
+| 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Core ](Streams/2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
+| 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](Streams/2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
+
+
+---
+
+
 ## [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
 <img src="https://github.com/FBoucher/ProjectDover/raw/master/medias/Text-Based-Game_800.png" alt="Blind2021 cover" width="400"/>
