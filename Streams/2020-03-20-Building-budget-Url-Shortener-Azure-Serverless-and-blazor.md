@@ -10,14 +10,20 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/2iNOZJOQPNQ)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:01:20 - PLan of the day
+- 00:02:13 - Test redirect... problem with proxy or security...
+- 00:06:40 - Create new issue to fix security problem/ proxy
+- 00:20:09 - Zombies, Run! chit-chat
+- 01:59:44 - Doh! Found the problem the file wasn't copied...
+- 02:12:21 - It's working
+- 02:14:35 - Wrapping up
 
 Project
 -------
