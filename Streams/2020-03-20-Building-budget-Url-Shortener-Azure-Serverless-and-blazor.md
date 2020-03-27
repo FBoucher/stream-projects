@@ -9,7 +9,7 @@ In this live stream session, Frank is continuing the work on the project AzUrlSh
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/571133220)
 - [Youtube](https://youtu.be/2iNOZJOQPNQ)
 
 
