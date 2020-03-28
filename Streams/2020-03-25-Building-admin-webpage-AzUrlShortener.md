@@ -9,7 +9,7 @@ In this live stream session, Frank is
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/575027141)
 - Youtube(soon)
 
 
