@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding documentation on GitHub for the project Azure Url Shortener (azUrlShortener). The goal is to make it simple for other developers to create interfaces in their favorite language that use the common Azure Function backend. Note: The camera froze a few time but it got fixed.
 
 Replay
 ------
@@ -17,8 +17,13 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - Chit chat
-- 00:00:01 - Start coding
+- 00:00:05 - Chit chat
+- 00:02:24 - Microsoft Developer Virtual Conference
+- 00:05:04 - Recap of the Project
+- 00:21:56 - Start coding
+- 00:05:04 - 
+- 00:05:04 - 
+- 00:05:04 - 
 
 
 Project
@@ -36,43 +41,9 @@ Goals
 
 
 
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
 New Followers
 -------------
 
 - [@codeshow](https://www.twitch.tv/codeshow)
 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 

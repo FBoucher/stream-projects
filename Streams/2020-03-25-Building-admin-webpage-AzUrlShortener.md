@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank starts building an admin interface for the Azure Url Shortener (azUrlShortener) tool. Interface will be a website in .Net Core Blazor using a server side.
 
 Replay
 ------
