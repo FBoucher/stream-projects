@@ -1,16 +1,16 @@
 
-# 2020-03-25 - Building admin webpage for the budget Url Shortener (Azure Serverless .Net Core) 
+# 2020-03-25 - Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener (stream #83) 
 
 Summary
 -------
 
-In this live stream session, Frank starts building an admin interface for the Azure Url Shortener (azUrlShortener) tool. Interface will be a website in .Net Core Blazor using a server side.
+In this live stream session, Frank starts building an admin interface for the Azure Url Shortener (azUrlShortener) tool. The interface will be a website in .Net Core Blazor using a server-side. Before getting into the website he will need a new Azure Function that lists all URLs already created.
 
 Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/575027141)
-- Youtube(soon)
+- [Youtube](https://youtu.be/m5WETGjV1c0)
 
 
 Timestamps

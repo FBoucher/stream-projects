@@ -10,6 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 84 | 2020-03-27 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor]
+| 83 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener]
 | 82 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 81 | 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 80 | 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
