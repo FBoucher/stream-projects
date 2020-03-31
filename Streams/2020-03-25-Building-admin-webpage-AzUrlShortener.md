@@ -17,6 +17,11 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:01 - Show & Tell
+- 00:04:55 - Plan of the stream
+- 00:17:08 - Continue the work on the Azure Function UrlList
+- 01:28:01 - Azure Function is working, let's deploy it.
+- 01:47:35 - Create new project for the website interface
 
 
 Project
@@ -25,43 +30,11 @@ Project
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
 
 
-
 Goals
 -----
 
 - [X] Build Azure Function that Return a Url list
 - [ ] Admin page Blazor website Serverside
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 
