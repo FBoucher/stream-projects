@@ -54,3 +54,11 @@ References
 
 - New Overlay: https://www.pixelplush.dev/
 - 
+
+Streams Notes/ Snippets/ Shared urls
+-----------------------------------
+
+
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+dotnet aspnet-codegenerator identity -dc adminBlazorWebsite.Data.ApplicationDbContext --files "Account.Register;Account.Login;Account.Logout"
