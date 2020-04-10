@@ -10,6 +10,8 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 86 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md)
+| 85 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md)
 | 84 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md)
 | 83 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener](2020-03-27-Building-admin-webpage-AzUrlShortener.md)
 | 82 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |

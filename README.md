@@ -20,6 +20,8 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](Streams/2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md)
+| 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](Streams/2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md)
 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](Streams/2020-03-25-Building-admin-webpage-AzUrlShortener.md)
 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener](Streams/2020-03-27-Building-admin-webpage-AzUrlShortener.md)
 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Core](Streams/2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
