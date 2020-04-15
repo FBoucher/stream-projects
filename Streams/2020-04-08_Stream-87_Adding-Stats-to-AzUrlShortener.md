@@ -4,9 +4,9 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding some statistics (click count) in the project Azure UrlShortener (AzUrlShortener)... and having fun with the new InstaFluff widget.
 
-📺 - Twitch archive - stream no.
+📺 - Twitch archive - stream no.87
 
 Replay
 ------
@@ -19,6 +19,13 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:35 - Plan of the stream
+- 00:02:47 - Little tour of the project
+- 00:08:53 - Sharing event Live Coders Conference
+- 00:14:55 - Defining tasks
+- 00:25:36 - Starting to code: Adding Clicks count
+- 00:39:32 - Running a little test
+- 02:10:01 - Writing PR nice work done.
 
 
 Project

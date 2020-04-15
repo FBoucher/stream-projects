@@ -4,7 +4,9 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this session, Frank is sharing the code for an Azure Automatic Video Converter project using Azure Media Services, Azure Logic Apps and Azure Functions
+
+He will migrate the code in GitHub and start ease the deployment of the solution, so everybody can have one easily.
 
 📺 - Twitch archive - stream no.88
 
