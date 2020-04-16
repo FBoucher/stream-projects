@@ -4,14 +4,13 @@
 Summary
 -------
 
-In this live stream session, Frank is 
-
+In this live stream session, Frank is closing some issues or todo for the project Azure Url Shortener. Making the default Url redirect dynamic and adding a little more details in the documentation.
 📺 - Twitch archive - stream no.89
 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/592747642)
 - Youtube(soon)
 
 
@@ -35,14 +34,14 @@ high score: 63 -[@SurlyDev:](https://www.twitch.tv/SurlyDev)
 Goals
 -----
 
-- [ ] Add Documentaion details (AZURL#32)
-- [X Make the Default Redirect customizable (AZURL#1)
+- [ ] Add Documentation details (AZURL#32)
+- [X] Make the Default Redirect customizable (AZURL#1)
 
 
 
 ToDos
 -----
-- [ ] unfinish todos from previous stream
+- finish Documentation details (AZURL#32)
 
 
 New Followers

@@ -13,7 +13,7 @@ He will migrate the code in GitHub and start ease the deployment of the solution
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/589338160)
 - Youtube(soon)
 
 
@@ -21,12 +21,17 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:10 - Explain the project at high level
+- 00:02:47 - little demo
+- 00:24:05 - What is Octobox?
+- 00:45:27 - Trying to pull from Azure.Sample and push in current repo to keep the history
+- 01:00:21 - Cleanup what this project is not using
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: Azure Automatic Video Converter - https://github.com/FBoucher/Azure-Automatic-Video-Converter
 
 
 
@@ -38,27 +43,17 @@ Goals
 - [ ] as much automation as possible
 
 
-ToDos
------
-- [ ] unfinish todos from previous stream
-
 
 New Followers
 -------------
 
-- [@mjisaak ](https://www.twitch.tv/mjisaak )
+- [@mjisaak](https://www.twitch.tv/mjisaak )
 
 
 New Subscribers
 ---------------
 
-- [@mjisaak ](https://www.twitch.tv/mjisaak )
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
+- [@mjisaak](https://www.twitch.tv/mjisaak )
 
 
 
@@ -74,7 +69,7 @@ Host
 Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
-- 
+- https://github.com/Azure-Samples/media-services-v3-dotnet-core-functions-integration
 
 
 References
