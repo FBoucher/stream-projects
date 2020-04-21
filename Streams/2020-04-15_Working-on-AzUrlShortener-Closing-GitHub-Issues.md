@@ -11,13 +11,18 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/592747642)
-- Youtube(soon)
+- [Youtube](https://youtu.be/fcDFtOl_X-c)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:02:01 - Quick intro to the AzUrlShortener Project
+- 00:07:55 - GitKraken Updates What's new...
+- 00:28:37 - Going to the rabbit hole about documentation...
+- 00:30:04 - yep documentation it is...
+- 02:15:01 - wrapping up
 
 
 Project
