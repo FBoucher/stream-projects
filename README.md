@@ -20,6 +20,9 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
+| 2020-04-17 | [AzUrlShortener - How it work documentation](2020-04-17-Stream-90-AzUrlShortener-1-click-to-deploy-everything.md)
+| 2020-04-15 | [Working on the Azure Url Shortener (AzUrlShortener) - Closing GitHub Issues](2020-04-15_Working-on-AzUrlShortener-Closing-GitHub-Issues.md)
+| 2020-04-08 | [What stats should we add at our URL Shortener aka. AzUrlShortener](2020-04-08_Stream-87_Adding-Stats-to-AzUrlShortener.md)
 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](Streams/2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md)
 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](Streams/2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md)
 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](Streams/2020-03-25-Building-admin-webpage-AzUrlShortener.md)
@@ -27,6 +30,21 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Core](Streams/2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Core ](Streams/2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](Streams/2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
+
+
+---
+
+## [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
+
+An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
+
+🔗 https://github.com/FBoucher/Azure-Automatic-Video-Converter
+
+### Stream Notes
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+| 2020-04-11 | [Building an automatic video converter with AMS Azure Media Services](2020-04-11_Stream-88_Building-automatic-video-converterwith-Azure-Media-Services.md)
 
 
 ---

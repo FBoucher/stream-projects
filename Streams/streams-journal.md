@@ -10,6 +10,10 @@ Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
 |----|------------|---------------------------------------------------------------|
+| 90 | 2020-04-17 | [AzUrlShortener - How it work documentation](2020-04-17-Stream-90-AzUrlShortener-1-click-to-deploy-everything.md)
+| 89 | 2020-04-15 | [Working on the Azure Url Shortener (AzUrlShortener) - Closing GitHub Issues](2020-04-15_Working-on-AzUrlShortener-Closing-GitHub-Issues.md)
+| 88 | 2020-04-11 | [Building an automatic video converter with AMS Azure Media Services](2020-04-11_Stream-88_Building-automatic-video-converterwith-Azure-Media-Services.md)
+| 87 | 2020-04-08 | [What stats should we add at our URL Shortener aka. AzUrlShortener](2020-04-08_Stream-87_Adding-Stats-to-AzUrlShortener.md)
 | 86 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md)
 | 85 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md)
 | 84 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md)
