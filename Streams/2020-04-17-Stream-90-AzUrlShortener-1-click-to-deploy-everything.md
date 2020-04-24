@@ -1,10 +1,10 @@
 
-# 2020-04-17 - Stream 90 AzUrlShortener - 1-click to deploy everything
+# 2020-04-17 - Stream 90 AzUrlShortener - Documentation is important, right?! 
 
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is writing documentation on the Azure URL Shortener project adding more detail on how it works and how to use it.
 
 📺 - Twitch archive - stream no.90
 
@@ -19,6 +19,13 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:30 - Little tour about the project
+- 00:13:50 - New Feature in VS Code extension ARM Template tool
+- 00:24:07 - Updating docs/github replacing interface by frontend
+- 00:51:42 - Little tour of the resources in Azure for the project, analytics and cost
+- 01:03:04 - Updating the documentation 
+- 02:05:10 - Validation that things are working
+- 02:17:10 - Wrapping up
 
 
 Project
