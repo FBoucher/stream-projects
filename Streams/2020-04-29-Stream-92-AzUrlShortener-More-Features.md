@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding a diagram to the doc, and improving the result of the Azure Url Shortener (AzUrlShortener). He will add more detail in the Azure Function that return all url and use that new information in the UI.
 
 📺 - Twitch archive - stream no.92
 
@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/viqAXcWK7Oo)
 
 
 Timestamps
