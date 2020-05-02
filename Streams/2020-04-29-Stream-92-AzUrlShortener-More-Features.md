@@ -19,6 +19,10 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:17 - Show & tell/ plan of the day
+- 00:35:34 - Start AZURL #37 - Add diagram of the solution
+- 01:23:01 - Start working on AZURL #30 - AzFunction List should return also Add a complete Short Url
+- 02:15:31 - Git push and wrapping up
 
 
 Project
@@ -34,12 +38,6 @@ Goals
 - [X] Fix missing images
 - [X] AZURL#37 - add map diagram (map of all the Azure Resources) 
 - [X] AZURL#30 - AzFunction List should return also Add a complete Short Url
-
-
-ToDos
------
-- [ ] Dig to EntityResolver
-
 
 
 New Subscribers
