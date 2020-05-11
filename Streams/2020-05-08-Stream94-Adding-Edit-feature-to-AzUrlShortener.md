@@ -11,7 +11,7 @@ In this live stream session, Frank is working on the project Azure Url Shortener
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/614770305)
 - Youtube(soon)
 
 
@@ -19,6 +19,14 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:30 - Show/ Tell/ Share
+- 00:02:01 - Show/ demonstrate bug AZURL#47 Bug redirect when no key passed
+- 00:04:10 - Showing off the board and all GitKraken stuff
+- 00:07:50 - Writing stream notes
+- 00:22:57 - Start working on AZURL#47 Bug
+- 00:48:36 - done pushing fix
+- 00:50:50 - Start working AZURL#44 UI to Edit and AZURL#43
+- 01:52:20 - Wrapping up
 
 
 Project
@@ -27,38 +35,26 @@ Project
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
 
 
-
 Goals
 -----
 
-- [ ] AZURL#47 Bug redirect when no key passed
+- [X] AZURL#47 Bug redirect when no key passed
 - [ ] AZURL#44 UI to Edit
 - [ ] AZURL#43 Add a better Grid in the website
 
 
 
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@johanB](https://www.twitch.tv/johanB)
+- [@Wally_KC](https://www.twitch.tv/Wally_KC)
 
 
 New Subscribers
 ---------------
 
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
+- [@Wally_KC](https://www.twitch.tv/Wally_KC)
 
 
 Game Parachute (!drop) Champion of the day
