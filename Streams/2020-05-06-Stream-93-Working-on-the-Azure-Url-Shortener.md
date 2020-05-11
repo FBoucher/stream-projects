@@ -11,7 +11,7 @@ In this live stream session (no.93), Frank is working on the project Azure Url S
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/612824625)
 - Youtube(soon)
 
 
@@ -19,14 +19,15 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:03:47 - plan of the day
+- 00:18:01 - Start working on AZURL#44 UI to Edit
+- 02:11:01 - Share post and video about advanced ARM template tips https://c5m.ca/23
+- 02:16:01 - Wrapping-up
 
 Project
 -------
 
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-
 
 Goals
 -----
@@ -34,8 +35,6 @@ Goals
 - [X] AZURL#45 Add AzFrunction to Update the URL
 - [ ] AZURL#44 UI to Edit
 - [ ] AZURL#43 Add a better Grid in the website
-
-
 
 ToDos
 -----
@@ -47,6 +46,8 @@ New Followers
 -------------
 
 - [@rayzing](https://www.twitch.tv/rayzing)
+- [@Chrisleinevitable](https://www.twitch.tv/Chrisleinevitable)
+- [@karind7](https://www.twitch.tv/karind7)
 
 
 New Subscribers
@@ -55,24 +56,10 @@ New Subscribers
 - [@LePhi0](https://www.twitch.tv/LePhi0)
 
 
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
 High Score
 ------
 
 - [@Wally_KC:](https://www.twitch.tv/Wally_KC:):  79.31 points!
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
 
 
 References
