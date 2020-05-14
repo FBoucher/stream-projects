@@ -47,8 +47,8 @@ New Subscribers
 
 
 
-Drop Parachute Highwst Score
-------
+Drop Parachute Highest Score
+----------------------------
 
 - [@phrakberg](https://www.twitch.tv/phrakberg):  70.69
 

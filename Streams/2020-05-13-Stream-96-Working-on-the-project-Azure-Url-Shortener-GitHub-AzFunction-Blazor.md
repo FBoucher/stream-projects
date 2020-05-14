@@ -1,5 +1,7 @@
 
-# 2020-05-03 - Stream Template
+# 2020-05-13 - Stream 96 - Working on the project Azure Url Shortener GitHub, AzFunction, Blazor 
+
+
 
 Summary
 -------
@@ -31,7 +33,11 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 Goals
 -----
 
-- [ ] Something...
+- [X] AZURL#56 ref Azure Serverless library
+- [X] AZURL#56 Update gitHub references to videos blog
+- [ ] AZURL#24 Store the page title, along with the URL
+
+
 
 
 
