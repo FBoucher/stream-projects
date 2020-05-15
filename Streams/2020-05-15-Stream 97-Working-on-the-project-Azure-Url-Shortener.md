@@ -31,9 +31,9 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 Goals
 -----
 
-- [ ] AZURL#24 Store the page title, along with the URL
-
-
+- [X] AZURL#24 Store the page title, along with the URL
+- [ ] AZURL#50 Add documentation to show how to update/ upgrade
+ 
 
 ToDos
 -----
