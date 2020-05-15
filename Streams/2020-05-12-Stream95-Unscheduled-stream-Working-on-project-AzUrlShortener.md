@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+    
 
 📺 - Twitch archive - stream no.95
 
@@ -31,7 +31,7 @@ Goals
 -----
 
 - [X] AZURL#44 UI to Edit
-- [X] AZURL#43 Add a better Grid in the website
+- [ ] AZURL#43 Add a better Grid in the website
 - [X] AZURL#53 Don't save all API URLs individually in admin
 
 
