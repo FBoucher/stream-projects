@@ -13,7 +13,7 @@ In this live stream session, Frank is Working on the Azure Url SHortener. Closin
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/619695983)
 - Youtube(soon)
 
 
