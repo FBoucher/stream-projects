@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is finishing and deploying to production the task AZURL#24 to store a page title/ description, along with the URL. He will also start AZURL#50 to add documentation about how to update/ upgrade, but where should it go?
 
 📺 - Twitch archive - stream no.
 
@@ -19,6 +19,11 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:00:01 - 
+- 00:00:01 - 
+- 00:00:01 - 
+- 00:00:01 - 
+- 00:00:01 - 
 
 
 Project
