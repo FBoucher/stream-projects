@@ -21,6 +21,12 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:38 - Show & Tell
+- 00:22:00 - Should I do version?
+- 00:34:01 - AzUrl#56 - Adding some references to videos and blogs in GitHub (adding more doc)
+- 01:41:09 - About to merge AzUrl#56
+- 01:43:01 - Starting AzUrl#24 to save title/ description with the URL
+- 02:21:21 - Wrapping-up
 
 
 Project
