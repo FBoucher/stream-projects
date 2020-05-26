@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is doing a return on Microsoft Build and add documentation for issue AZURL#50: Add documentation to show how to update/ upgrade. And add more information about the password requirement as requested in AZURL#66: Invalid Login.
 
 📺 - Twitch archive - stream no.98
 
@@ -19,6 +19,14 @@ Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:03 - More about LiveCoders
+- 00:02:01 - Show & Tell, Just chatting, MsBuild, WSL2
+- 00:43:18 - Review new GitHub issues
+- 00:58:03 - Pool Should we split the GitHub repository to have one for the backend and another one for frontend?
+- 01:23:01 - Start working on documentation for AZURL#50
+- 02:12:01 - Start writing documentation about issue AZURL#66 Invalid Login
+- 02:37:50 - Push the works and star doing so PRs
+- 02:50:05 - Wrapping-up
 
 
 Project
