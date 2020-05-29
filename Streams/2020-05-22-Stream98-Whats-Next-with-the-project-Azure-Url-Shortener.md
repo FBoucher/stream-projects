@@ -11,8 +11,8 @@ In this live stream session, Frank is doing a return on Microsoft Build and add 
 Replay
 ------
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/628519285)
+- [Youtube](https://youtu.be/3CNHQas8ffA)
 
 
 Timestamps
@@ -44,35 +44,12 @@ Goals
  
 
 
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
 New Followers
 -------------
 
 - [@goeddek](https://www.twitch.tv/goeddek)
 - [@vuluonghaohoa](https://www.twitch.tv/vuluonghaohoa)
 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 Drop Parachute Highest Score
@@ -82,13 +59,4 @@ Drop Parachute Highest Score
 - [@SurlyDev](https://www.twitch.tv/SurlyDev):  84.00
 - [@tbdgamer](https://www.twitch.tv/SurlyDev):  78.86
 
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
