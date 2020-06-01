@@ -1,5 +1,5 @@
 
-# 2020-05-27 - Stream99 - Azure Url Shortener - PR Review, and experimentation for new feature !bonjour !drop
+#   !bonjour !drop
 
 Summary
 -------
