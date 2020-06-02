@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is upgrading all the dependencies in the project AzUrlShortener base on the recommendation of the application Dependabot. Then he will wrap al those last changes to publish the version 0.5! Finishing the stream by testing a chart library named ChartJs.Blazor to create bar chart and display the clicks timeline statistic.
 
 📺 - Twitch archive - stream no.
 
