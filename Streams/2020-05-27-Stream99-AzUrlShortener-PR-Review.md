@@ -1,5 +1,5 @@
 
-#   !bonjour !drop
+# Azure Url Shortener - PR Review, and experimentation for new feature
 
 Summary
 -------
@@ -12,13 +12,20 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/6dR-j4XxmLg)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:01:00 - Show & Tell
+- 00:07:31 - Talk about Dependabot
+- 00:16:51 - Start looking at PR 85 Feature/soft delete
+- 01:16:07 - Testing manually the new feature
+- 01:37:01 - Merging PR 85
+- 01:54:28 - Update Dependabot config and push
+- 02:04:04 - What's next, try to plan the future steps
 
 
 Project
@@ -40,25 +47,6 @@ ToDos
 - [ ] AzUrlShortener-CLI
 
 
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
 Cheers
 ------
 
@@ -73,7 +61,6 @@ Drop Parachute Highest Score
 
 
 
-
 Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
@@ -82,7 +69,4 @@ Cloud Points
 1,000
 VIPcheer 100CopperBeardy: say baldbeardedbuilder is an inspiration to people in the dev community
 
-
-References
-----------
 
