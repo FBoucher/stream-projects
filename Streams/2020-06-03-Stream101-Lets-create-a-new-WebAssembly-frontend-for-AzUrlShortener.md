@@ -1,12 +1,12 @@
 
-# 2020-06-03 - Stream Template
+# 2020-06-03 - Stream 101 Let's create a new Web Assembly frontend for AzUrlShortener
 
 Summary
 -------
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.
+📺 - Twitch archive - stream no.101
 
 Replay
 ------
@@ -31,7 +31,9 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 Goals
 -----
 
-- [ ] Something...
+- [X] Create new Public Board to keep track of all the tasks/ ideas/ project related to the streams 
+- [ ] AzUlrShortener GitHUb maintenance (review new Issues, PR)
+- [X] Start a new project for a AzUrlShortener web assembly frontend (https://github.com/FBoucher/TinyBlazorAdmin)
 
 
 
@@ -75,8 +77,9 @@ Drop Parachute Highest Score
 Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
-- 
-
+- New Cloud Planning board: https://app.gitkraken.com/glo/board/XteiyzizbgASw2qG
+- New Link for the board: https://c5m.ca/cloudplanning
+- https://github.com/FBoucher/TinyBlazorAdmin
 
 References
 ----------
