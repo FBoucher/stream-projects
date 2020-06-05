@@ -18,14 +18,22 @@ Replay
 Timestamps
 --------
 
-- 00:00:01 - Bonjour, Hi!
+- 00:01:01 - Bonjour, Hi!
+- 00:00:01 - Start working on updating all the dependencies 
+- 00:17:42 - Q: How did you got into coding?
+- 00:37:06 - Testing with all the new veriosn
+- 00:51:55 - azurl#74 Display error for the URL
+- 00:51:55 - Checking/ trying the lib ChartJs.Blazor
+- 01:19:53 - Creating PR for the new version
+- 01:35:33 - New webassembly to try to do some charts with ChartJs.Blazor
+- 02:14:00 - Wrapping-up!
+ 
 
 
 Project
 -------
 
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
 
 
 Goals
@@ -38,49 +46,10 @@ Goals
 
 - [ ] TRying https://github.com/mariusmuntean/ChartJs.Blazor
 
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
 
 Cheers
 ------
 
-- [@](https://www.twitch.tv/):  bits
+- [@clarkio](https://www.twitch.tv/clarkio):  100 bits
 
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
