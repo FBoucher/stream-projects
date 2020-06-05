@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/RjBIgpkQB-M)
 
 
 Timestamps
@@ -35,36 +35,6 @@ Goals
 - [ ] AzUlrShortener GitHUb maintenance (review new Issues, PR)
 - [X] Start a new project for a AzUrlShortener web assembly frontend (https://github.com/FBoucher/TinyBlazorAdmin)
 
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 Drop Parachute Highest Score
