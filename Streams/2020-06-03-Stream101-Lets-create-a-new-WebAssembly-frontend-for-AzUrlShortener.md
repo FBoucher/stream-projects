@@ -1,10 +1,10 @@
 
-# 2020-06-03 - Stream 101 Let's create a new Web Assembly frontend for AzUrlShortener
+# 2020-06-03 - Stream 101 GitHub project maintenance and planning 
 
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is doing some project maintenance, labeling, and prioritizing the issue on GitHub. Then he will create a new "global" public board with all the ideas and projects. 
 
 📺 - Twitch archive - stream no.101
 

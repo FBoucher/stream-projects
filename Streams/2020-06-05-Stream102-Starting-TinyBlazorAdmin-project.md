@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is starting a brand new project a admin static website to complement the UrlShortener backend. Making the documentation as he progress he will show how to create an Application registration for Azure Active Directory (AAD) and create an Blazor web assembly that use Azure Identity as login. 
 
 📺 - Twitch archive - stream no.
 
@@ -89,3 +89,4 @@ Streams Notes/ Snippets/ Shared urls
 References
 ----------
 
+- Quickstart: Register an application with the Microsoft identity platform: https://c5m.ca/azAppRegistration
