@@ -12,58 +12,37 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Youtube](https://youtu.be/_t0M1rr1Dc0)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
+- 00:03:14 - new intro to the live
+- 00:09:10 - Plan of the stream
+- 00:12:17 - Create a new board for the project, adding tasks
+- 00:39:21 - Starting tiny#4 Write manual deployment doc
+- 01:40:01 - tiny#3 Create new app
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
+All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
 
 Goals
 -----
 
-- [ ] tino#3 Create MVP
-- [ ] tino#4 Write manual deployment doc
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
+- [x] tiny#3 Create MVP
+- [x] tiny#4 Write manual deployment doc
 
 
 New Followers
 -------------
 
 - [@deutschPerformance](https://www.twitch.tv/deutschPerformance)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 Drop Parachute Highest Score
@@ -77,13 +56,6 @@ Drop Parachute Highest Score
 - [@Groversaurus](https://www.twitch.tv/Groversaurus):  92.87
 - [@CodeByMistakes](https://www.twitch.tv/CodeByMistakes):  98.05
 - [@schlubadub](https://www.twitch.tv/schlubadub):  93.55
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
 
 
 References
