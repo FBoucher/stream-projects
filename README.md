@@ -6,6 +6,24 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 # Projects
 
+## [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
+
+ Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
+
+ 🔗 https://github.com/FBoucher/TinyBlazorAdmin
+
+ ### Stream Notes
+
+*Stream notes and videos from the most recent to the older.*
+
+|    Date🔼   |  Title                                                       | 
+|------------|---------------------------------------------------------------|
+
+
+
+---
+
+
 ## [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
 <img src="Streams\medias\Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
