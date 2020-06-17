@@ -12,38 +12,31 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- Youtube(soon)
+- [Summary](https://youtu.be/ZjnmPOH5404)
+- [Youtube](https://youtu.be/tbuFZZCxO-Y)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-- 00:00:01 - 
-- 00:00:01 - 
-- 00:00:01 - 
-- 00:00:01 - 
-- 00:00:01 - 
+- 00:04:17 - Adding Parachute Penguin to all scenes
+- 00:27:11 - Creating a Key Vault
+- 00:43:27 - Working on the documentation
+- 01:18:37 - Copy-pasting trying to a connection to our azFunction 
 
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/TinyBlazorAdmin
-
+All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
 
 Goals
 -----
 
 - [ ] TINY#5 Add Azure Key Vault
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
@@ -55,48 +48,25 @@ New Followers
 New Subscribers
 ---------------
 
-- [@](https://www.twitch.tv/)
+- [@Wally_KC](https://www.twitch.tv/Wally_KC)
 
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
 
 
 Drop Parachute Highest Score
 ----------------------------
 
-- [@](https://www.twitch.tv/):  70.69
-
-- codebymistakes landed for 77.56!
-- groversaurus landed for 94.05!
-- surlydev landed for 90.21!
-- therealsurlybot landed for 80.92!
-- jtsom landed for 99.95!
-- phrakberg landed for 52.78!!
-- fredda_the_cat landed for 74.11!
+- [@codebymistakes](https://www.twitch.tv/) landed for 77.56!
+- [@groversaurus](https://www.twitch.tv/) landed for 94.05!
+- [@surlydev](https://www.twitch.tv/) landed for 90.21!
+- [@therealsurlybot](https://www.twitch.tv/) landed for 80.92!
+- [@jtsom](https://www.twitch.tv/) landed for 99.95!
+- [@phrakberg](https://www.twitch.tv/) landed for 52.78!!
+- [@fredda_the_cat](https://www.twitch.tv/) landed for 74.11!
 
 
 LOWEST SCORE
 ------------
 
-- surlydev landed for 0.75!
+- [@surlydev](https://www.twitch.tv/) landed for 0.75!
 
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
