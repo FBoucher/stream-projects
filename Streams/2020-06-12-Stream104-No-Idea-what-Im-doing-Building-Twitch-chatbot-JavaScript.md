@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is learning ComfyJS a JavaScript framework. Building slowly but surely a Twitch bot. We learn sooo much! 
 
 📺 - Twitch archive - stream no.
 
