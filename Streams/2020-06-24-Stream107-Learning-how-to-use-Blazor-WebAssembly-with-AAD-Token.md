@@ -25,7 +25,7 @@ Timestamps
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/TinyBlazorAdmin
 
 
 
@@ -63,7 +63,8 @@ Raids
 Cheers
 ------
 
-- [@](https://www.twitch.tv/):  bits
+- [@copperbeardy](https://www.twitch.tv/copperbeardy): 25 bits
+
 
 
 Drop Parachute Highest Score
@@ -71,14 +72,30 @@ Drop Parachute Highest Score
 
 - [@](https://www.twitch.tv/):  70.69
 
+- copperbeardy landed for 48.08!
+- mreyeros landed for 56.21!
+- codewithsean landed for 92.77!
+- fredda_the_cat landed for 96.95!
+
+
+
+Drop Parachute Highest Score
+----------------------------
+
+- copperbeardy landed for 9.24!
+
 
 
 Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
-- 
+- dotnet add package Microsoft.AspNetCore.Authorization
+- dotnet add package Microsoft.Extensions.Http 
+- dotnet add package System.Net.Http.Json
+- dotnet add package Microsoft.AspNetCore.Blazor.HttpClient --version 3.2.0-preview3.20168.3
 
 
 References
 ----------
 
+- https://blog.jeremylikness.com/blog/azure-ad-secured-serverless-cosmosdb-from-blazor-webassembly/
