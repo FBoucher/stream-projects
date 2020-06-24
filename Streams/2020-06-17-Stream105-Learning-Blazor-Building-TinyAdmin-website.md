@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is creating a sample Blazor Web Assembly (wasm) application to learn how to read a value from an Azure Key Vault. It's possible... 
 
 📺 - Twitch archive - stream no.105
 
