@@ -4,9 +4,9 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is starting a brand new project: CloudBot. The goal is to have a fun and interactive chat bot for the stream and also the perfect pretext to learn JavaScript. We will be using/ learning Comfy.js and Node.js.
 
-📺 - Twitch archive - stream no.
+📺 - Twitch archive - stream no.106
 
 Replay
 ------
@@ -25,7 +25,7 @@ Timestamps
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: CloudBot - https://github.com/FBoucher/CloudBot/
 
 
 
