@@ -13,27 +13,22 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/uc2jlWnp-Yg)
 
 
 Timestamps
 --------
 
 - 00:00:01 - Bonjour, Hi!
-
+- 00:03:01 - Show and tell about New Show All Around Azure
+- 00:08:50 - Plan of the day
+- 00:16:53 - Create a simple new webapp to learn.
+- 00:18:00 - Try things... different versions and alternatives
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-
-
-Goals
------
-
-- [ ] Something...
-
+All the code for this project is available on GitHub: TinyBlazorAdmin - https://github.com/FBoucher/TinyBlazorAdmin
 
 
 ToDos
@@ -47,22 +42,6 @@ New Followers
 - [@mjfreelancing](https://www.twitch.tv/mjfreelancing)
 - [@Maayainsane](https://www.twitch.tv/Maayainsane)
 - [@DNIStream](https://www.twitch.tv/DNIStream)
-
-
-
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
 
 
 Hosts
