@@ -19,7 +19,10 @@ Replay
 Timestamps
 --------
 
-- 00:00:01 - Bonjour, Hi!
+00:00:00 Bonjour, Hi!
+00:00:20 Theme animation
+00:00:30 Show and Tell
+
 
 
 Project

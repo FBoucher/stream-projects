@@ -13,13 +13,24 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/lxq48ZlG1hM)
 
 
 Timestamps
 --------
 
-- 00:00:01 - Bonjour, Hi!
+00:00:00 Bonjour, Hi!
+00:00:20 Theme animation
+00:00:30 Show and Tell
+00:01:53 Plan of the stream
+00:07:02 Create a new GitHub project, and cloning locally
+00:29:25 Create new Board
+00:54:48 Starting to code
+01:05:19 Starting the scorekeeper
+01:38:18 Installing Node.js and trying a few things
+02:07:24 Talking about Live Codes conference 2
+02:10:13 Wrapping up 
+02:12:46 End
 
 
 Project
