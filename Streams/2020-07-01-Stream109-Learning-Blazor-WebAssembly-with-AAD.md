@@ -83,3 +83,4 @@ Streams Notes/ Snippets/ Shared urls
 References
 ----------
 
+- https://blog.jeremylikness.com/blog/azure-ad-secured-serverless-cosmosdb-from-blazor-webassembly/

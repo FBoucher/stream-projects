@@ -3,8 +3,7 @@
 
 Summary
 -------
-
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the cloud bot. A JavaScript chat bot for Twitch build every easily, thanks to the Confyjs library. The goal is to be able to keep track of the Highest scores.
 
 📺 - Twitch archive - stream no.108
 
@@ -13,22 +12,30 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/EwPMhKmLSCs)
 
 
 Timestamps
 --------
 
-00:00:00 Bonjour, Hi!
-00:00:20 Theme animation
-00:00:30 Show and Tell
+00:00:10 Intro
+00:00:10 Bonjour, Hi!
+00:01:55 Previously on the stream
+00:05:20 Test using Azure (Storage and Serverless)
+00:05:20 Start working on the Scores commands
+00:44:20 Adding command !clear
+00:45:53 Cleaning-up the code
+01:04:12 Fixing the save score function
+02:11:20 Getting ready to push the code to GitHub
+02:17:07 Need a image for GitHub
+02:21:06 Wrap up and raid!
 
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: CloudBot - https://github.com/FBoucher/CloudBot
 
 
 

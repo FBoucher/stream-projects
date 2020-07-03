@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on improving the security for the Tiny Blazor Admin project. In other words, he is changing the code so the Blazor web assembly (wasm - client side) website will be calling some Azure Function using Azure Active Directory (AAD).
 
 📺 - Twitch archive - stream no.107
 
@@ -13,13 +13,20 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://c5m.ca/stream-ep107)
 
 
 Timestamps
 --------
 
-- 00:00:01 - Bonjour, Hi!
+00:00:00 Intro 
+00:00:10 Bonjour, Hi!
+00:03:44 Plan of the stream
+00:10:54 Making sure the App was created the correct way.
+00:18:42 Securing the Azure Functions with Azure AD
+01:24:57 Configuring Blazor WebAssembly to use the Azure AD Token
+02:20:42 Ready to call the function... but no time!
+02:22:00 Wrapping up!
 
 
 Project
