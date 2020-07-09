@@ -1,12 +1,12 @@
 
-# 2020-07-03 - Stream110 Learning JavaScript 😱 Building Twitch chatbot 
+# 2020-07-08 - Stream111 Back to TinyBlazorAdmin aplying what we learn about Blazor wasm and AAD 
 
 Summary
 -------
 
-In this live stream session, Frank is working on the project Cloud Bot a Twitch chatbot created in JavaScript. In this particular session we are saving the highest score of every participant and trying to display to total score of everyone.
+In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.110
+📺 - Twitch archive - stream no.111
 
 Replay
 ------
@@ -26,16 +26,14 @@ Timestamps
 Project
 -------
 
-All the code for this project is available on GitHub: CloudBot - https://github.com/FBoucher/CloudBot
+All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
 
 
 
 Goals
 -----
 
-- [ ] Keep high score
-- [ ] Make score visible
-- [ ] Play sound challenge?!
+- [ ] Call GetUrls securly
 
 
 
