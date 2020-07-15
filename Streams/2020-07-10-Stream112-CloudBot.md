@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is fixing the issue CB#11 when the Cloudbot doesn't find the user become of capitalization. Then start learning how Nodejs works and try to, from the client side call a function on the server side passing a parameter... It was one of those stream where we learn a lot!
 
 📺 - Twitch archive - stream no.112
 
@@ -33,7 +33,7 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 Goals
 -----
 
-- [ ] CB#11 - When stats are save the user's name is saved in lowercase ...
+- [X] CB#11 - When stats are save the user's name is saved in lowercase ...
 - [ ] CB#15 - Save Results
 
 
