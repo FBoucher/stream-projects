@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/NqM1stcFbzM)
 
 
 Timestamps
@@ -21,12 +21,16 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
+00:01:17 Pnan of the day
+00:09:38 Working on CB#11 - Set all user to lowercase
+00:43:44 Learnig Nodejs working on CB#15 - Save Results
+02:13:10 Wrapping-up
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: CloudBot - https://github.com/FBoucher/CloudBot
 
 
 
@@ -74,18 +78,10 @@ Hosts
 - [@RMauroDev](https://www.twitch.tv/RMauroDev) just hosted the stream for 1 viewers!
 
 
-
 Drop Parachute Highest Score
 ----------------------------
 
 - [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
 
 
 References
