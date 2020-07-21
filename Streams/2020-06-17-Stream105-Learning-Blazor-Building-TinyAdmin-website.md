@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
+⚡ [Summary video](https://youtu.be/6I8tc-OObLY)
 - [Youtube](https://youtu.be/uc2jlWnp-Yg)
 - [c5m.ca/stream-ep105](https://c5m.ca/stream-ep105)
 

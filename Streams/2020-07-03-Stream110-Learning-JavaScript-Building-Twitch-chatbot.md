@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
+⚡ [Summary video](https://youtu.be/KszCPCaT1j0)
 - [Youtube](https://youtu.be/bEsAMXF63eE)
 
 
