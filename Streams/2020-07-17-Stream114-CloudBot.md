@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the serialization and deserialization of the stream session information to a file in Node.js. It was a greatstream where we close a few ticket, learn many new things and had a lot of fun.
 
 📺 - Twitch archive - stream no.114
 

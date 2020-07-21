@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is investigating why the application is crashing after adding the Azure AD login... and the issue was fixed! 
 
 📺 - Twitch archive - stream no.113
 
