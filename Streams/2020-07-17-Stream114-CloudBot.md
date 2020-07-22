@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is working on the serialization and deserialization of the stream session information to a file in Node.js. It was a greatstream where we close a few ticket, learn many new things and had a lot of fun.
+In this live stream session, Frank is working on the serialization and deserialization of the stream session information to a file in Node.js. It was a great stream where we close a few ticket, learn many new things and had a lot of fun.
 
 📺 - Twitch archive - stream no.114
 
@@ -20,7 +20,14 @@ Timestamps
 --------
 
 00:00:00 Intro
-00:00:10 Bonjour, Hi!
+00:00:33 Animation
+00:00:43 Bonjour, Hi!
+00:13:40 Current Status, deciding what's next
+00:32:34 Trying to save to file and read from file
+01:40:03 Updating Glo Board
+01:44:34 Create a more complex class to hold all stream information
+02:16:24 Wrapping up
+
 
 
 Project
@@ -80,8 +87,8 @@ Streams Notes/ Snippets/ Shared urls
 -----------------------------------
 
 - NeDB: https://github.com/louischatriot/nedb
-- Fauna
-
+- Fauna:
+- Fastify: https://www.fastify.io/
 
 References
 ----------
