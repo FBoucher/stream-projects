@@ -1,0 +1,96 @@
+
+# 2020-07-24 - Stream116 Learning Node.js for the first time: Creating a virtual Co-Host
+
+Summary
+-------
+
+In this live stream session, Frank is 
+
+📺 - Twitch archive - stream no.116
+
+Replay
+------
+
+- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
+⚡ Summary video:
+- Youtube(soon)
+
+
+Timestamps
+--------
+
+00:00:00 Intro
+00:00:10 Bonjour, Hi!
+
+
+Project
+-------
+
+All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+
+All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
+
+
+Goals
+-----
+
+- [ ] Generate Stream Notes
+
+
+
+ToDos
+-----
+- [ ] unfinish todos from previous stream
+
+
+New Followers
+-------------
+
+- [@grandsinger](https://www.twitch.tv/grandsinger)
+- [@shadow88a](https://www.twitch.tv/shadow88a)
+- [@MoNoRHD](https://www.twitch.tv/MoNoRHD)
+- [@ploverman](https://www.twitch.tv/ploverman)
+- [@antonio_pazp](https://www.twitch.tv/antonio_pazp)
+- [@aliceatalla](https://www.twitch.tv/aliceatalla)
+- [@guilherme_montiel](https://www.twitch.tv/guilherme_montiel)
+- [@mohamezm](https://www.twitch.tv/mohamezm)
+- [@Skyhoshi](https://www.twitch.tv/Skyhoshi)
+
+
+
+
+New Subscribers
+---------------
+
+- [@](https://www.twitch.tv/)
+
+
+Raids
+------
+
+- [@](https://www.twitch.tv/) has raided you with a party of 
+
+
+
+Cheers
+------
+
+- [@](https://www.twitch.tv/):  bits
+
+
+Drop Parachute Highest Score
+----------------------------
+
+- [@](https://www.twitch.tv/):  70.69
+
+
+
+Streams Notes/ Snippets/ Shared urls
+-----------------------------------
+
+- 
+
+
+References
+----------
+
