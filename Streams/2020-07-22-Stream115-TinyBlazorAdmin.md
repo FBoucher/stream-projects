@@ -13,14 +13,19 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/IFLPz4sh650)
 
 
 Timestamps
 --------
 
 00:00:00 Intro
-00:00:10 Bonjour, Hi!
+00:00:10 Bonjour, Hi! 
+00:02:10 Introduction to the project
+00:06:17 Showing last update into the code
+00:18:33 Converting URLShortener (CREATE) call, and fixing the HTML page
+01:15:53 Converting URLUpdate and URLArchive call
+02:14:10 Push, and wrap-up
 
 
 Project
@@ -29,18 +34,6 @@ Project
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
 
 All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
-
-Goals
------
-
-- [ ] Tiny#3 Create Minimal viable product
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
