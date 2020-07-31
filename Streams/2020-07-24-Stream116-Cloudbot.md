@@ -21,14 +21,18 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
+00:01:30 Intro to the project Cloud Bot
+00:09:10 Fixing display message for stats
+00:29:43 Start working on collecting new follower
+01:08:10 Fixing the scores display
+02:02:51 Wrapping-up
+
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
+All the code for this project is available on GitHub: CloudBot https://github.com/FBoucher/CloudBot
 
 
 Goals
