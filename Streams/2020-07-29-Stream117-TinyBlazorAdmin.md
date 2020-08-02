@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is fixing the modal windows and testing all the features of the TinyBlazorAdmin. This project is now up to date with the server side version (included into the Azure Url Shortener project). Next will be the deployment...
 
 📺 - Twitch archive - stream no.109
 
