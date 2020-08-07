@@ -21,6 +21,13 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
+00:01:10 Recap, share news
+00:09:30 Cleaning the board 
+00:39:00 Answering question: SQL database in Azure
+00:51:05 Let's learn how to play sound in JavaScript
+01:24:00 Try to clean the code using enum 
+02:22:00 Adding more tasks to the board
+02:32:00 Wrapping-up 
 
 
 Project
