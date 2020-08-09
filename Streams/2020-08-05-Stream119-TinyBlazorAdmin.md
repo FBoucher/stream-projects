@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the documentation for the manual deployment of TinyBlazorAdmin. This is a client side website is the frontend of a tool to make short URLs. It's done in C# using Blazor web assembly. Until we make a automatic deployment we need some manual instruction.
 
 📺 - Twitch archive - stream no.119
 
@@ -21,12 +21,15 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:01:30 Plan of the day
+00:11:38 Start documenting the TinyBlazorAdmin manual  deployment
+00:42:13 Generating the deployable artifacts
+00:48:57 Back to deployment documentation
+02:04:31 Answering branding question... 
+02:14:10 Wrapping-up
 
 Project
 -------
-
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
 
 All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
@@ -37,12 +40,6 @@ Goals
 - [ ] Document manual deployment
 - [ ] Document how to use it with AzUrlShortener
 - [ ] Document on AzUrlShortener side for the new light interface
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
@@ -56,31 +53,10 @@ New Followers
 - [@Bossfighterx](https://www.twitch.tv/Bossfighterx)
 
 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
 Cheers
 ------
 
 - [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
 
 
 Streams Notes/ Snippets/ Shared urls
@@ -90,8 +66,3 @@ Streams Notes/ Snippets/ Shared urls
 - run a command that will grab a script from github and do the configuration.
 
 - run the script from Cloud shell
-
-
-References
-----------
-
