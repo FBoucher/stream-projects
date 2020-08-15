@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is celebrating his 500 Twitch followers and working on the chat bot. This week task is to save and load the project information.
 
 📺 - Twitch archive - stream no.120
 
@@ -21,6 +21,14 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
+00:01:00 Showing the giveway swags
+00:02:37 Explaining the project of the day
+00:04:35 Fixing chat bot the running one
+00:14:45 Showing the project info saved
+00:31:29 Debugging save/load project info
+02:59:35 Collecting winner names
+00:04:35 Wrapping-up
+
 
 
 Project

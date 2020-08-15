@@ -1,12 +1,12 @@
 
-# 2020-07-01 - Stream109 Learning how to use a Blazor WebAssembly with Azure AD Token
+# 2020-07-01 - Stream122 Learning Node.js for the first time: Building a chatbot
 
 Summary
 -------
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.109
+📺 - Twitch archive - stream no.122
 
 Replay
 ------
@@ -26,30 +26,34 @@ Timestamps
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
+
+
 
 
 Goals
 -----
 
-- [ ] Something...
+- [X] Track more Twitch events
+- [X] Load with followers with options
 
 
 
 ToDos
 -----
-- [ ] unfinish todos from previous stream
+- [ ] Write the new sections
 
 
 New Followers
 -------------
 
-- [@](https://www.twitch.tv/)
+- [@omkarphatak](https://www.twitch.tv/omkarphatak)
+- [@dev_jack](https://www.twitch.tv/dev_jack)
+- [@icon33](https://www.twitch.tv/icon33)
+- [@TwitchNYC2020](https://www.twitch.tv/TwitchNYC2020)
+- [@thenillajay](https://www.twitch.tv/thenillajay)
 
+ 
 
 New Subscribers
 ---------------
