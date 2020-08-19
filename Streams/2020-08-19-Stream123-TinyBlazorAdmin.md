@@ -1,19 +1,19 @@
 
-# 2020-08-14 - Stream 122 Learning Node.js for the first time: Building a chatbot
+# 2020-08-19 - Stream123 Exploring .Net Blazor UI Control (aka Grid & Charts) for TinyBlazorAdmin
 
 Summary
 -------
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.122
+📺 - Twitch archive - stream no.123
 
 Replay
 ------
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube]()
+- Youtube(soon)
 
 
 Timestamps
@@ -26,34 +26,32 @@ Timestamps
 Project
 -------
 
+All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+
+All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
+
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
-
-
 
 
 Goals
 -----
 
-- [X] Track more Twitch events
-- [X] Load with followers with options
+- [ ] Something...
 
 
 
 ToDos
 -----
-- [ ] Write the new sections
+- [ ] unfinish todos from previous stream
 
 
 New Followers
 -------------
 
-- [@omkarphatak](https://www.twitch.tv/omkarphatak)
-- [@dev_jack](https://www.twitch.tv/dev_jack)
-- [@icon33](https://www.twitch.tv/icon33)
-- [@TwitchNYC2020](https://www.twitch.tv/TwitchNYC2020)
-- [@thenillajay](https://www.twitch.tv/thenillajay)
+- [@vijayscsa](https://www.twitch.tv/vijayscsa)
+- [@KeeRoll](https://www.twitch.tv/KeeRoll)
 
- 
+
 
 New Subscribers
 ---------------
