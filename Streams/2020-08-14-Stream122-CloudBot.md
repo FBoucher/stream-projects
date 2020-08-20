@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the CloudBot project. He will be adding more more Twitch event tracking and make sure they will be included in the stream notes. 
 
 📺 - Twitch archive - stream no.122
 
