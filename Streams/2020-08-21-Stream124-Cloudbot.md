@@ -20,7 +20,8 @@ Timestamps
 --------
 
 00:00:00 Intro
-00:00:10 Bonjour, Hi!
+00:00:36 Bonjour, Hi!
+
 
 
 Project

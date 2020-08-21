@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube]()
+- [Youtube](https://youtu.be/Fr_jlDPdt-8)
 
 
 Timestamps
@@ -21,27 +21,26 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:09:56 Plan to the stream
+00:12:38 Sharing kayak trip
+00:19:36 Add tacking for Raids
+00:47:35 @ThisIsDavid redeem In Quebecois
+00:52:48 Add tacking for New Subscriptions
+01:11:08 Add tacking for Hosting
+01:41:30 Add tacking for Cheers
+01:53:39 Add a Load function to reload mid-stream
+02:16:00 Wrapping-up
 
 Project
 -------
 
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
 
-
-
-
 Goals
 -----
 
 - [X] Track more Twitch events
 - [X] Load with followers with options
-
-
-
-ToDos
------
-- [ ] Write the new sections
 
 
 New Followers
@@ -53,40 +52,4 @@ New Followers
 - [@TwitchNYC2020](https://www.twitch.tv/TwitchNYC2020)
 - [@thenillajay](https://www.twitch.tv/thenillajay)
 
- 
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 
