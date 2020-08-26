@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is making great progress on the co-host functionalities of CB, the cloud bot. Working on the Stream Notes generation and the timestamps.
 
 📺 - Twitch archive - stream no.124
 
@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/ba6NRyo0oaE)
 
 
 Timestamps
@@ -21,7 +21,11 @@ Timestamps
 
 00:00:00 Intro
 00:00:36 Bonjour, Hi!
-
+00:03:01 Status... Where were we? 
+00:08:53 Starting to work on the Stream note generator
+00:41:00 Writing the Generate Parachute Section function
+01:48:29 Let's try to create timestamps with notes
+02:18:00 Wrapping-up
 
 
 Project
@@ -65,12 +69,6 @@ Drop Parachute Scores
 - [@michaelthefrustrateddev](https://www.twitch.tv/michaelthefrustrateddev) --> 67.19
 - [@phrakberg](https://www.twitch.tv/phrakberg) --> 93.12
 
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
 
 
 References
