@@ -1,12 +1,12 @@
 
-# 2020-07-01 - Stream109 Learning how to use a Blazor WebAssembly with Azure AD Token
+# 2020-09-01 - Stream126 Learning how to use a Blazor WebAssembly with Azure AD Token
 
 Summary
 -------
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.109
+📺 - Twitch archive - stream no.126
 
 Replay
 ------

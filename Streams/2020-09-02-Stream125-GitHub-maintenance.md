@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is doing some GitHub maintenance, sorting issues, merging Pull Requests (PR) from dependabot and the community. This last one will add two new frontend to the project AzUrlShortener PowerShell and SharePoint.
 
 📺 - Twitch archive - stream no.125
 
@@ -13,14 +13,20 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/TQkmBHsLZZY)
 
 
 Timestamps
 --------
 
 00:00:00 Intro
-00:00:10 Bonjour, Hi!
+00:00:18 Bonjour, Hi!
+00:00:30 Plan of the day
+00:09:49 Starting Cleaning AzUrlShortener
+00:12:07 Looking the PR PowerShell as UI from @fs366e2spm 
+00:53:41 Merging PR from dependabot
+01:16:03 Quickfix to merge PR PowerShell as UI from @fs366e2spm 
+02:00:00 Wrapping-up
 
 
 Project
