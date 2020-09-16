@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is trying to deploy an Azure function (C#) and a Blazor Web Assembly website into an Azure Static Web App (SWA)but without using a GitHub Action. CSharp is not supported officially and all documentation point to GitHub Action... so let's see if it's possible... today.
 
 📺 - Twitch archive - stream no.126
 
@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/3_QuIIzOAoY)
 
 
 Timestamps
@@ -21,6 +21,12 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
+00:00:30 Plan of the day
+00:14:40 Package AzUrlShortener
+00:45:17 Creating a Azure Static WebApp (SWA)
+01:01:30 Trying to see if there is a way without a GitHub Action
+01:40:00 Wrapping-up
+
 
 
 Project
