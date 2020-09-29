@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the chatbot. Continuing to learn more about Node.js the goal of this stream was to create images base on some cloudies text and display then in the screen so CB (the cloud bot) and "talk".
 
 📺 - Twitch archive - stream no.128
 
@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/_hybEWQ6DP0)
 
 
 Timestamps
@@ -26,23 +26,7 @@ Timestamps
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
-
-
-Goals
------
-
-- [ ] Something...
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 ## New Followers
