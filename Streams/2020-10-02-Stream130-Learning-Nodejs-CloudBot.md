@@ -1,10 +1,10 @@
 
-# 2020-09-01 - Stream130 Learning Node.js building a chatbot named CeeBee
+# 2020-10-02 - Stream130 Learning Node.js building a chatbot named CeeBee
 
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding ToDo management to the chat bot amd also display them in the screen.
 
 📺 - Twitch archive - stream no.130
 
@@ -13,7 +13,7 @@ Replay
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/HHF6pcENo7I)
 
 
 ## Project
