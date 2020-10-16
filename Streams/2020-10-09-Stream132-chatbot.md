@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding a recurring save to file to the chatbot, to avoid losing the stream notes. In the same type of idea a collection of Reminders are added to the stream.
 
 📺 - Twitch archive - stream no.132
 
@@ -12,8 +12,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/3KOJxXlmhFc)
 
 
 Project

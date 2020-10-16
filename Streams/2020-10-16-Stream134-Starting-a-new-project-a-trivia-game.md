@@ -1,19 +1,19 @@
 
-# 2020-10-07 - Stream131 Adding Clicks Statistics to TinyBlazorAdmin (Url Shortener website)
+# 2020-10-16 - Stream134 Starting a new project - a trivia game
 
 Summary
 -------
 
-In this live stream session, Frank add more information about the short Urls created by the App. For this he will create new classes to hold the data, and use SyncFusion Grid and Chart.
+In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.131
+📺 - Twitch archive - stream no.134
 
 Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/4OfwrUV1jmk)
+- Youtube(soon)
 
 
 Timestamps
@@ -21,10 +21,6 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-00:00:30 Chit-Chat
-00:22:48 Looking at the Grid
-01:15:10 Prep for the Click Stats barchart
-
 
 
 Project
