@@ -33,56 +33,19 @@ All the code for this project is available on GitHub: Tiny Blazor Admin - https:
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
 
 
-Goals
------
+## TimeLogs
 
-- [ ] Something...
+01:43:01 realised I didn't do timelog
 
+## Game Results
 
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
-
+[@marcusvoiceprogrammer](https://www.twitch.tv/marcusvoiceprogrammer): 0
+[@jasonhand24](https://www.twitch.tv/jasonhand24): 9.51
+[@surlydev](https://www.twitch.tv/surlydev): 28.82
+[@mreyeros](https://www.twitch.tv/mreyeros): 46.99
+[@smabuk](https://www.twitch.tv/smabuk): 60.39
+[@thisisdavid](https://www.twitch.tv/thisisdavid): 69.12
+[@hyfss7vxwj](https://www.twitch.tv/hyfss7vxwj): 76.95
+[@johncallaway](https://www.twitch.tv/johncallaway): 94.08
+[@phrakberg](https://www.twitch.tv/phrakberg): 97.29
+[@fboucheros](https://www.twitch.tv/fboucheros): 99.35
