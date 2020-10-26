@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is joinned by Jason to start a new project: a trivia game.  This new project (code name triavia) is for playing online while streaming. It's in a very early stage and this session was a whiteboard session, noting the ideas for the cloudies.
 
 📺 - Twitch archive - stream no.134
 
@@ -21,21 +21,14 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:30:10 Brainstorm session
+01:43:01 realized I didn't do timelog
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
+https://github.com/FBoucher/triavia
 
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
-All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
-
-
-## TimeLogs
-
-01:43:01 realised I didn't do timelog
 
 ## Game Results
 
