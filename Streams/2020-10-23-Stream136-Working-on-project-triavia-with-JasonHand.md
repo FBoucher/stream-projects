@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is joinned by Jason to contibue the work on the new project: a trivia game.  This new project (code name triavia) is for playing online while streaming. In this second stream we will start a data diagram to visualize what information is going where.
 
 📺 - Twitch archive - stream no.136
 
@@ -12,8 +12,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/hlh69jo4gH0)
 
 
 Timestamps
