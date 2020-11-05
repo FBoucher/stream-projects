@@ -1,5 +1,5 @@
 
-# 2020-10-01 - Stream126 Learning how to use a Blazor WebAssembly with Azure AD Token
+# 2020-11-01 - Stream126 Learning how to use a Blazor WebAssembly with Azure AD Token
 
 Summary
 -------
