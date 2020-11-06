@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Jason and Frank decided to use TypeScript as the language for the project Triavia. And because both of them didn't know how to code in TypeScript, it became the goal of the day. Join them in this learning exercise...
 
 📺 - Twitch archive - stream no.126
 
@@ -12,8 +12,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
-- Youtube(soon)
+- [Youtube](https://youtu.be/ZbuvdEoB88I)
 
 ## Project
 
