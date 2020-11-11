@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is finalizing the documentation to make sure it's possible to deploy the AzUrlShortener with the next interface (static webapp). Once the doc is updated it's time to merge those PRs and upgrade to version 2.
 
 📺 - Twitch archive - stream no.138
 
@@ -31,6 +31,7 @@ All the code for this project is available on GitHub: AzUrlShortener - https://g
 00:00:10 Bonjour, Hi!
 00:09:56 show and tell
 00:14:59 Start working on TinyBlazorAdmin doc
+01:49:00 Fixing mic level
 
 ## New Followers
 
