@@ -6,14 +6,13 @@ Summary
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.126
+📺 - Twitch archive - stream no.140
 
 Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
-- [Youtube](https://youtu.be/GXZ7gB15V6w)
+- [Youtube](https://youtu.be/-yUFifbA9Lc)
 
 
 Timestamps
@@ -21,7 +20,7 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:24:16 Learning SyncFusion Chart Component
 
 
 ## Project
