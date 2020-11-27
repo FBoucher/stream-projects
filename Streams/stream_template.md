@@ -18,7 +18,6 @@ Replay
 
 Timestamps
 --------
-
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
 

@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank and Jason are creating their first Typescript and React application... A lot of learning and fun moments.
 
 📺 - Twitch archive - stream no.143
 
@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- Youtube(soon)
+- [Youtube](https://youtu.be/dHWzAt2Ig6s)
 
 
 Timestamps

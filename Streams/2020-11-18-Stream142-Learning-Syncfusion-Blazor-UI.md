@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is Learning how the Chart component of the Syncfusion Blazor suite works. The goal is to have a bar charts showing the clicks history of one short URL.
 
 📺 - Twitch archive - stream no.142
 
@@ -12,7 +12,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- Youtube(soon)
+- [Youtube](https://youtu.be/BRuuiOibuLU)
 
 
 Timestamps
@@ -20,7 +20,9 @@ Timestamps
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:07:58 setup env. and Recall previous work
+00:25:23 debugging Chart
+00:56:33 trying with dynamic data
 
 ## Project
 
@@ -32,9 +34,7 @@ All the code for this project is available on GitHub: TinyBlazorAdmin - https://
 
 ## TimeLogs
 
-00:07:58 setup env. and Recall previous work
-00:25:23 debugging Chart
-00:56:33 trying with dynamic data
+
 
 ## New Followers
 
