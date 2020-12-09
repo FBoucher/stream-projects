@@ -4,7 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is containerizing the chatbot used during the livestream on Twitch. It's a Node.js application and the code is in GitHub. We need to have a way to pass a configuration file when we create an instance and a way to get back the stream notes.
 
 📺 - Twitch archive - stream no.144
 

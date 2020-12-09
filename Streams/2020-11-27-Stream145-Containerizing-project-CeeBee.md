@@ -4,15 +4,14 @@
 Summary
 -------
 
-In this live stream session, Frank is 
+In this live stream session, Frank is containerizing the chatbot used during the livestream on Twitch. It's a Node.js application and the code is in GitHub. We need to have a way to pass a configuration file when we create an instance and a way to get back the stream notes.
 
-📺 - Twitch archive - stream no.126
+📺 - Twitch archive - stream no.145
 
 Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
 - [Youtube](https://youtu.be/HBruR9lx4T0)
 
 
@@ -20,7 +19,10 @@ Timestamps
 --------
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-
+00:04:09 Working to upload container to Docker Hub
+00:28:43 Docker Repo
+00:54:38 building GitHub Action to publish
+01:18:42 debugging GitHub Action
 ## Project
 
 All the code for this project is available on GitHub: CLoudBot - https://github.com/FBoucher/CLoudBot
@@ -32,12 +34,6 @@ All the code for this project is available on GitHub: CLoudBot - https://github.
 - [X] upload to Docker Hub
 - [X] Build CI/CD on GitHUb to upload new version
 
-## TimeLogs
-
-00:04:09 Working to upload container to Docker Hub
-00:28:43 Docker Repo
-00:54:38 building GitHub Action to publish
-01:18:42 debugging GitHub Action
 
 ## New Followers
 

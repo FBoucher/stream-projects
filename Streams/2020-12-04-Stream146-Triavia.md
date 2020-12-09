@@ -1,5 +1,5 @@
 
-# 2020-11-01 - Stream146 Learning how to use a Blazor WebAssembly with Azure AD Token
+# 2020-12-04 - Stream146 Learning how to create & publish our first Typescript + Nodejs + React  to Azure...
 
 Summary
 -------
