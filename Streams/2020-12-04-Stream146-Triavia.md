@@ -11,8 +11,7 @@ In this live stream session, Frank is
 Replay
 ------
 
-- [Twitch](https://www.twitch.tv/fboucheros)
-- Youtube(soon)
+- [Youtube](https://youtu.be/BYZXvlOgT2g)
 
 
 Timestamps
