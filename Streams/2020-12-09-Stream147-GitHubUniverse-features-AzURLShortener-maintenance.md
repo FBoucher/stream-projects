@@ -13,7 +13,7 @@ Replay
 ------
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- Youtube(soon)
+- [Youtube](https://youtu.be/wN8gSOib7oo)
 
 
 Timestamps
