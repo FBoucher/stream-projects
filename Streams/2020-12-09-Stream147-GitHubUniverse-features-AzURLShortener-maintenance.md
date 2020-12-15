@@ -5,9 +5,8 @@
 Summary
 -------
 
-In this live stream session, Frank is 
-
-📺 - Twitch archive - stream no.146
+In this live stream session, Frank is trying some of the new features announced during GitHub Universe: Dark mode time, CLI, and discussion. 
+📺 - Twitch archive - stream no.147
 
 Replay
 ------

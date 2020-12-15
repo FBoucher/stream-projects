@@ -4,9 +4,7 @@
 Summary
 -------
 
-In this live stream session, Frank is 
-
-📺 - Twitch archive - stream no.148
+In this live stream session, Frank is joinned by Jason to continue to work on the Trivia project. The plan for this stream is to create a very basic React website following a tutorial found online. Frank's machine is not going great and there is a few glitches with the chatbot and the notes... sorry :( 📺 - Twitch archive - stream no.148
 
 Replay
 ------
