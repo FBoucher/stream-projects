@@ -2,7 +2,7 @@
 layout: post
 title: "Stream 147 - Trying GitHub new features and PRs + maintenance on project AzURLShortener"
 date: 2020-12-09
-categories: AzURLShortener maintenance GitHub
+categories: azurlshortener maintenance github
 ---
 
 Summary
