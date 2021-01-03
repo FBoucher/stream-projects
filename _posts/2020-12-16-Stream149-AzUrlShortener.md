@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Stream 149 Trying to update The Tiny Blazor Admin UI"
-date: 2020-12-18
+layout: post
+title: "Stream 149 Trying to update The Tiny Blazor Admin UI"
+date: 2020-12-18
 categories: tinyblazoradmin
 ---
 

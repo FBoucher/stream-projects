@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Stream 145 - Containerizing project CeeBee... our chatbot and building a CI/CD for it"
-date: 2020-11-27
+layout: post
+title: "Stream 145 - Containerizing project CeeBee... our chatbot and building a CI/CD for it"
+date: 2020-11-27
 categories: chatbot container stream
 ---
 
