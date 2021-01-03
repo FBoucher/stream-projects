@@ -1,3 +1,10 @@
+---
+layout: post
+title: We need a data store Use R Vote
+date: 2020-01-15
+categories: stream
+---
+
 
 # 2020-01-15 - We need a data store... Project: Use-R-Vote
 

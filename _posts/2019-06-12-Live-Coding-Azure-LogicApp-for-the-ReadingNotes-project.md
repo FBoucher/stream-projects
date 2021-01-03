@@ -1,3 +1,10 @@
+---
+layout: post
+title: Live Coding Azure LogicApp for the ReadingNotes project
+date: 2019-06-12
+categories: stream
+---
+
 
 # 2019-06-12 - Live Coding - Azure LogicApp for the ReadingNotes project
 

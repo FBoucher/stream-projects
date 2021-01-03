@@ -1,3 +1,10 @@
+---
+layout: post
+title: I am learning EF Core
+date: 2020-01-21
+categories: stream
+---
+
 
 # 2020-01-21 - I am learning EF Core, From scratch :)
 

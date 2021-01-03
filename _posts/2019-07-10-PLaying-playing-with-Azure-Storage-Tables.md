@@ -1,3 +1,10 @@
+---
+layout: post
+title: PLaying playing with Azure Storage Tables
+date: 2019-07-10
+categories: stream
+---
+
 
 # 2019-07-10 - Learning / playing with  Azure Storage table and C# 
 

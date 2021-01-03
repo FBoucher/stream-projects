@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream137 Working on Triavia the Trivia game
+date: 2020-10-30
+categories: stream
+---
+
 
 # 2020-10-30 - Stream137 Working on Triavia the Trivia game
 

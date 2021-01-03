@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream98 Whats Next with the project Azure Url Shortener
+date: 2020-05-22
+categories: stream
+---
+
 
 # 2020-05-22 - Stream 98 - What's Next with the project Azure Url Shortener [cloud computing, serverless, C#] 
 

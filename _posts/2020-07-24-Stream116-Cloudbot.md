@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream116 Cloudbot
+date: 2020-07-24
+categories: stream
+---
+
 
 # 2020-07-24 - Stream116 Learning Node.js for the first time: Creating a virtual Co-Host
 

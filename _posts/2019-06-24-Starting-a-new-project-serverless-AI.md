@@ -1,3 +1,10 @@
+---
+layout: post
+title: Starting a new project serverless AI
+date: 2019-06-24
+categories: stream
+---
+
 
 # 2019-06-24 - Starting a new project AzPics (serverless, AI)
 

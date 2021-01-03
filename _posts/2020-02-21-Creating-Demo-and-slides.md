@@ -1,3 +1,10 @@
+---
+layout: post
+title: Creating Demo and slides
+date: 2020-02-21
+categories: stream
+---
+
 
 # 2020-02-21 - Creating Demo and slides (a few hour before travel)
 

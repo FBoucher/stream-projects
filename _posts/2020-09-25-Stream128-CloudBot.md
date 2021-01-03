@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream128 CloudBot
+date: 2020-09-25
+categories: stream
+---
+
 
 # 2020-09-25 - Stream128 Can we generate images in Nodejs for the chatbot?
 

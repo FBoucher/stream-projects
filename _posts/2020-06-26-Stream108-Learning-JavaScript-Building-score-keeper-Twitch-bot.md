@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream108 Learning JavaScript Building score keeper Twitch bot
+date: 2020-06-26
+categories: stream
+---
+
 
 # 2020-06-26 - Stream108 Learning JavaScript 😱 Building a score keeper Twitch bot
 

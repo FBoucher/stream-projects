@@ -1,3 +1,10 @@
+---
+layout: post
+title: Github work AzSubscriptionCleaner
+date: 2019-09-02
+categories: stream
+---
+
 
 # 2019-09-02 - GitHub management for AzSubscription Cleaner
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream110 Learning JavaScript Building Twitch chatbot
+date: 2020-07-03
+categories: stream
+---
+
 
 # 2020-07-03 - Stream110 Learning JavaScript 😱 Building Twitch chatbot 
 

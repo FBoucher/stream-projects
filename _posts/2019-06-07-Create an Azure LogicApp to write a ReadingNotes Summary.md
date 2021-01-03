@@ -1,3 +1,10 @@
+---
+layout: post
+title: Create an Azure LogicApp to write a ReadingNotes Summary
+date: 2019-06-07
+categories: stream
+---
+
 
 # 2019-06-07 - Create an Azure LogicApp to Generate a ReadingNotes Summary
 

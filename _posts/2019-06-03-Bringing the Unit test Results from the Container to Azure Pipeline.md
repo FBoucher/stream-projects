@@ -1,3 +1,10 @@
+---
+layout: post
+title: Bringing the Unit test Results from the Container to Azure Pipeline
+date: 2019-06-03
+categories: stream
+---
+
 
 # 2019-06-03 - Bringing the Unit test Results from the Container to Azure Pipeline
 

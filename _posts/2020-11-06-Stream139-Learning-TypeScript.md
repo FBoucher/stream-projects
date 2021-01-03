@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream139 Learning TypeScript
+date: 2020-11-06
+categories: stream
+---
+
 
 # 2020-11-06 - Stream139 Learning TypeScript from scratch with Jason (and working on our game)
 

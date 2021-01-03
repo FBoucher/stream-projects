@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 87_Adding Stats to AzUrlShortener
+date: 2020-04-08
+categories: stream
+---
+
 
 # 2020-04-08 - What stats should we add at our URL Shortener aka. AzUrlShortener
 

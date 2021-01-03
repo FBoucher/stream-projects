@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream117 TinyBlazorAdmin
+date: 2020-07-29
+categories: stream
+---
+
 
 # 2020-07-29 - Stream117 Adding the last bits to TinyBlazorAdmin (.Net Core Blazor wasm) 
 

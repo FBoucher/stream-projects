@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream109 Learning Blazor WebAssembly with AAD
+date: 2020-07-01
+categories: stream
+---
+
 
 # 2020-07-01 - Stream109 Learning how to use a Blazor WebAssembly with Azure AD Token
 

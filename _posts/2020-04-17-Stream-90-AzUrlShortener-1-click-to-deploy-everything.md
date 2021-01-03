@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 90 AzUrlShortener 1 click to deploy everything
+date: 2020-04-17
+categories: stream
+---
+
 
 # 2020-04-17 - Stream 90 AzUrlShortener - Documentation is important, right?! 
 

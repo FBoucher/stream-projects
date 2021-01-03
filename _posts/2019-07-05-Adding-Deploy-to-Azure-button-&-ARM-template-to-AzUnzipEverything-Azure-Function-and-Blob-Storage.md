@@ -1,3 +1,10 @@
+---
+layout: post
+title: Adding Deploy to Azure button & ARM template to AzUnzipEverything Azure Function and Blob Storage
+date: 2019-07-05
+categories: stream
+---
+
 
 # 2019-07-05 - Adding Deploy to Azure button & ARM template to AzUnzipEverything (Azure Function and Blob Storage)
 

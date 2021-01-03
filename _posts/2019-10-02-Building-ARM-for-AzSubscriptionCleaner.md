@@ -1,3 +1,10 @@
+---
+layout: post
+title: Building ARM for AzSubscriptionCleaner
+date: 2019-10-02
+categories: stream
+---
+
 
 # 2019-10-02 - Building ARM template for Azure Subscription Cleaner
 

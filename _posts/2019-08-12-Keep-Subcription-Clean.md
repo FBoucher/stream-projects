@@ -1,3 +1,10 @@
+---
+layout: post
+title: Keep Subcription Clean
+date: 2019-08-12
+categories: stream
+---
+
 
 # 2019-08-12 - Creating a Tool to keep our Azure Subscription Clean
 

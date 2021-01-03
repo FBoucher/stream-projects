@@ -1,3 +1,10 @@
+---
+layout: post
+title: Working on AzUnzipEverything Azure Function and Blob Storage
+date: 2019-07-03
+categories: stream
+---
+
 
 # 2019-07-03 - Working on AzUnzipEverything: Azure Function and Blob Storage
 

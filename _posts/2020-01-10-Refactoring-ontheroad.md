@@ -1,3 +1,10 @@
+---
+layout: post
+title: Refactoring ontheroad
+date: 2020-01-10
+categories: stream
+---
+
 
 # 2020-01-10 - Refactoring and Adding unit tests to Blind 2021 (on the road)
 

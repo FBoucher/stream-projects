@@ -1,3 +1,10 @@
+---
+layout: post
+title: Adding Social Login to project Use r vote
+date: 2019-11-27
+categories: stream
+---
+
 
 # 2019-11-27 - Adding Social Login to the .Net Core Blazor project: Use-R-vote 
 

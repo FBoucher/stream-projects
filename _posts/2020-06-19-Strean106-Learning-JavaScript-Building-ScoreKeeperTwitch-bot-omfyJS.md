@@ -1,3 +1,10 @@
+---
+layout: post
+title: Strean106 Learning JavaScript Building ScoreKeeperTwitch bot omfyJS
+date: 2020-06-19
+categories: stream
+---
+
 
 # 2020-06-19 - Strean 106 - Learning JavaScript 😱 Building a Score Keeper Twitch bot with ComfyJS
 

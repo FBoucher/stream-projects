@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream102 Starting TinyBlazorAdmin project
+date: 2020-06-05
+categories: stream
+---
+
 
 # 2020-06-05 - Stream 102 - Starting Tiny Blazor Admin project (C#, WebAssembly, AAD) !drop !bonjour
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blind2021 save game loading maps
+date: 2019-12-20
+categories: stream
+---
+
 
 # 2019-12-20 - Adding save game, loading maps. Project: Blind2021
 

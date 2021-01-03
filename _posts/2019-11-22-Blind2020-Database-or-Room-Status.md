@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blind2020 Database or Room Status
+date: 2019-11-22
+categories: stream
+---
+
 
 # 2019-11-22 - Blind2021 adding Room Status and more
 

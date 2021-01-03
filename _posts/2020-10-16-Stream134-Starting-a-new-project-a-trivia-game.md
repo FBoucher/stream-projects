@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream134 Starting a new project a trivia game
+date: 2020-10-16
+categories: stream
+---
+
 
 # 2020-10-16 - Stream134 Starting a new project - a trivia game
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline
+date: 2019-05-27
+categories: stream
+---
+
 
 # 2019-05-27 - Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline
 

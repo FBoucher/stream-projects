@@ -1,3 +1,10 @@
+---
+layout: post
+title: Chill Dev learning Blazor on Linux
+date: 2019-07-26
+categories: stream
+---
+
 
 # 2019-07-26 - Chill-Dev learning Blazor on Linux
 

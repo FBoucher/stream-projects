@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 93 Working on the Azure Url Shortener
+date: 2020-05-06
+categories: stream
+---
+
 
 # 2020-05-06 - Stream 93 - Working on the Azure Url Shortener
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 86_ Adding auto deployment docs for that adminwebsite AzUrlShortener
+date: 2020-04-03
+categories: stream
+---
+
 
 # 2020-04-03 - Adding auto-deployment and documentation for that admin website of AzUrlShortener ☁ 
 

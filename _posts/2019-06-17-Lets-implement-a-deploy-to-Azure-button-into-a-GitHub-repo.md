@@ -1,3 +1,10 @@
+---
+layout: post
+title: Lets implement a deploy to Azure button into a GitHub repo
+date: 2019-06-17
+categories: stream
+---
+
 
 # 2019-06-17 - Let's implement a deploy to Azure button into a GitHub repo
 

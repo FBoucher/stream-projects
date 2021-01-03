@@ -1,3 +1,10 @@
+---
+layout: post
+title: Meta Monday Creating Intros
+date: 2019-11-25
+categories: stream
+---
+
 
 # 2019-11-25 Meta-Monday Creating new Intros for Twitch streams
 

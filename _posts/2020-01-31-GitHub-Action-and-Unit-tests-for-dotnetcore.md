@@ -1,3 +1,10 @@
+---
+layout: post
+title: GitHub Action and Unit tests for dotnetcore
+date: 2020-01-31
+categories: stream
+---
+
 
 # 2020-01-31 - GitHub Action and Unit tests for .Net Code - Project: Blind2021
 

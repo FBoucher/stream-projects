@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream111 Back to TinyBlazorAdmin
+date: 2020-07-08
+categories: stream
+---
+
 
 # 2020-07-08 - Stream111 Back to TinyBlazorAdmin aplying what we learn about Blazor wasm and AAD 
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Working on AzPics does blazor sounds like exiting
+date: 2019-07-08
+categories: stream
+---
+
 
 # 2019-07-08 - Working on AzPics, does #blazor sounds like exiting?
 

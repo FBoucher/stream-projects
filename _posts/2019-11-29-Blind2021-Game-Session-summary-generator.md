@@ -1,3 +1,10 @@
+---
+layout: post
+title: Blind2021 Game Session summary generator
+date: 2019-11-29
+categories: stream
+---
+
 
 # 2019-11-29 - Working on the summary generator for our game project: Blind2021 [on the road stream]
 

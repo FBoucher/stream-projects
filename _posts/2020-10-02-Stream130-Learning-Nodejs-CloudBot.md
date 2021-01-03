@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream130 Learning Nodejs CloudBot
+date: 2020-10-02
+categories: stream
+---
+
 
 # 2020-10-02 - Stream130 Learning Node.js building a chatbot named CeeBee
 

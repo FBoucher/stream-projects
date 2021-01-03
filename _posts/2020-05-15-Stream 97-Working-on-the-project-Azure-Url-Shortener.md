@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 97 Working on the project Azure Url Shortener
+date: 2020-05-15
+categories: stream
+---
+
 
 # 2020-05-15 - Stream 97 - Working on the project Azure Url Shortener [cloud computing, serverless, C#] 
 

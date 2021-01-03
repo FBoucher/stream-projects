@@ -1,3 +1,10 @@
+---
+layout: post
+title: Live Coding Azure Function and other projects
+date: 2019-06-28
+categories: stream
+---
+
 
 # 2019-06-28 - Answering community questions, Azure Function and Coding projects
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Deploy to Azure with CalvinAllen
+date: 2019-08-09
+categories: stream
+---
+
 
 # 2019-08-09 - Deploy to Azure with @_CalvinAllen
 

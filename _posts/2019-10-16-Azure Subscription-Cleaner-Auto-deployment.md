@@ -1,3 +1,10 @@
+---
+layout: post
+title: Azure Subscription Cleaner Auto deployment
+date: 2019-10-16
+categories: stream
+---
+
 
 # 2019-10-16 - Azure Subscription Cleaner Auto deployment
 

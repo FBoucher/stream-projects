@@ -1,3 +1,10 @@
+---
+layout: post
+title: Refactoring Adding Configuration Settings
+date: 2020-01-17
+categories: stream
+---
+
 
 # 2020-01-17 - Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021
 

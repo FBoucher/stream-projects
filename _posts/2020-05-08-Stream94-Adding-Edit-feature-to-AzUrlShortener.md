@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream94 Adding Edit feature to AzUrlShortener
+date: 2020-05-08
+categories: stream
+---
+
 
 # 2020-05-08 - Adding Edit feature to the project Azure Url Shortener [C#, Blazor, Serverless, Azure]
 

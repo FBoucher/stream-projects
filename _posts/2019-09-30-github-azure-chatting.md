@@ -1,3 +1,10 @@
+---
+layout: post
+title: github azure chatting
+date: 2019-09-30
+categories: stream
+---
+
 
 # 2019-09-30 - GitHub Azure and Chatting
 

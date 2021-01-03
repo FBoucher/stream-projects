@@ -1,3 +1,10 @@
+---
+layout: post
+title: Chill Azure Development
+date: 2019-08-05
+categories: stream
+---
+
 
 # 2019-08-05 - Chill Azure Development
 ## Summary

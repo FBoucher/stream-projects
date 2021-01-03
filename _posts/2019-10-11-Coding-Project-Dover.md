@@ -1,3 +1,10 @@
+---
+layout: post
+title: Coding Project Dover
+date: 2019-10-11
+categories: stream
+---
+
 
 # 2019-10-11 - Coding Project Dover working on the inventory
 

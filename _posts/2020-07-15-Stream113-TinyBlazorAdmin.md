@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream113 TinyBlazorAdmin
+date: 2020-07-15
+categories: stream
+---
+
 
 # 2020-07-15 - Stream 113 Why it's not working?! Investigating login Azure AD Token with Blazor WebAssembly
 

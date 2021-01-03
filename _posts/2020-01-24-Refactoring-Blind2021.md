@@ -1,3 +1,10 @@
+---
+layout: post
+title: Refactoring Blind2021
+date: 2020-01-24
+categories: stream
+---
+
 
 # 2020-01-24 - Refactoring Blind2021
 

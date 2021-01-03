@@ -1,3 +1,10 @@
+---
+layout: post
+title: Building admin webpage AzUrlShortener
+date: 2020-03-27
+categories: stream
+---
+
 
 # 2020-03-27 Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream118 CloudBot
+date: 2020-07-31
+categories: stream
+---
+
 
 # 2020-07-31 - Stream118 Learning Node.js for the first time: How to play mp3
 

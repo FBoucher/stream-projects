@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 91 AzUrlShortener 1 click to deploy everything
+date: 2020-04-22
+categories: stream
+---
+
 
 # 2020-04-22 - Automatic deployment of the selected frontend (1-click deployment) for Azure Url Shortener  ☁ 
 

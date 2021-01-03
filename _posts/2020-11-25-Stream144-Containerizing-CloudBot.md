@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream144 Containerizing CloudBot
+date: 2020-11-25
+categories: stream
+---
+
 
 # 2020-11-25 - Stream144 Containerizing CeeBee... our chatbot and Learning how to do that!
 

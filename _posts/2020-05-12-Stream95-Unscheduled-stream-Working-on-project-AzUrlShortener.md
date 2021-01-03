@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream95 Unscheduled stream Working on project AzUrlShortener
+date: 2020-05-12
+categories: stream
+---
+
 
 # 2020-05-12 - Unscheduled stream :) - Working on project Azure Url Shortener 
 

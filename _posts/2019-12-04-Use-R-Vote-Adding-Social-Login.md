@@ -1,3 +1,10 @@
+---
+layout: post
+title: Use R Vote Adding Social Login
+date: 2019-12-04
+categories: stream
+---
+
 
 # 2019-12-04 - Project: Use-R-Vote - Adding Social Login to .Net Core WebApp !commands
 

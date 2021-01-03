@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream127 Chatbot
+date: 2020-09-11
+categories: stream
+---
+
 
 # 2020-09-11 - Stream127 Working on the Chatbot, and planning future features
 

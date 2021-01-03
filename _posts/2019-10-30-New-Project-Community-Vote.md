@@ -1,3 +1,10 @@
+---
+layout: post
+title: New Project Community Vote
+date: 2019-10-30
+categories: stream
+---
+
 
 # 2019-10-30 - New Project Community Vote
 

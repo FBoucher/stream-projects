@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream143 Learning typescript
+date: 2020-11-20
+categories: stream
+---
+
 
 # 2020-11-20 - Stream143 Learning how to create & publish our first Typescript + Nodejs + ??  to Azure...
 

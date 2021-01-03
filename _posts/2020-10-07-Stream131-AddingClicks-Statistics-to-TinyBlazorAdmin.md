@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream131 AddingClicks Statistics to TinyBlazorAdmin
+date: 2020-10-07
+categories: stream
+---
+
 
 # 2020-10-07 - Stream131 Adding Clicks Statistics to TinyBlazorAdmin (Url Shortener website)
 

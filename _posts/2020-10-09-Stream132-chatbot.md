@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream132 chatbot
+date: 2020-10-09
+categories: stream
+---
+
 
 # 2020-10-09 - Stream132 We need to make sure the chatbot doesn't lose information!
 

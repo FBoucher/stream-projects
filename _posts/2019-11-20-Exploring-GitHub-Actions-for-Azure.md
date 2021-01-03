@@ -1,3 +1,10 @@
+---
+layout: post
+title: Exploring GitHub Actions for Azure
+date: 2019-11-20
+categories: stream
+---
+
 
 # 2019-11-20 - Exploring GitHub Actions for deploying to Azure
 

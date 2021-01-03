@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream107 Learning how to use Blazor WebAssembly with AAD Token
+date: 2020-06-24
+categories: stream
+---
+
 
 # 2020-06-24 - Stream107 Learning how to use a Blazor WebAssembly with Azure AD Token
 

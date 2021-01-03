@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream 96 Working on the project Azure Url Shortener GitHub AzFunction Blazor
+date: 2020-05-13
+categories: stream
+---
+
 
 # 2020-05-13 - Stream 96 - Working on the project Azure Url Shortener GitHub, AzFunction, Blazor 
 

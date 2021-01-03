@@ -1,3 +1,10 @@
+---
+layout: post
+title: Stream136 Working on project triavia with JasonHand
+date: 2020-10-23
+categories: stream
+---
+
 
 # 2020-10-23 - Stream136 Working on project triavia with Jason Hand
 
