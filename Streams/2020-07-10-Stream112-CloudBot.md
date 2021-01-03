@@ -1,23 +1,23 @@
 
 # 2020-07-10 - Stream112 Learning Node.js for the first time (C# dev)
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is fixing the issue CB#11 when the Cloudbot doesn't find the user become of capitalization. Then start learning how Nodejs works and try to, from the client side call a function on the server side passing a parameter... It was one of those stream where we learn a lot!
 
 📺 - Twitch archive - stream no.112
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/xArPcMSwKOQ)
 - [Youtube](https://youtu.be/NqM1stcFbzM)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

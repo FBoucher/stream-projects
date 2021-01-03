@@ -1,13 +1,13 @@
 
 # 2019-07-15 - Let's Learn Blazor (.Net Core) on Linux
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is trying blazor on Linux. Creating new app (client and server side) but once more things don't seams to worked as expected. We made progress, but it's not easy.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/453179037)
 - [Youtube](https://youtu.be/qy6YqWsRmQg)

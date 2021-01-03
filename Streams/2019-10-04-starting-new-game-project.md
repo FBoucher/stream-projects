@@ -1,20 +1,20 @@
 
 # 2019-10-04 - Starting new game project
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is starting a new project. It's a text-based adventure game that will (eventually) use AI. Starting by the beginning, he will list the tech and features of this project.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/490059514)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:02:10 - I read a book about...

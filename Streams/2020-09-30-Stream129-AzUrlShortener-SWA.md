@@ -1,23 +1,23 @@
 
 # 2020-09-30 - Stream129 Testing the new Azure Static Web App (SWA) with the AzUrlShortener
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is exploring the brand new Azure Static Webapp (SWA) with Blazor. This announcement was  during the previous week in Microsoft Ignite. The deployment will be done in a snap. The difficulty will start when we are trying to apply some security with Azure Active Directory (AAD).
 
 📺 - Twitch archive - stream no.129
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/5F0IGp1tGjY)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

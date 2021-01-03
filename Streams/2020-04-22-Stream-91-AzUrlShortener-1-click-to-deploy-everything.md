@@ -1,22 +1,22 @@
 
 # 2020-04-22 - Automatic deployment of the selected frontend (1-click deployment) for Azure Url Shortener  ☁ 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the Azure Url Shortener (AzUrlShortener) merging two 1 click deployment to make only ONE, with options. The goal is to have a one click experience and be able to deploy the service headless or with the frontend of your choice.
 
 📺 - Twitch archive - stream no.91
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/599257462)
 - [Youtube](https://youtu.be/2dNqXxtYMpA)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Clip
 - 00:00:11 - Bonjour, Hi!

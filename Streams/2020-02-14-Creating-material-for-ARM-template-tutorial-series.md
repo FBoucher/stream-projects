@@ -1,21 +1,21 @@
 
 # 2020-02-14 - Creating material for an Azure Resource Manager (ARM) template tutorial series
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on some material that will be used in video tutorial to learn Azure Resource Manager (AMR) templates...
 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/551810399)
 - [Youtube](https://youtu.be/kYQaSCQVlos)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:48 - Plan of the day

@@ -1,13 +1,13 @@
 
 # 2019-07-24 - Learning Blazor on Linux (running SDK in Docker)
 
-Summary
--------
+## Summary
+-
 
 In this short session, Frank is creating a simple Blazor App to read images from an Azure Storage. The particularity is that the .Net SDK is running from inside a Docker container, on a Linux machine. And things are going great!
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/457282499)
 - [Youtube](https://youtu.be/UBAWqZkJx1I)

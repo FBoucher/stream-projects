@@ -1,23 +1,23 @@
 
 # 2020-11-25 - Stream144 Containerizing CeeBee... our chatbot and Learning how to do that!
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is containerizing the chatbot used during the livestream on Twitch. It's a Node.js application and the code is in GitHub. We need to have a way to pass a configuration file when we create an instance and a way to get back the stream notes.
 
 📺 - Twitch archive - stream no.144
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/Dn2jYJ2vZ6E)
 
 
-Timestamps
---------
+## Timestamps
+
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
 

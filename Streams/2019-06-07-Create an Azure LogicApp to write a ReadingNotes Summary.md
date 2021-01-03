@@ -1,13 +1,13 @@
 
 # 2019-06-07 - Create an Azure LogicApp to Generate a ReadingNotes Summary
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is doing a recap of the Reading Notes project and starting a new Logic App that will generate a summary based on all the notes taken from the Kindle.  We will start by creating an Azure Container Instance (ACI). But, reading the status won't work as planned...
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/435713011)
 - [Youtube](https://www.youtube.com/watch?v=IQa40VXrePg)

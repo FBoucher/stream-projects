@@ -1,23 +1,23 @@
 
 # 2020-07-22 - Stream115 Adding all functionalities from previous version into TinyBlazorAdmin website
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is bringing all the functionalities of the previous admin website to manage our short URLs into TinyBlazorAdmin. Everything that was possible with the server version must be possible into the client only one. 
 
 📺 - Twitch archive - stream no.115
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/IFLPz4sh650)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi! 

@@ -1,8 +1,8 @@
 
 # 2019-06-03 - Bringing the Unit test Results from the Container to Azure Pipeline
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is bringing back the Unit test charts into the Azure Pipeline Summary. 
 
@@ -10,8 +10,8 @@ In this session, Frank is bringing back the Unit test charts into the Azure Pipe
 
 The "Dockerization" of the Web API [MyClippings-Parser(https://github.com/FBoucher/MyClippings-Parser). Removed it since the logs were inside the container.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/433987245)
 - [Youtube](https://www.youtube.com/watch?v=v5UM0Pocn4g)

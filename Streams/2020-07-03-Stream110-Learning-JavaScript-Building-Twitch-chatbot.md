@@ -1,23 +1,23 @@
 
 # 2020-07-03 - Stream110 Learning JavaScript 😱 Building Twitch chatbot 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the project Cloud Bot a Twitch chatbot created in JavaScript. In this particular session we are saving the highest score of every participant and trying to display to total score of everyone.
 
 📺 - Twitch archive - stream no.110
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/KszCPCaT1j0)
 - [Youtube](https://youtu.be/bEsAMXF63eE)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

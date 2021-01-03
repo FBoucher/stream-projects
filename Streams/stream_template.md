@@ -1,22 +1,22 @@
 
 # 2020-11-01 - Stream146 Learning how to use a Blazor WebAssembly with Azure AD Token
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.146
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
 

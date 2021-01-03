@@ -3,22 +3,22 @@
 
 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is Working on the Azure Url SHortener. Closing some tasks from the board: azulr#56 adding back reference Azure Serverless library, AzUrl#56 Adding references to videos & blogs on GitHub. Then Frank will start AzUrl#24, a feature requested by @SurleyDev, Store the page title, along with the URL.
 
 📺 - Twitch archive - stream no.96
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/619695983)
 - [Youtube](https://www.youtube.com/watch?v=6m2wVNolmQY)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:38 - Show & Tell

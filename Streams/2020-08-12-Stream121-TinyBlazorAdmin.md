@@ -1,23 +1,23 @@
 
 # 2020-08-12 - Stream121 - Working on a auto deployment for Tiny Blazor Admin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is writing the step by step documentation on how to deploy the Tiny Blazor Admin website. Focusing on creating the AAD components for the Azure Function. 
 
 📺 - Twitch archive - stream no.121
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/UaUdFSXrbmA)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

@@ -1,20 +1,20 @@
 
 # 2019-09-06 - Azure Subscription Cleaner Mostly Azure CLI 
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is add Shield.io badges to the project (that is now available on https://serverlesslibrary.net), fix some images that weren't showing up properly. He will also work on documentation to add on some Azure CLI command to add tags to specific resources.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/477593141)
 - [Youtube](https://youtu.be/IYXCw8cF3iw)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:01 - BrB and no sound part... Yep, I did it again!

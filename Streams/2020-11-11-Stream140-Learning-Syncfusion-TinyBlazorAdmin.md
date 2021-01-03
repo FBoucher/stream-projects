@@ -1,22 +1,22 @@
 
 # 2020-11-11 - Stream140 Learning Syncfusion Blazor UI component library project TinyBlazorAdmin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.140
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/-yUFifbA9Lc)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

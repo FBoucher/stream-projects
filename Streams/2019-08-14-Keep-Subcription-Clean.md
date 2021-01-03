@@ -1,13 +1,13 @@
 
 # 2019-08-14 - Creating a Tool to keep our Azure Subscription Clean
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is creating an Azure Automation for one of the Azure Power Tool. The one that automatically deletes "expired" resources inside our Azure Subscription. Once fully created and functional, he will export the ARM template to look at what kind of resources he will need in the deployment of that solution.
 
-Replay
-------
+## Replay
+
 
 - [Twitch(for 60 days)](https://www.twitch.tv/videos/467199209)
 - Youtube (soon)

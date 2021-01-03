@@ -1,22 +1,22 @@
 
 # 2020-05-15 - Stream 97 - Working on the project Azure Url Shortener [cloud computing, serverless, C#] 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is finishing and deploying to production the task AZURL#24 to store a page title/ description, along with the URL. He will also start AZURL#50 to add documentation about how to update/ upgrade, but where should it go?
 
 📺 - Twitch archive - stream no.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/621681874)
 - [Youtube](https://www.youtube.com/watch?v=j974gLT9Pok)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:31 - Plan of the day 

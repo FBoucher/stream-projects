@@ -1,20 +1,20 @@
 
 # 2019-10-30 - New Project Community Vote
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is starting a new .Net Core community project. This project is for a community to be able to submit ideas and then vote on them (ex: decide what's the next feature to be developed, or the next video topic). But first, it needs a new and a few little things...
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/501742008)
 - [Youtube](https://youtu.be/C7GZpPY3WFk)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:03:11 - Show & Tell

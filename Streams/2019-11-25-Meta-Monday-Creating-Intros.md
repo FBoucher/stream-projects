@@ -1,20 +1,20 @@
 
 # 2019-11-25 Meta-Monday Creating new Intros for Twitch streams
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 

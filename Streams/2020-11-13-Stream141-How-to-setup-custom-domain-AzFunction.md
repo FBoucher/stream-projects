@@ -1,22 +1,22 @@
 
 # 2020-11-13 - Stream141 How to setup custom domain on you Azure Function
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.141
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/4MMd5F3BjAY)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

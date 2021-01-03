@@ -1,23 +1,23 @@
 
 # 2020-08-21 - Stream124 Learning Node.js for the first time: Building a chatbot
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is making great progress on the co-host functionalities of CB, the cloud bot. Working on the Stream Notes generation and the timestamps.
 
 📺 - Twitch archive - stream no.124
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/ba6NRyo0oaE)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:36 Bonjour, Hi!

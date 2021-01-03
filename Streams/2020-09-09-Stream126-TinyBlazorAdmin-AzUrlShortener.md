@@ -1,23 +1,23 @@
 
 # 2020-09-09 - Stream126 Let's work on the automatic deployment of AzUrlShortener with TinyBlazorAdmin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is trying to deploy an Azure function (C#) and a Blazor Web Assembly website into an Azure Static Web App (SWA)but without using a GitHub Action. CSharp is not supported officially and all documentation point to GitHub Action... so let's see if it's possible... today.
 
 📺 - Twitch archive - stream no.126
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/3_QuIIzOAoY)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

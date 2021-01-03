@@ -1,8 +1,8 @@
 
 # 2020-04-11 - Building an automatic video converter with AMS Azure Media Services
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is sharing the code for an Azure Automatic Video Converter project using Azure Media Services, Azure Logic Apps and Azure Functions
 
@@ -10,15 +10,15 @@ He will migrate the code in GitHub and start ease the deployment of the solution
 
 📺 - Twitch archive - stream no.88
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/589338160)
 - [Youtube](https://youtu.be/Q3ix5IuvPXE)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:10 - Explain the project at high level

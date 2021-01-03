@@ -1,23 +1,23 @@
 
 # 2020-07-31 - Stream118 Learning Node.js for the first time: How to play mp3
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is learning how to play mp3 in JavaScript, so the Cloud bot (Twitch chat bot) could play sounds. Then trying to create a enum to make the code cleaner.
 
 📺 - Twitch archive - stream no.118
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/0uwnS8UaUeg)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

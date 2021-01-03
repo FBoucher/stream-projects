@@ -1,13 +1,13 @@
 
 # 2019-08-12 - Creating a Tool to keep our Azure Subscription Clean
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is starting a new project to Automatically delete "expired" resources inside our Azure Subscription. First things to do is to get familiar with the Kusto Query Language (KQL)...
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/66367258)
 - [Youtube](https://youtu.be/O5DDgO0_Eek)

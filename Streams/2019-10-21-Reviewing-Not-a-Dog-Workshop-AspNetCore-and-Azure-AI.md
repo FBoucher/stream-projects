@@ -1,20 +1,20 @@
 
 # 2019-10-21 - Reviewing Not a Dog Workshop Asp.Net Core and Azure AI
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is reviewing/ practicing the Not-a-Dog Workshop and showing the offline progress on the Text-based adventure game Blind2021.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/497809804)
 - [Youtube](https://youtu.be/Pxx03HojiN0)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi! (and light fixing ;p)
 - 00:03:30 - Show & Tell

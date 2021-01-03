@@ -1,22 +1,22 @@
 
 # 2020-03-27 Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is adding documentation on GitHub for the project Azure Url Shortener (azUrlShortener). The goal is to make it simple for other developers to create interfaces in their favorite language that use the common Azure Function backend. Note: The camera froze a few time but it got fixed.
 
 📺 - Twitch archive - stream no.84
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/576593435)
 - [Youtube](https://youtu.be/URPgyVizg3E)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:05 - Chit chat

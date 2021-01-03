@@ -1,20 +1,20 @@
 
 # 2019-08-23 - Creating a Tool to keep our Azure Subscription Clean
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is fixing some bug into the Azure Function for AzSubscriptionCleaner. Adding the Az.ResourceGraph module. Chatting with the community about some improvements related to the stream setup.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/471174539)
 - [Youtube](https://youtu.be/JlF8e-gvI8A)
 
 
-Timestamps
-----------
+## Timestamps
+--
 
 - 00:00:01 - Bonjour, Hi!
 - 00:03:30 - Introduction to AzSubcriptionCleaner

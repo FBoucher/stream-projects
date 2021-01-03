@@ -3,13 +3,13 @@
 
 2019-06-28-Live-Coding-Azure-Function-and-other-projects
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is will investigate some error from the Azure Function project AzUnzipEverything. The question was sent from Discord.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/445408247)
 - [Youtube](https://www.youtube.com/watch?v=8A4x02wW7Vw)

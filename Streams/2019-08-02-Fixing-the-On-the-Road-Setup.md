@@ -1,20 +1,20 @@
 
 # 2019-08-02 - Fixing the on the road setup
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is fixing/ building a "on the road" setup for Twitch Streaming using StreamLabsOBS. Got the visit of @MaximeRoullier, and with him found the solution to deploy the resulting solution of Not-a-Dog Workshop with a 1-click deploy from GitHub.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/461506161)
 - Youtube (soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:05:00 - Building/ the On-the-Road setup

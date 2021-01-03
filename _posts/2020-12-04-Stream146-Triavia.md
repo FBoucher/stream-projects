@@ -15,9 +15,10 @@ In this live stream session, Frank is
 
 {% include youtube.html id="BYZXvlOgT2g" %}
 
+<br/><!--more-->
 
-Timestamps
---------
+## Timestamps
+
     00:00:00 Intro
     00:00:10 Bonjour, Hi!
 

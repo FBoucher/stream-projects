@@ -1,23 +1,23 @@
 
 # 2020-07-17 - Stream114  Learning Node.js for the first time (C# dev)
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the serialization and deserialization of the stream session information to a file in Node.js. It was a great stream where we close a few ticket, learn many new things and had a lot of fun.
 
 📺 - Twitch archive - stream no.114
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:33 Animation

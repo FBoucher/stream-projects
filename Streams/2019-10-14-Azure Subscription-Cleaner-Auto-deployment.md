@@ -1,19 +1,19 @@
 
 # 2019-10-14 - Azure Subscription Cleaner Auto deployment
 
-Summary
--------
+## Summary
+-
 In this session, Frank is working on an automatic deployment from GitHub using and Azure Resource Manager (ARM) template. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/494696974)
 - [Youtube](https://youtu.be/GnmrO6C0lF8)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:21 - Bonjour, Hi!
 - 00:12:31 - Start cleaning the ARM template

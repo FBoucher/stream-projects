@@ -1,23 +1,23 @@
 
 # 2020-06-10 - Stream103 Adding an Azure Key Vault into project TinyBlazorAdmin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is adding an Azure Key Vault do keep the secret in the project Tiny Blazor Admin. This is a Blazor web assembly website that will call some Azure Function. While creating the required resources.  we also write some documentation. Then Trying to see if the app was working we try a few things without success.
 
 📺 - Twitch archive - stream no.103
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Summary](https://youtu.be/ZjnmPOH5404)
 - [Youtube](https://youtu.be/tbuFZZCxO-Y)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:04:17 - Adding Parachute Penguin to all scenes

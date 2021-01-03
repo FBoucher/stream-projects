@@ -1,13 +1,13 @@
 
 # 2019-06-12 - Live Coding - Azure LogicApp for the ReadingNotes project
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is creating an Azure Logic App (that will be called by a parent Logic App) and use the new feature Inline code to manipulate some string and return a Json object. While everything IS supposed to be working, for some reason a simple IF statement is acting randomly... and is blocking any progression... Can you see what it is?
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/437981732)
 - [Youtube](https://youtu.be/dL7xDly1__o)

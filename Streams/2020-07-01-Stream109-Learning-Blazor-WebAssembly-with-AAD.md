@@ -1,23 +1,23 @@
 
 # 2020-07-01 - Stream109 Learning how to use a Blazor WebAssembly with Azure AD Token
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is learning how to call an Azure Function from a Blazor web assembly (client side) secured with Azure Active Directory (AAD). This is work in preparation for the Tiny Blazor Admin project.
 
 📺 - Twitch archive - stream no.109
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/KszCPCaT1j0)
 - Youtube(https://youtu.be/dcYHDYoF_8A)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

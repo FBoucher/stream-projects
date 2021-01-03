@@ -1,15 +1,15 @@
 
 # 2020-11-06 - Stream139 Learning TypeScript from scratch with Jason (and working on our game)
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.139
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:

@@ -1,23 +1,23 @@
 
 # 2020-07-29 - Stream117 Adding the last bits to TinyBlazorAdmin (.Net Core Blazor wasm) 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is fixing the modal windows and testing all the features of the TinyBlazorAdmin. This project is now up to date with the server side version (included into the Azure Url Shortener project). Next will be the deployment...
 
 📺 - Twitch archive - stream no.117
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/bDMmy4yi6lo)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:34 Bonjour, Hi!

@@ -6,28 +6,28 @@ categories: triavia Typescript nodejs react
 ---
 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.150
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - Youtube(soon)
 
 
-Timestamps
---------
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:45:17 defining QUestion Card
-00:55:21 coding the API
-01:46:05 Updating NPM on WSL
-02:00:00 creating Question Type from API
+## Timestamps
+
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:45:17 defining QUestion Card
+    00:55:21 coding the API
+    01:46:05 Updating NPM on WSL
+    02:00:00 creating Question Type from API
 
 
 ## Project
@@ -37,23 +37,23 @@ All the code for this project is available on GitHub: triavia - https://github.c
 
 ## Game Results
 
-[@jobinpa](https://www.twitch.tv/jobinpa): 0
-[@fboucheros](https://www.twitch.tv/fboucheros): 0
-[@therealsurlybot](https://www.twitch.tv/therealsurlybot): 0
-[@undefined_process](https://www.twitch.tv/undefined_process): 0
-[@lurkydev](https://www.twitch.tv/lurkydev): 0
-[@theclipographer](https://www.twitch.tv/theclipographer): 0
-[@phrakberg](https://www.twitch.tv/phrakberg): 0
-[@codebymistakes](https://www.twitch.tv/codebymistakes): 0
-[@i_thanvanth](https://www.twitch.tv/i_thanvanth): 0
-[@surlydev](https://www.twitch.tv/surlydev): 0
-[@coppersbeard](https://www.twitch.tv/coppersbeard): 4.02
-[@theunoriginaljerk](https://www.twitch.tv/theunoriginaljerk): 7.92
-[@fredda_the_cat](https://www.twitch.tv/fredda_the_cat): 19.86
-[@jeffs_hat_stand](https://www.twitch.tv/jeffs_hat_stand): 43.23
-[@jhandtv](https://www.twitch.tv/jhandtv): 47.99
-[@tetedampoule66](https://www.twitch.tv/tetedampoule66): 68.67
-[@groversaurus](https://www.twitch.tv/groversaurus): 74.93
+- [@jobinpa](https://www.twitch.tv/jobinpa): 0
+- [@fboucheros](https://www.twitch.tv/fboucheros): 0
+- [@therealsurlybot](https://www.twitch.tv/therealsurlybot): 0
+- [@undefined_process](https://www.twitch.tv/undefined_process): 0
+- [@lurkydev](https://www.twitch.tv/lurkydev): 0
+- [@theclipographer](https://www.twitch.tv/theclipographer): 0
+- [@phrakberg](https://www.twitch.tv/phrakberg): 0
+- [@codebymistakes](https://www.twitch.tv/codebymistakes): 0
+- [@i_thanvanth](https://www.twitch.tv/i_thanvanth): 0
+- [@surlydev](https://www.twitch.tv/surlydev): 0
+- [@coppersbeard](https://www.twitch.tv/coppersbeard): 4.02
+- [@theunoriginaljerk](https://www.twitch.tv/theunoriginaljerk): 7.92
+- [@fredda_the_cat](https://www.twitch.tv/fredda_the_cat): 19.86
+- [@jeffs_hat_stand](https://www.twitch.tv/jeffs_hat_stand): 43.23
+- [@jhandtv](https://www.twitch.tv/jhandtv): 47.99
+- [@tetedampoule66](https://www.twitch.tv/tetedampoule66): 68.67
+- [@groversaurus](https://www.twitch.tv/groversaurus): 74.93
 
 ## Notes/ References / Snippets
 

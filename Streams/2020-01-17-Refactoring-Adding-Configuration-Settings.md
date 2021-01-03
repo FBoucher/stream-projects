@@ -1,20 +1,20 @@
 
 # 2020-01-17 - Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 

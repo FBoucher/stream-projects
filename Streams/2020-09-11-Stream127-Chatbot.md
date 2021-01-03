@@ -1,15 +1,15 @@
 
 # 2020-09-11 - Stream127 Working on the Chatbot, and planning future features
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the Twitch chatbot. The focus will be to finish the stream notes generator and adding to that summary only the scores of the day.
 
 📺 - Twitch archive - stream no.127
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:

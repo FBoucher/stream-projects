@@ -1,23 +1,23 @@
 
 # 2020-08-07 - Stream120 Celebrating 500 followers - And working on the Chat bot
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is celebrating his 500 Twitch followers and working on the chat bot. This week task is to save and load the project information.
 
 📺 - Twitch archive - stream no.120
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/X8J4lVSCELU)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

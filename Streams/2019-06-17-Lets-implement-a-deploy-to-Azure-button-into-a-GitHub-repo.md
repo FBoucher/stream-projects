@@ -2,13 +2,13 @@
 # 2019-06-17 - Let's implement a deploy to Azure button into a GitHub repo
 
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is implementing a "deploy to Azure" button into a GitHub repo using the portal deployment template functionality. We will also practice our Alabama and Quebecois expressions.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://www.youtube.com/watch?v=Joi5lbmmtV0)

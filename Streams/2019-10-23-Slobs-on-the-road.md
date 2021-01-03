@@ -1,20 +1,20 @@
 
 # 2019-10-23 - Slobs on the Road configuration
 
-Summary
--------
+## Summary
+-
 
 In this "on the road" session, Frank is testing, adjusting the stream setup. Then jump in the documentation of AzSubscriptionClearner to put the last touch to this project. 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/498556177)
 - [Youtube](https://youtu.be/-APusc2zXUc)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:41 - Quick overview setup, issues with StreamLab, possible fix

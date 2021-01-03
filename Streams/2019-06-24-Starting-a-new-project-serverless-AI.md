@@ -1,13 +1,13 @@
 
 # 2019-06-24 - Starting a new project AzPics (serverless, AI)
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is starting a new project [AzPics](https://github.com/fboucher/azpics). We will discuss the features, languages and tech to use. And start working on the ARM template to deploy the full version.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://www.youtube.com/watch?v=mJW3_4UEicQ)

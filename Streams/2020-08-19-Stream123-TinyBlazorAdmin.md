@@ -1,23 +1,23 @@
 
 # 2020-08-19 - Stream123 Exploring .Net Blazor UI Control (aka Grid & Charts) for TinyBlazorAdmin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is exploring the Blazor DataGrid from SyncFusion. Will it be possible to recreate all the functionalities... Relax stream just starting the day and having fun.
 
 📺 - Twitch archive - stream no.123
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/7ObsgIN65DQ)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

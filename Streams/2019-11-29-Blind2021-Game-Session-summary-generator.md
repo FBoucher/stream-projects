@@ -1,20 +1,20 @@
 
 # 2019-11-29 - Working on the summary generator for our game project: Blind2021 [on the road stream]
 
-Summary
--------
+## Summary
+-
 
 In this life session from Twitch, Frank is adding a new class GameSession that will hold all the information of the current game; we will be able to use this to generate a save game. He also add a Summary feature and a map coverage information. Great "on the road" stream despite the poor quality of sound and image.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/514771982)
 - [Youtube](https://youtu.be/vkOFEEJQ2uQ)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:11 - Show and tell, (chit-chat... yeah I dud that...)

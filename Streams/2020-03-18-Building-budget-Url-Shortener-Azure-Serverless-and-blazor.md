@@ -1,20 +1,20 @@
 
 # 2020-03-18 - Building a budget Url-Shortener with Azure Serverless and .Net Blazor
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is demoing and explaining how the new AzUrlShortener is working. Then On GitHub add some documentation to help people to deploy it and to use it. Great Stream a lot of fun.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/569685259)
 - [Youtube](https://youtu.be/U89WfEisEAc)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:05:01 - Recap the main feature of the Application

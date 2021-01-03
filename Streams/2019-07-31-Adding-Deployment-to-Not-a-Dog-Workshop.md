@@ -1,20 +1,20 @@
 
 # 2019-07-31 - Adding Deployment to the Not-a-Dog-Workshop
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is creating an Azure Function and start an new ARM template to create the solution at his finale stage.  
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/460505805)
 - [Youtube](https://youtu.be/JWDgt-oLVK8)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 0:01:00 - Bonjour, Hi!
 - 0:15:16 - Back to ARM template adding Congnitive Service

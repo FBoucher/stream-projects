@@ -1,22 +1,22 @@
 
 # 2020-04-17 - Stream 90 AzUrlShortener - Documentation is important, right?! 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is writing documentation on the Azure URL Shortener project adding more detail on how it works and how to use it.
 
 📺 - Twitch archive - stream no.90
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:30 - Little tour about the project

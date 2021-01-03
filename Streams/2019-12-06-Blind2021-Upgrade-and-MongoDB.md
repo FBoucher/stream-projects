@@ -3,20 +3,20 @@
 
 2019-12-06-Blind2021-Upgrade-and-MongoDB
 
-Summary
--------
+## Summary
+-
 
 In this recorded live session from Twitch , Frank is upgrading to .Net Core v3.1 LTS. Than learn how to save some information (not a save game yet...) in MongoDB using a Docker container to host the database.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/517821028)
 - [Youtube](https://youtu.be/pbLZyXXKi4M)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:51 - Plans for today

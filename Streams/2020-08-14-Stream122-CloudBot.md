@@ -1,23 +1,23 @@
 
 # 2020-08-14 - Stream 122 Learning Node.js for the first time: Building a chatbot
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the CloudBot project. He will be adding more more Twitch event tracking and make sure they will be included in the stream notes. 
 
 📺 - Twitch archive - stream no.122
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/Fr_jlDPdt-8)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

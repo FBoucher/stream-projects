@@ -2,13 +2,13 @@
 # 2019-07-03 - Working on AzUnzipEverything: Azure Function and Blob Storage
 
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is fixing a bug into the project AzUnzipEverything (An Azure Function that unzip any zip files drop in a blob storage). The Issue detail is available here: https://github.com/FBoucher/AzUnzipEverything/issues/3
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/447908410)
 - [Youtube](https://www.youtube.com/watch?v=rsy36Otf6Cs)

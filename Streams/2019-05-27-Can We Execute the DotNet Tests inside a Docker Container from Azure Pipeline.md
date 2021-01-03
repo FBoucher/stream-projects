@@ -1,15 +1,15 @@
 
 # 2019-05-27 - Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is finishing the "Dockerization" of the Web API [MyClippings-Parser(https://github.com/FBoucher/MyClippings-Parser). 
 
 The Goal is to build and execute the unit test with-in Docker from an Azure Pipeline. If the build and all the unit tests pass we push the image to Docker Hub.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/430712303)
 - [Youtube](https://www.youtube.com/watch?v=PPy3Av3-ats)

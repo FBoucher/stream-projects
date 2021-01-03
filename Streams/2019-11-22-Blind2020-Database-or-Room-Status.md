@@ -1,8 +1,8 @@
 
 # 2019-11-22 - Blind2021 adding Room Status and more
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is working on Blind2021, a text-based adventure game written in .Net Core. There two tasks today. 
 
@@ -10,8 +10,8 @@ The first one, add a room status. This way if you take an object in the room or 
 
 The second one, add key events that will be "released" so we can aggregate them in a summary. 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/511746039)
 - [Youtube](https://youtu.be/NlGlVJbnpgQ)

@@ -1,19 +1,19 @@
 
 # 2019-08-05 - Chill Azure Development
-Summary
--------
+## Summary
+-
 
 In this session, Frank is finishing the new button to deploy to Azure the resulting solution of the Not-a-Dog workshop. Create some shield.io badge and introduce some idea for the next project.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/463091948)
 - [Youtube](https://youtu.be/1greOS9AHB8)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:06:09 - Test the Deploy button for the resulting solution

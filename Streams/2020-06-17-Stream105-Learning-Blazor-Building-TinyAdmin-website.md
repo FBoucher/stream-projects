@@ -1,15 +1,15 @@
 
 # 2020-06-17 - Stream105 Learning Blazor WebAssemly- Building a TinyAdmin website
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is creating a sample Blazor Web Assembly (wasm) application to learn how to read a value from an Azure Key Vault. It's possible... 
 
 📺 - Twitch archive - stream no.105
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/6I8tc-OObLY)
@@ -18,8 +18,8 @@ Replay
 
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:03:01 - Show and tell about New Show All Around Azure

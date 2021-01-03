@@ -1,23 +1,23 @@
 
 # 2019-12-20 - Adding save game, loading maps. Project: Blind2021
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is Adding the missing pieces to the project Blind 2021, a text-based adventure game written in .Net Core version 3.1 LTS, to be able to load a save game. By the end of this stream the game can now load a map from a file and create a new game based on that. 
 
 Call for map custom creator! (01:43:41)
 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/523984100)
 - [Youtube](https://youtu.be/LY_3Xy4FpNU)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:31 - Plan of the day, quick status

@@ -1,22 +1,22 @@
 
 # 2020-06-26 - Stream108 Learning JavaScript 😱 Building a score keeper Twitch bot
 
-Summary
--------
+## Summary
+-
 In this live stream session, Frank is working on the cloud bot. A JavaScript chat bot for Twitch build every easily, thanks to the Confyjs library. The goal is to be able to keep track of the Highest scores.
 
 📺 - Twitch archive - stream no.108
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/EwPMhKmLSCs)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:10 Intro
 00:00:10 Bonjour, Hi!

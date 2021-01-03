@@ -1,20 +1,20 @@
 
 # 2020-03-20 - Building a budget Url-Shortener with Azure Serverless and .Net Blazor
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is continuing the work on the project AzUrlShortener a  budget friendly Url-Shortener using Azure Function (Serverless) and Storage with .Net Core. The focus of this stream will be on the UrlRedirect function; that's the one implicitly called when someone use a short url.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/571133220)
 - [Youtube](https://youtu.be/2iNOZJOQPNQ)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:20 - PLan of the day

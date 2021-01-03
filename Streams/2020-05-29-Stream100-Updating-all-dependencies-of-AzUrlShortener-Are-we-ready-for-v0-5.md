@@ -1,22 +1,22 @@
 
 # 2020-05-29 - Stream100 Updating all dependencies of AzUrlShortener. Are we ready for v0.5?
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is upgrading all the dependencies in the project AzUrlShortener base on the recommendation of the application Dependabot. Then he will wrap al those last changes to publish the version 0.5! Finishing the stream by testing a chart library named ChartJs.Blazor to create bar chart and display the clicks timeline statistic.
 
 📺 - Twitch archive - stream no.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://youtu.be/RjBIgpkQB-M)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:01:01 - Bonjour, Hi!
 - 00:00:01 - Start working on updating all the dependencies 

@@ -1,13 +1,13 @@
 
 # 2019-06-19 - Live Coding Azure Deploy button & Asp.Net Core StartUp Task
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is explaining how offline he fixed the automatic deployment of a solution in GitHub. Reviewing the ARM template, deployment script and creation/ settings assignation. The plan was to create a Startup task for the Asp.Net Core but we ends-up with a condition in the controller.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/441211407)
 - [Youtube](https://www.youtube.com/watch?v=QJXSUG_BLRA)

@@ -1,20 +1,20 @@
 
 # 2020-01-31 - GitHub Action and Unit tests for .Net Code - Project: Blind2021
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is creating a continuous integration workflow using GitHub Action to build and execute unit tests at every push to GitHub.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/544608382)
 - [Youtube](https://youtu.be/_vwGDBNYHyw)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:02:16 - Plan of the day

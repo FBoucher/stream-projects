@@ -1,20 +1,20 @@
 
 # 2019-09-09 - Working on a thumbnail... Chat, relax
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is creating two thumbnails for an up-coming videos (available here: https://youtu.be/kbM8zwvUpkg). A big thanks to @iboonox for is work... He created 3 super cool images with my pictures.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/479300898)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:48 - Planning of the stream 

@@ -1,23 +1,23 @@
 
 # 2020-06-12 - Stream104-No idea what I'm doing - Building a Twitch chatbot in JavaScript 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is learning ComfyJS a JavaScript framework. Building slowly but surely a Twitch bot. We learn sooo much! 
 
 📺 - Twitch archive - stream no.104
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://c5m.ca/stream-ep104)
 - Stream Summary: https://youtu.be/Pyij8iXX1hU
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:05:46 - Goals of the stream

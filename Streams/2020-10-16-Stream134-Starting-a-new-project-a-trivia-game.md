@@ -1,22 +1,22 @@
 
 # 2020-10-16 - Stream134 Starting a new project - a trivia game
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is joinned by Jason to start a new project: a trivia game.  This new project (code name triavia) is for playing online while streaming. It's in a very early stage and this session was a whiteboard session, noting the ideas for the cloudies.
 
 📺 - Twitch archive - stream no.134
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/oAqaRsH2UFU)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

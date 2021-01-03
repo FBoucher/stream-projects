@@ -1,20 +1,20 @@
 
 # 2020-03-22 - (Unschedule) Experimenting with Azure Function and .Net Core Blazor ☁ 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 

@@ -1,23 +1,23 @@
 
 # 2020-08-05 - Stream119 How easy can we make the deployment of TinyBlazorAdmin
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the documentation for the manual deployment of TinyBlazorAdmin. This is a client side website is the frontend of a tool to make short URLs. It's done in C# using Blazor web assembly. Until we make a automatic deployment we need some manual instruction.
 
 📺 - Twitch archive - stream no.119
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/BJrHY78j1aQ)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

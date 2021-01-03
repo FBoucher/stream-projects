@@ -1,15 +1,15 @@
 
 # 2020-10-01 - Stream130  GitHub PRs & projects maintenance
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is 
 
 📺 - Twitch archive - stream no.135
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:

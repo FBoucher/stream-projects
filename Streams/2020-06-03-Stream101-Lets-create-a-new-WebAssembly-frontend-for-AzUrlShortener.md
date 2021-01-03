@@ -1,22 +1,22 @@
 
 # 2020-06-03 - Stream 101 GitHub project maintenance and planning 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is doing some project maintenance, labeling, and prioritizing the issue on GitHub. Then he will create a new "global" public board with all the ideas and projects. 
 
 📺 - Twitch archive - stream no.101
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://youtu.be/jRL1drkgnzU)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:03:19 - Planning the stream

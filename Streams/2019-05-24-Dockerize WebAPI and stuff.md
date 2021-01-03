@@ -1,13 +1,13 @@
 # 2019-05-24 - Dockerize WebAPI and stuff Container from Azure Pipeline
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is learning how to Dockerize a simple Web API. Then apply this new skill to the MyClippings-Parser API. The Goal is to build and execute the unit test with Docker from an Azure Pipeline.
 
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/429182439)
 - Youtube (soon)

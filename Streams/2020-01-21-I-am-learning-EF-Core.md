@@ -1,19 +1,19 @@
 
 # 2020-01-21 - I am learning EF Core, From scratch :)
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is learning Entity Framework (EF) Core following docs sample.
 
-Replay
-------
+## Replay
+
 
 - [Youtube](https://youtu.be/eefJC0flC5I)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:06:23 - Mostly start new Project in Visual Studio

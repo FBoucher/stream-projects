@@ -1,15 +1,15 @@
 
 # 2020-10-14 - Stream133 GitHub PRs & projects maintenance
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is doing some maintenance to different GitHub projects: CloudBot, TinyBlazorAdmin, and AzUnzipEverything. He will encounter a wonderful PR from mreyeros, and start testing it. This PR upgrade the Azure Function to v3 and add a keyvault, password protected zip support and a few little things to the AzUnzipEverything project. Wow!!
 
 📺 - Twitch archive - stream no.133
 
-Replay
-------
+## Replay
+
 
 - [Youtube](https://youtu.be/cAJqJKiAFv4)
 

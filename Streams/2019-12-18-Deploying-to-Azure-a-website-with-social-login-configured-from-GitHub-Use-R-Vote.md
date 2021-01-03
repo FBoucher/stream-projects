@@ -1,20 +1,20 @@
 
 # 2019-12-18 - Deploying to Azure a website with social login configured from GitHub - Use-R-Vote
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is re-creating a new .Net Core Blazor (server side) application with Twitter authentication. Then He create a GitHub Actions workflow to deploy the application and also use an Azure Resource Manager (ARM) template, to provision and configure the Azure resources.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/523260156)
 - [Youtube](https://youtu.be/IGBJC5Y8s8U)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:05:58 - Plan of the day

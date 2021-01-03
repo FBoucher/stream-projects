@@ -1,22 +1,22 @@
 
 # 2020-05-08 - Adding Edit feature to the project Azure Url Shortener [C#, Blazor, Serverless, Azure]
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the project Azure Url Shortener. Fixing the default redirect when the domain is called directly (bug AZURL#47) and continue to work on the Edit URL UI. 
 
 📺 - Twitch archive - stream no.94
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/614770305)
 - [Youtube](https://youtu.be/x50auUUWCSU)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:30 - Show/ Tell/ Share

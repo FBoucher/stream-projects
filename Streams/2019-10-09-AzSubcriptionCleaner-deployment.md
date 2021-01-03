@@ -1,20 +1,20 @@
 
 # 2019-10-09 - Azure Subscription Cleaner Auto deployment
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is fixing the #Azure #Automation solution for the project Azure Subscription Cleaner (AzSubscriptionCleaner). Once the  project is all working he will extract the Azure Resource Manager (#ARM)template. And also check some PR on the project.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/492378450)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:21 - Bonjour, Hi!
 - 00:12:53 - Check PR from @ChrisIIx 

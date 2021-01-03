@@ -1,20 +1,20 @@
 
 # 2019-09-04 - Azure Function and GitHub management for AzSubscription Cleaner
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is fixing the last error in the Azure Subscription Cleaner, Function version related to Identity. Then update the ARM tempalte, the ReadMe and add some todos on a GLO board!
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/476831551)
 - [Youtube](https://youtu.be/Tu0GX8Ps4to)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:02:05 - Some news...

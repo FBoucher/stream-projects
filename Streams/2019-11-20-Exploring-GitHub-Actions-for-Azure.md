@@ -1,20 +1,20 @@
 
 # 2019-11-20 - Exploring GitHub Actions for deploying to Azure
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is doing a recap of the two weeks offline and learning how to use the GitHub action to build to add a CI-CD to an existing solution.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://youtu.be/_yXeVo1LKJ8)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:00:56 - Show & tell

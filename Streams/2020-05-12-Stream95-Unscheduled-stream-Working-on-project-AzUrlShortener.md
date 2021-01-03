@@ -1,22 +1,22 @@
 
 # 2020-05-12 - Unscheduled stream :) - Working on project Azure Url Shortener 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the Azure Url SHortener Admin website. He will close the issue AZURL#44 Add UI for Editing, and AZURL#53 Don't save all API URLs individually.
 
 📺 - Twitch archive - stream no.95
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/618952844)
 - [Youtube](https://youtu.be/y6OlkiTOPvg)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:01 - Quick sumary of the previous stream

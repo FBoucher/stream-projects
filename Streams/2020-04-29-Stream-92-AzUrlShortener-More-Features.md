@@ -1,22 +1,22 @@
 
 # 2020-04-29 - Stream-92-AzUrlShortener-More Features
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is adding a diagram to the doc, and improving the result of the Azure Url Shortener (AzUrlShortener). He will add more detail in the Azure Function that return all url and use that new information in the UI.
 
 📺 - Twitch archive - stream no.92
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Youtube](https://youtu.be/viqAXcWK7Oo)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:01:17 - Show & tell/ plan of the day

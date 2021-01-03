@@ -1,20 +1,20 @@
 
 # 2019-10-11 - Coding Project Dover working on the inventory
 
-Summary
--------
+## Summary
+-
 
 In this session, Frank is creating a nice kanban board, using GitKraken GLO, for the project and start working on what will be the inventory system.
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/493084542)
 - Youtube(soon)
 
 
-Timestamps
---------
+## Timestamps
+
 
 - 00:00:01 - Bonjour, Hi!
 - 00:26:28 - Building a Kanban (GLO) board for the project (https://app.gitkraken.com/glo/board/XaCFs0AaCAAPfDsT)

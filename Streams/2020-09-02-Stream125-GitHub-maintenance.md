@@ -1,23 +1,23 @@
 
 # 2020-09-02 - Stream125 GitHub maintenance, looking at your PR, messages, etc.
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is doing some GitHub maintenance, sorting issues, merging Pull Requests (PR) from dependabot and the community. This last one will add two new frontend to the project AzUrlShortener PowerShell and SharePoint.
 
 📺 - Twitch archive - stream no.125
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/TQkmBHsLZZY)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:18 Bonjour, Hi!

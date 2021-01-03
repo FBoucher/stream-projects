@@ -14,8 +14,8 @@ In this live stream session, Frank is trying some of the new features announced 
 
 <!--more-->
 
-Timestamps
---------
+## Timestamps
+
     00:00:00 Intro
     00:00:10 Bonjour, Hi!
     00:18:13 It's dark mode time!

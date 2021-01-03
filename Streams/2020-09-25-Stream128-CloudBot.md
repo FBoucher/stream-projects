@@ -1,23 +1,23 @@
 
 # 2020-09-25 - Stream128 Can we generate images in Nodejs for the chatbot?
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is working on the chatbot. Continuing to learn more about Node.js the goal of this stream was to create images base on some cloudies text and display then in the screen so CB (the cloud bot) and "talk".
 
 📺 - Twitch archive - stream no.128
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
 - [Youtube](https://youtu.be/_hybEWQ6DP0)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

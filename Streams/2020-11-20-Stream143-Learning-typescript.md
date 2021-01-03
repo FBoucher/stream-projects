@@ -1,22 +1,22 @@
 
 # 2020-11-20 - Stream143 Learning how to create & publish our first Typescript + Nodejs + ??  to Azure...
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank and Jason are creating their first Typescript and React application... A lot of learning and fun moments.
 
 📺 - Twitch archive - stream no.143
 
-Replay
-------
+## Replay
+
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/dHWzAt2Ig6s)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!

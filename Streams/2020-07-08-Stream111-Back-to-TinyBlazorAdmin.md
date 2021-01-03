@@ -1,23 +1,23 @@
 
 # 2020-07-08 - Stream111 Back to TinyBlazorAdmin aplying what we learn about Blazor wasm and AAD 
 
-Summary
--------
+## Summary
+-
 
 In this live stream session, Frank is bringing all the code created in the previous session (when learning how to use Azure Active Directory (AAD)),  into the project Tiny Blazor Admin. Things won't go as planned as something is still not working... but what is it.
 
 📺 - Twitch archive - stream no.111
 
-Replay
-------
+## Replay
+
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/xArPcMSwKOQ)
 - [Youtube](https://youtu.be/u7Ogmy1hXkk)
 
 
-Timestamps
---------
+## Timestamps
+
 
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
