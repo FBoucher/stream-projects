@@ -1,0 +1,11 @@
+- title: "Home"
+  href: "/"
+
+- title: "Journal"
+  href: "/journal/"
+
+- title: "Archive"
+  href: "/archive/"
+
+- title: "About"
+  href: "/about/"
