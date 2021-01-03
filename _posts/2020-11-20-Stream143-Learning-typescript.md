@@ -26,10 +26,10 @@ In this live stream session, Frank and Jason are creating their first Typescript
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:11:30 Creating Todos
-01:28:18 run first time React App
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:11:30 Creating Todos
+    01:28:18 run first time React App
 
 
 ## Project

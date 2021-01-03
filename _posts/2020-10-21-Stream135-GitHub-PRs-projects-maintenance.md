@@ -33,11 +33,11 @@ All the code for this project is available on GitHub: AzUnzipEverything - https:
 
 ## TimeLogs
 
-00:21:31 Create the TODOs
-00:23:42 looking at the ARM template
-00:33:15 deploy the ARM template
-00:43:24 re-deploy using a different version of API
-01:14:26 investigating ARM KeyVault
+    00:21:31 Create the TODOs
+    00:23:42 looking at the ARM template
+    00:33:15 deploy the ARM template
+    00:43:24 re-deploy using a different version of API
+    01:14:26 investigating ARM KeyVault
 
 ## New Followers
 
@@ -47,14 +47,14 @@ All the code for this project is available on GitHub: AzUnzipEverything - https:
 
 ## Game Results
 
-[@surlydev](https://www.twitch.tv/surlydev): 0
-[@dot_commie](https://www.twitch.tv/dot_commie): 0
-[@baldbeardedbuilder](https://www.twitch.tv/baldbeardedbuilder): 0
-[@krunalshah](https://www.twitch.tv/krunalshah): 0
-[@mreyeros](https://www.twitch.tv/mreyeros): 66.34
-[@smabuk](https://www.twitch.tv/smabuk): 67.33
-[@hyfss7vxwj](https://www.twitch.tv/hyfss7vxwj): 76.95
-[@fboucheros](https://www.twitch.tv/fboucheros): 99.35
+- [@surlydev](https://www.twitch.tv/surlydev): 0
+- [@dot_commie](https://www.twitch.tv/dot_commie): 0
+- [@baldbeardedbuilder](https://www.twitch.tv/baldbeardedbuilder): 0
+- [@krunalshah](https://www.twitch.tv/krunalshah): 0
+- [@mreyeros](https://www.twitch.tv/mreyeros): 66.34
+- [@smabuk](https://www.twitch.tv/smabuk): 67.33
+- [@hyfss7vxwj](https://www.twitch.tv/hyfss7vxwj): 76.95
+- [@fboucheros](https://www.twitch.tv/fboucheros): 99.35
 
 ## Notes/ References / Snippets
 

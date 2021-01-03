@@ -16,7 +16,7 @@ In this live stream session, Frank is
 - [Twitch](https://www.twitch.tv/fboucheros)
 - Youtube(soon)
 
-<!--more-->
+<br/><!--more-->
 
 ## Timestamps
 

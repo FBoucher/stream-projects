@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
+title: "Stream ### - Learning Typescript + Nodejs + React by building a trivia game"
 date: 
 categories: triavia Typescript nodejs react
 ---

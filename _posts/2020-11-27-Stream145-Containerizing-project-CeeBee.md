@@ -17,9 +17,7 @@ In this live stream session, Frank is containerizing the chatbot used during the
 {% include youtube.html id="HBruR9lx4T0" %}
 <br/><!--more-->
 
-{% include youtube.html id="HBruR9lx4T0" %}
 
-<br/><!--more-->
 
 ## Timestamps
 

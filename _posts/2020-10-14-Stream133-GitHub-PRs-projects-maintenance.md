@@ -42,14 +42,14 @@ All the code for this project is available on GitHub: Cloud Bot - https://github
 
 ## TimeLogs
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:02:59 create todos
-00:03:34 todo 1 - check Cloubbot
-00:22:45 checking github.com/FBoucher/AzUnzipEverything
-00:56:53 looking at mreyeros PR WOW!!
-01:40:29 tell about future of AzUrlShotener and TinyBlazor Admin
-01:46:03 test mreyeros is working
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:02:59 create todos
+    00:03:34 todo 1 - check Cloubbot
+    00:22:45 checking github.com/FBoucher/AzUnzipEverything
+    00:56:53 looking at mreyeros PR WOW!!
+    01:40:29 tell about future of AzUrlShotener and TinyBlazor Admin
+    01:46:03 test mreyeros is working
 
 ## New Followers
 
@@ -57,13 +57,13 @@ All the code for this project is available on GitHub: Cloud Bot - https://github
 
 ## Game Results
 
-[@jtsom](https://www.twitch.tv/jtsom): 0
-[@quandram](https://www.twitch.tv/quandram): 0
-[@lostalgorithm](https://www.twitch.tv/lostalgorithm): 37.61
-[@tbdgamer](https://www.twitch.tv/tbdgamer): 43.89
-[@surlydev](https://www.twitch.tv/surlydev): 61.37
-[@johncallaway](https://www.twitch.tv/johncallaway): 83.29
-[@fboucheros](https://www.twitch.tv/fboucheros): 0
+- [@jtsom](https://www.twitch.tv/jtsom): 0
+- [@quandram](https://www.twitch.tv/quandram): 0
+- [@lostalgorithm](https://www.twitch.tv/lostalgorithm): 37.61
+- [@tbdgamer](https://www.twitch.tv/tbdgamer): 43.89
+- [@surlydev](https://www.twitch.tv/surlydev): 61.37
+- [@johncallaway](https://www.twitch.tv/johncallaway): 83.29
+- [@fboucheros](https://www.twitch.tv/fboucheros): 0
 
 ## Notes/ References / Snippets
 

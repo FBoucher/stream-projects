@@ -26,11 +26,11 @@ In this live stream session, Frank is Learning how the Chart component of the Sy
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:07:58 setup env. and Recall previous work
-00:25:23 debugging Chart
-00:56:33 trying with dynamic data
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:07:58 setup env. and Recall previous work
+    00:25:23 debugging Chart
+    00:56:33 trying with dynamic data
 
 ## Project
 

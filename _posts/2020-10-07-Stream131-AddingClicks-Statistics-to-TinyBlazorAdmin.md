@@ -27,11 +27,11 @@ In this live stream session, Frank add more information about the short Urls cre
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:00:30 Chit-Chat
-00:22:48 Looking at the Grid
-01:15:10 Prep for the Click Stats barchart
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:00:30 Chit-Chat
+    00:22:48 Looking at the Grid
+    01:15:10 Prep for the Click Stats barchart
 
 
 

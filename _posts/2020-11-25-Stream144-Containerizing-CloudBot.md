@@ -26,8 +26,8 @@ In this live stream session, Frank is containerizing the chatbot used during the
 
 ## Timestamps
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
 
 
 ## Project
