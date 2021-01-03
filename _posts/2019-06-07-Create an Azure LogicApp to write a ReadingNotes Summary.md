@@ -5,9 +5,6 @@ date: 2019-06-07
 categories: stream
 ---
 
-
-# 2019-06-07 - Create an Azure LogicApp to Generate a ReadingNotes Summary
-
 ## Summary
 -
 

@@ -5,9 +5,6 @@ date: 2019-06-10
 categories: stream
 ---
 
-
-# 2019-06-10 Create Azure Logic App to Create ReadingNotes Summary
-
 ## Summary
 -
 
@@ -17,7 +14,9 @@ In this session, Frank is creating an Azure Logic App to generate a summary. The
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/437183099)
+
 {% include youtube.html id="Hy9PmaiEEh8" %}
+
 <br/><!--more-->
 
 Goals

@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Dockerize WebAPI and stuff
+title: Dockerize WebAPI and stuff Container from Azure Pipeline
 date: 2019-05-24
 categories: stream
 ---
 
-# 2019-05-24 - Dockerize WebAPI and stuff Container from Azure Pipeline
 
 ## Summary
 -

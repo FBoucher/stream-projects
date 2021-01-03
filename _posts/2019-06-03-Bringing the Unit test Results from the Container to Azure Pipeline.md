@@ -6,8 +6,6 @@ categories: stream
 ---
 
 
-# 2019-06-03 - Bringing the Unit test Results from the Container to Azure Pipeline
-
 ## Summary
 -
 
