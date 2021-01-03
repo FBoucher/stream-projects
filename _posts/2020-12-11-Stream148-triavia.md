@@ -12,7 +12,8 @@ In this live stream session, Frank is joinned by Jason to continue to work on th
 ## Replay
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/i1QrEfdPiz8)
+{% include youtube.html id="i1QrEfdPiz8" %}
+<br/><!--more-->
 
 {% include youtube.html id="i1QrEfdPiz8" %}
 

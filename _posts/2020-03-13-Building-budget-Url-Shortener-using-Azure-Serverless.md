@@ -17,7 +17,8 @@ In this live stream session, Frank explains the main goal of a new project a bud
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/566462754)
-- [Youtube](https://youtu.be/ovMUd0eX2Qw)
+{% include youtube.html id="ovMUd0eX2Qw" %}
+<br/><!--more-->
 
 
 ## Timestamps

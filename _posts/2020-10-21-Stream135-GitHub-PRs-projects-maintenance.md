@@ -18,7 +18,8 @@ In this live stream session, Frank is doing some maintenance to different GitHub
 ## Replay
 
 
-- [Youtube](https://youtu.be/oztwgQ2db08)
+{% include youtube.html id="oztwgQ2db08" %}
+<br/><!--more-->
 
 
 ## Project

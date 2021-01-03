@@ -19,7 +19,8 @@ In this live stream session, Frank is showing how he configure Dependabot, a Git
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://youtu.be/6dR-j4XxmLg)
+{% include youtube.html id="6dR-j4XxmLg" %}
+<br/><!--more-->
 
 
 ## Timestamps

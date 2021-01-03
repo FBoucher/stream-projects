@@ -20,7 +20,8 @@ Call for map custom creator! (01:43:41)
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/523984100)
-- [Youtube](https://youtu.be/LY_3Xy4FpNU)
+{% include youtube.html id="LY_3Xy4FpNU" %}
+<br/><!--more-->
 
 
 ## Timestamps

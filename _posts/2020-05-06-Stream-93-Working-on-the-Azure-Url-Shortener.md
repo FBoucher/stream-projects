@@ -19,7 +19,8 @@ In this live stream session (no.93), Frank is working on the project Azure Url S
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/612824625)
-- [Youtube](https://youtu.be/oOi0i-Zr6TI)
+{% include youtube.html id="oOi0i-Zr6TI" %}
+<br/><!--more-->
 
 
 ## Timestamps

@@ -18,7 +18,8 @@ In this live stream session, Frank is closing some issues or todo for the projec
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/592747642)
-- [Youtube](https://youtu.be/fcDFtOl_X-c)
+{% include youtube.html id="fcDFtOl_X-c" %}
+<br/><!--more-->
 
 
 ## Timestamps

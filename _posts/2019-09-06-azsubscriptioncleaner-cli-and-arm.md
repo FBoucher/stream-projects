@@ -17,7 +17,8 @@ In this session, Frank is add Shield.io badges to the project (that is now avail
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/477593141)
-- [Youtube](https://youtu.be/IYXCw8cF3iw)
+{% include youtube.html id="IYXCw8cF3iw" %}
+<br/><!--more-->
 
 
 ## Timestamps

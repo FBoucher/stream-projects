@@ -16,7 +16,8 @@ In this live stream session, Frank is learning Entity Framework (EF) Core follow
 ## Replay
 
 
-- [Youtube](https://youtu.be/eefJC0flC5I)
+{% include youtube.html id="eefJC0flC5I" %}
+<br/><!--more-->
 
 
 ## Timestamps

@@ -17,7 +17,8 @@ In this live stream session, Frank starts building an admin interface for the Az
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/575027141)
-- [Youtube](https://youtu.be/m5WETGjV1c0)
+{% include youtube.html id="m5WETGjV1c0" %}
+<br/><!--more-->
 
 
 ## Timestamps

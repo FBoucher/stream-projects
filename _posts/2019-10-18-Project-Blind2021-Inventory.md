@@ -17,7 +17,8 @@ In this session, Frank is back in Linux and is working on the inventory system f
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/496230783)
-- [Youtube](https://youtu.be/1LTixtFxopQ)
+{% include youtube.html id="1LTixtFxopQ" %}
+<br/><!--more-->
 
 
 ## Timestamps

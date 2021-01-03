@@ -20,7 +20,8 @@ In this live stream session, Frank is exploring the Blazor DataGrid from SyncFus
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/7ObsgIN65DQ)
+{% include youtube.html id="7ObsgIN65DQ" %}
+<br/><!--more-->
 
 
 ## Timestamps

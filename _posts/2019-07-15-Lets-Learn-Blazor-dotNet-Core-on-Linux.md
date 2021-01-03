@@ -17,7 +17,8 @@ In this session, Frank is trying blazor on Linux. Creating new app (client and s
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/453179037)
-- [Youtube](https://youtu.be/qy6YqWsRmQg)
+{% include youtube.html id="qy6YqWsRmQg" %}
+<br/><!--more-->
 
 
 Segments

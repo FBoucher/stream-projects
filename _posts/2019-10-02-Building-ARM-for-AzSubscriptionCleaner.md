@@ -18,7 +18,8 @@ After he will be working on the Azure Automation solution to extract the ARM tem
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/489343957)
-- [Youtube](https://youtu.be/vBN-oaIRki8)
+{% include youtube.html id="vBN-oaIRki8" %}
+<br/><!--more-->
 
 
 ## Timestamps

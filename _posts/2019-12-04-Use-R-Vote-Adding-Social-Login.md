@@ -17,7 +17,8 @@ In this recorded live session from Twitch, Frank is adding social login (focusin
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/517088126)
-- [Youtube](https://youtu.be/DQ_xz0q2oJg)
+{% include youtube.html id="DQ_xz0q2oJg" %}
+<br/><!--more-->
 
 
 ## Timestamps

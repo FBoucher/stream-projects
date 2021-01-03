@@ -19,7 +19,8 @@ In this live stream session, Jason and Frank decided to use TypeScript as the la
 
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/ZbuvdEoB88I)
+{% include youtube.html id="ZbuvdEoB88I" %}
+<br/><!--more-->
 
 ## Project
 

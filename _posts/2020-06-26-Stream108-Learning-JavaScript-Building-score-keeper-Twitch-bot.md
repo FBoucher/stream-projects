@@ -19,7 +19,8 @@ In this live stream session, Frank is working on the cloud bot. A JavaScript cha
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/EwPMhKmLSCs)
+{% include youtube.html id="EwPMhKmLSCs" %}
+<br/><!--more-->
 
 
 ## Timestamps

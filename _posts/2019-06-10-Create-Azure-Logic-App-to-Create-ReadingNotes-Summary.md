@@ -17,7 +17,8 @@ In this session, Frank is creating an Azure Logic App to generate a summary. The
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/437183099)
-- [Youtube](https://youtu.be/Hy9PmaiEEh8)
+{% include youtube.html id="Hy9PmaiEEh8" %}
+<br/><!--more-->
 
 Goals
 -----

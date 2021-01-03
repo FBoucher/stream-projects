@@ -17,7 +17,8 @@ In this live stream session, Frank is re-creating a new .Net Core Blazor (server
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/523260156)
-- [Youtube](https://youtu.be/IGBJC5Y8s8U)
+{% include youtube.html id="IGBJC5Y8s8U" %}
+<br/><!--more-->
 
 
 ## Timestamps

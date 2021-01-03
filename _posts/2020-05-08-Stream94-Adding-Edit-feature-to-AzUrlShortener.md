@@ -19,7 +19,8 @@ In this live stream session, Frank is working on the project Azure Url Shortener
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/614770305)
-- [Youtube](https://youtu.be/x50auUUWCSU)
+{% include youtube.html id="x50auUUWCSU" %}
+<br/><!--more-->
 
 
 ## Timestamps

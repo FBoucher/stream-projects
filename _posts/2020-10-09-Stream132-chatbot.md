@@ -19,7 +19,8 @@ In this live stream session, Frank is adding a recurring save to file to the cha
 
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/3KOJxXlmhFc)
+{% include youtube.html id="3KOJxXlmhFc" %}
+<br/><!--more-->
 
 
 Project

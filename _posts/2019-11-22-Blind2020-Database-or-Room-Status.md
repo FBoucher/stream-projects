@@ -21,7 +21,8 @@ The second one, add key events that will be "released" so we can aggregate them 
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/511746039)
-- [Youtube](https://youtu.be/NlGlVJbnpgQ)
+{% include youtube.html id="NlGlVJbnpgQ" %}
+<br/><!--more-->
 
 
 Timestamps 

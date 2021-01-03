@@ -19,7 +19,8 @@ In this live stream session, Frank is Learning how the Chart component of the Sy
 
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/BRuuiOibuLU)
+{% include youtube.html id="BRuuiOibuLU" %}
+<br/><!--more-->
 
 
 ## Timestamps

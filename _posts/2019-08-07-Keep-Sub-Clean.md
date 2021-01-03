@@ -17,7 +17,8 @@ In this session, Frank is starting a new project to Automatically delete "expire
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://youtu.be/V4CJP4pi-28)
+{% include youtube.html id="V4CJP4pi-28" %}
+<br/><!--more-->
 
 
 ## Timestamps

@@ -20,7 +20,8 @@ In this live stream session, Frank add more information about the short Urls cre
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/4OfwrUV1jmk)
+{% include youtube.html id="4OfwrUV1jmk" %}
+<br/><!--more-->
 
 
 ## Timestamps

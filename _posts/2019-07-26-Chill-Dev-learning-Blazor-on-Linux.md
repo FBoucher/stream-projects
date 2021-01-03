@@ -17,7 +17,8 @@ In this short session, Frank is creating a simple Blazor App to read images from
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/458246761)
-- [Youtube](https://youtu.be/V1OJuAWdfO8)
+{% include youtube.html id="V1OJuAWdfO8" %}
+<br/><!--more-->
 
 
 Segments

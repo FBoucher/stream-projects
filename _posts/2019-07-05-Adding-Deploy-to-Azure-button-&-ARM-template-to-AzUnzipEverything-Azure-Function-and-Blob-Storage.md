@@ -17,7 +17,8 @@ In this session, Frank is create from A to Z an Azure Resource Manager (ARM) tem
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/448585633)
-- [Youtube](https://youtu.be/MpVYY_s7Pkc)
+{% include youtube.html id="MpVYY_s7Pkc" %}
+<br/><!--more-->
 
 
 Segments

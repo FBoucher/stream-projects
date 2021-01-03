@@ -20,7 +20,8 @@ In this live stream session, Frank is working on the chatbot. Continuing to lear
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/_hybEWQ6DP0)
+{% include youtube.html id="_hybEWQ6DP0" %}
+<br/><!--more-->
 
 
 ## Timestamps

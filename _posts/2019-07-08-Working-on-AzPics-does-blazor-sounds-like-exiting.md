@@ -17,7 +17,8 @@ In this session, Frank is back on Linux! He is planning the AzPics project work.
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/449980677)
-- [Youtube](https://youtu.be/usdhAybfmiM)
+{% include youtube.html id="usdhAybfmiM" %}
+<br/><!--more-->
 
 
 Segments

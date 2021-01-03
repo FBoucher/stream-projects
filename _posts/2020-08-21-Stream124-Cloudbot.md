@@ -20,7 +20,8 @@ In this live stream session, Frank is making great progress on the co-host funct
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/ba6NRyo0oaE)
+{% include youtube.html id="ba6NRyo0oaE" %}
+<br/><!--more-->
 
 
 ## Timestamps

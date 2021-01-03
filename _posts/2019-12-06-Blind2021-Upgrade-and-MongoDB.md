@@ -19,7 +19,8 @@ In this recorded live session from Twitch , Frank is upgrading to .Net Core v3.1
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/517821028)
-- [Youtube](https://youtu.be/pbLZyXXKi4M)
+{% include youtube.html id="pbLZyXXKi4M" %}
+<br/><!--more-->
 
 
 ## Timestamps

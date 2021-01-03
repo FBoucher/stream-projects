@@ -17,7 +17,8 @@ In this "on the road" session, Frank is testing, adjusting the stream setup. The
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/498556177)
-- [Youtube](https://youtu.be/-APusc2zXUc)
+{% include youtube.html id="-APusc2zXUc" %}
+<br/><!--more-->
 
 
 ## Timestamps

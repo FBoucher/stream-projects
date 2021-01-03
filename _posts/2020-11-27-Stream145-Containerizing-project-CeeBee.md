@@ -14,7 +14,8 @@ In this live stream session, Frank is containerizing the chatbot used during the
 ## Replay
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/HBruR9lx4T0)
+{% include youtube.html id="HBruR9lx4T0" %}
+<br/><!--more-->
 
 {% include youtube.html id="HBruR9lx4T0" %}
 

@@ -20,7 +20,8 @@ In this live stream session, Frank is exploring the brand new Azure Static Webap
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/5F0IGp1tGjY)
+{% include youtube.html id="5F0IGp1tGjY" %}
+<br/><!--more-->
 
 
 ## Timestamps

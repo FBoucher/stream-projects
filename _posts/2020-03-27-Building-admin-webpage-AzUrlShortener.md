@@ -19,7 +19,8 @@ In this live stream session, Frank is adding documentation on GitHub for the pro
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/576593435)
-- [Youtube](https://youtu.be/URPgyVizg3E)
+{% include youtube.html id="URPgyVizg3E" %}
+<br/><!--more-->
 
 
 ## Timestamps

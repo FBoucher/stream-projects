@@ -19,7 +19,8 @@ In this live stream session, Frank is doing some project maintenance, labeling, 
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://youtu.be/jRL1drkgnzU)
+{% include youtube.html id="jRL1drkgnzU" %}
+<br/><!--more-->
 
 
 ## Timestamps

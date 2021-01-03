@@ -19,7 +19,8 @@ In this live stream session, Frank and Jason are creating their first Typescript
 
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-- [Youtube](https://youtu.be/dHWzAt2Ig6s)
+{% include youtube.html id="dHWzAt2Ig6s" %}
+<br/><!--more-->
 
 
 ## Timestamps

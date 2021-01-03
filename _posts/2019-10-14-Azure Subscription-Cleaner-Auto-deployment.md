@@ -16,7 +16,8 @@ In this session, Frank is working on an automatic deployment from GitHub using a
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/494696974)
-- [Youtube](https://youtu.be/GnmrO6C0lF8)
+{% include youtube.html id="GnmrO6C0lF8" %}
+<br/><!--more-->
 
 
 ## Timestamps

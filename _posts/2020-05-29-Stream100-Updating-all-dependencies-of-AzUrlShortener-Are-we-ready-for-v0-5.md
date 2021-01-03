@@ -19,7 +19,8 @@ In this live stream session, Frank is upgrading all the dependencies in the proj
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://youtu.be/RjBIgpkQB-M)
+{% include youtube.html id="RjBIgpkQB-M" %}
+<br/><!--more-->
 
 
 ## Timestamps

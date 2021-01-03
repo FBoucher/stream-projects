@@ -20,7 +20,8 @@ In this live stream session, Frank is adding ToDo management to the chat bot amd
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/HHF6pcENo7I)
+{% include youtube.html id="HHF6pcENo7I" %}
+<br/><!--more-->
 
 
 ## Project

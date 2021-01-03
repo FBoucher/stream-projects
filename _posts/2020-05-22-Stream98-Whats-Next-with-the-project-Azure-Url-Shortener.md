@@ -19,7 +19,8 @@ In this live stream session, Frank is doing a return on Microsoft Build and add 
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/628519285)
-- [Youtube](https://youtu.be/3CNHQas8ffA)
+{% include youtube.html id="3CNHQas8ffA" %}
+<br/><!--more-->
 
 
 ## Timestamps

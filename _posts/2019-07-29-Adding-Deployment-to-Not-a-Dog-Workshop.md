@@ -17,7 +17,8 @@ In this session, Frank is creating an Azure Function and start an new ARM templa
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://youtu.be/kyf6GUrHpmc)
+{% include youtube.html id="kyf6GUrHpmc" %}
+<br/><!--more-->
 
 
 Segments

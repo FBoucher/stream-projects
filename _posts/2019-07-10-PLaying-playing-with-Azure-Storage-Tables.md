@@ -17,7 +17,8 @@ In this session, Frank is installing Azure Storage Explorer on a linux machine a
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/450796119)
-- [Youtube](https://youtu.be/J3P_vAVvpuw)
+{% include youtube.html id="J3P_vAVvpuw" %}
+<br/><!--more-->
 
 
 Segments

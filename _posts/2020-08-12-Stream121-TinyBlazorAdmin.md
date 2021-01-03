@@ -20,7 +20,8 @@ In this live stream session, Frank is writing the step by step documentation on 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-- [Youtube](https://youtu.be/UaUdFSXrbmA)
+{% include youtube.html id="UaUdFSXrbmA" %}
+<br/><!--more-->
 
 
 ## Timestamps

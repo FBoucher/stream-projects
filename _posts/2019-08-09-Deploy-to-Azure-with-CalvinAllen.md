@@ -17,7 +17,8 @@ In this session, Frank is merging a wonderful pull request (PR) from @smabUK on 
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/464789143)
-- [Youtube](https://youtu.be/trJ_qgkyzYg)
+{% include youtube.html id="trJ_qgkyzYg" %}
+<br/><!--more-->
 
 
 ## Timestamps

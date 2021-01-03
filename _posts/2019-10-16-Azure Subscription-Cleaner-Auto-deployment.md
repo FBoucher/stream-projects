@@ -17,7 +17,8 @@ In this session, Frank is "fighting" against an error in the deployment of AzSub
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/495501007)
-- [Youtube](https://youtu.be/VpfXLTaeJX4)
+{% include youtube.html id="VpfXLTaeJX4" %}
+<br/><!--more-->
 
 
 ## Timestamps
