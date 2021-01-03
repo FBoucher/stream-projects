@@ -10,9 +10,6 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ![Stream_Screenshots][Stream_Screenshots]
 
-
-[Stream_Screenshots]: /medias/Stream_Screenshots.png
-
 ## Projects
 
 ### [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
@@ -23,3 +20,48 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 
 ---
+
+### [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
+
+<img src="Streams\medias\Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+
+An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
+
+🔗 https://github.com/FBoucher/AzUrlShortener
+
+
+---
+
+### [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
+
+An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
+
+🔗 https://github.com/FBoucher/Azure-Automatic-Video-Converter
+
+
+---
+
+
+### [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
+
+<img src="https://github.com/FBoucher/ProjectDover/raw/master/medias/Text-Based-Game_800.png" alt="Blind2021 cover" width="400"/>
+
+Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
+
+🔗 https://github.com/FBoucher/ProjectDover
+
+
+---
+
+
+### [Use-R-Vote (aka outspoken)](https://github.com/FBoucher/use-r-vote)
+
+<img src="https://raw.githubusercontent.com/FBoucher/use-r-vote/master/medias/user-r-vote_800.png" alt="Blind2021 cover" width="400"/>
+
+An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
+
+🔗 https://github.com/FBoucher/use-r-vote
+
+
+
+[Stream_Screenshots]: /medias/Stream_Screenshots.png

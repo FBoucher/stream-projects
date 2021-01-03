@@ -12,11 +12,6 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ### Stream Notes
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
@@ -30,71 +25,58 @@ Stream notes and videos from the most recent to the older.
 | 137 | 2020-10-30 | [Learning TypeScript from scratch with Jason](https://www.youtube.com/watch?v=ZbuvdEoB88I) |
 | 136 | 2020-10-23 | [Working on project triavia with Jason Hand](https://www.youtube.com/watch?v=hlh69jo4gH0) |
 | 135 | 2020-10-21 | [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=oztwgQ2db08) |
-
-
----
-
-| 134| 2020-10-16 |  [Starting a new project a trivia game](https://www.youtube.com/watch?v=oAqaRsH2UFU)
-| 133| 2020-10-14 |  [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=cAJqJKiAFv4)
-| 132| 2020-10-09 |  [We need to make sure the chatbot doesn't lose information](https://www.youtube.com/watch?v=3KOJxXlmhFc)
-| 131| 2020-10-07 |  [Adding Clicks Statistics to TinyBlazorAdmin](https://www.youtube.com/watch?v=4OfwrUV1jmk)
-| 130| 2020-10-02 |  [Learning Node.js building a chatbot named CeeBee](https://www.youtube.com/watch?v=HHF6pcENo7I)
-| 129|   ...      |  ...
-| 128|   ...      |  ...
-| 127|   ...      |  ...
-| 126|   ...      |  ...
-| 125|   ...      |  ...
-| 124| 2020-08-21 |  [Learning Node.js for the first time: Building a chatbot](2020-08-21-Stream 124
--Cloudbot.md)
-| 123| 2020-08-19 |  [Stream 123
- Exploring .Net Blazor UI Control for TinyBlazorAdmin](2020-08-19-Stream 123
--TinyBlazorAdmin.md)
-| 122| 2020-08-14 |  [Learning Node.js for the first time: Building a chatbot](2020-08-14-Stream 122
--CloudBot.md)
-| 121|   ...      |  ...
-| 120|   ...      |  ...
-| 119|   ...      |  ...
-| 118|   ...      |  ...
-| 117|   ...      |  ...
-| 116|   ...      |  ...
-| 115|   ...      |  ...
-| 114|   ...      |  ...
-| 113|   ...      |  ...
-| 112|   ...      |  ...
-| 111|   ...      |  ...
-| 110|   ...      |  ...
-| 109|   ...      |  ...
-| 108|   ...      |  ...
-| 107|   ...      |  ...
-| 106|   ...      |  ...
-| 105|   ...      |  ...
-| 104|   ...      |  ...
-| 103|   ...      |  ...
-| 102|   ...      |  ...
-| 101|   ...      |  ...
-| 100| 2020-05-29 | [Updating all dependencies of AzUrlShortener. Are we ready for v0.5?](2020-05-29-Stream 100
--Updating-all-dependencies-of-AzUrlShortener-Are-we-ready-for-v0-5.md)
-| 99 | 2020-05-27 | [PR Review, and experimentation for new feature](2020-05-27-Stream 99
--AzUrlShortener-PR-Review.md)
-| 98 | 2020-05-22 | [What's Next with the project Azure Url Shortener](2020-05-22-Stream 98
--Whats-Next-with-the-project-Azure-Url-Shortener.md)
-| 97 | 2020-05-15 | [Working on the project Azure Url Shortener](2020-05-15-Stream%2097-Working-on-the-project-Azure-Url-Shortener.md)
-| 96 | 2020-05-13 | [Working on the project Azure Url Shortener GitHub, AzFunction, Blazor](2020-05-13-Stream-96-Working-on-the-project-Azure-Url-Shortener-GitHub-AzFunction-Blazor.md)
-| 95 | 2020-05-12 | [Unscheduled stream :) - Working on project Azure Url Shortener](2020-05-12-Stream 95
--Unscheduled-stream-Working-on-project-AzUrlShortener.md)
-| 94 | 2020-05-08 | [Adding Edit feature to the project Azure Url Shortener](2020-05-08-Stream 94
--Adding-Edit-feature-to-AzUrlShortener.md)
-| 93 | 2020-05-06 | [Working on the Azure Url Shortener](2020-05-06-Stream-93-Working-on-the-Azure-Url-Shortener.md)
-| 92 | 2020-04-29 | [AzUrlShortener-More Features](2020-04-29-Stream-92-AzUrlShortener-More-Features.md)
-| 91 | 2020-04-22 | [Automatic deployment of the selected frontend (1-click deployment) for Azure Url Shortener](2020-04-22-Stream-91-AzUrlShortener-1-click-to-deploy-everything.md)
-| 90 | 2020-04-17 | [AzUrlShortener - How it work documentation](2020-04-17-Stream-90-AzUrlShortener-1-click-to-deploy-everything.md)
-| 89 | 2020-04-15 | [Working on the Azure Url Shortener (AzUrlShortener) - Closing GitHub Issues](2020-04-15_Working-on-AzUrlShortener-Closing-GitHub-Issues.md)
-| 88 | 2020-04-11 | [Building an automatic video converter with AMS Azure Media Services](2020-04-11_Stream-88_Building-automatic-video-converterwith-Azure-Media-Services.md)
-| 87 | 2020-04-08 | [What stats should we add at our URL Shortener aka. AzUrlShortener](2020-04-08_Stream-87_Adding-Stats-to-AzUrlShortener.md)
-| 86 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md)
-| 85 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md)
-| 84 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md)
-| 83 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener](2020-03-27-Building-admin-webpage-AzUrlShortener.md)
+| 134 | 2020-10-16 |  [Starting a new project a trivia game](https://www.youtube.com/watch?v=oAqaRsH2UFU) |
+| 133 | 2020-10-14 |  [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=cAJqJKiAFv4) |
+| 132 | 2020-10-09 |  [We need to make sure the chatbot doesn't lose information](https://www.youtube.com/watch?v=3KOJxXlmhFc) |
+| 131 | 2020-10-07 |  [Adding Clicks Statistics to TinyBlazorAdmin](https://www.youtube.com/watch?v=4OfwrUV1jmk) |
+| 130 | 2020-10-02 |  [Learning Node.js building a chatbot named CeeBee](https://www.youtube.com/watch?v=HHF6pcENo7I) |
+| 129 |   ...      |  ... |
+| 128 |   ...      |  ... |
+| 127 |   ...      |  ... |
+| 126 |   ...      |  ... |
+| 125 |   ...      |  ... |
+| 124 | 2020-08-21 |  [Learning Node.js for the first time: Building a chatbot](2020-08-21-Stream 124 -Cloudbot.md) |
+| 123 | 2020-08-19 |  [Stream 123  Exploring .Net Blazor UI Control for TinyBlazorAdmin](2020-08-19-Stream 123 -TinyBlazorAdmin.md) |
+| 122 | 2020-08-14 |  [Learning Node.js for the first time: Building a chatbot](2020-08-14-Stream 122-CloudBot.md) |
+| 121 |   ...      |  ... |
+| 120 |   ...      |  ... |
+| 119 |   ...      |  ... |
+| 118 |   ...      |  ... |
+| 117 |   ...      |  ... |
+| 116 |   ...      |  ... |
+| 115 |   ...      |  ... |
+| 114 |   ...      |  ... |
+| 113 |   ...      |  ... |
+| 112 |   ...      |  ... |
+| 111 |   ...      |  ... |
+| 110 |   ...      |  ... |
+| 109 |   ...      |  ... |
+| 108 |   ...      |  ... |
+| 107 |   ...      |  ... |
+| 106 |   ...      |  ... |
+| 105 |   ...      |  ... |
+| 104 |   ...      |  ... |
+| 103 |   ...      |  ... |
+| 102 |   ...      |  ... |
+| 101 |   ...      |  ... |
+| 100 | 2020-05-29 | [Updating all dependencies of AzUrlShortener. Are we ready for v0.5?](2020-05-29-Stream 100-Updating-all-dependencies-of-AzUrlShortener-Are-we-ready-for-v0-5.md) |
+| 99 | 2020-05-27 | [PR Review, and experimentation for new feature](2020-05-27-Stream 99-AzUrlShortener-PR-Review.md) |
+| 98 | 2020-05-22 | [What's Next with the project Azure Url Shortener](2020-05-22-Stream 98-Whats-Next-with-the-project-Azure-Url-Shortener.md) |
+| 97 | 2020-05-15 | [Working on the project Azure Url Shortener](2020-05-15-Stream%2097-Working-on-the-project-Azure-Url-Shortener.md) |
+| 96 | 2020-05-13 | [Working on the project Azure Url Shortener GitHub, AzFunction, Blazor](2020-05-13-Stream-96-Working-on-the-project-Azure-Url-Shortener-GitHub-AzFunction-Blazor.md) |
+| 95 | 2020-05-12 | [Unscheduled stream :) - Working on project Azure Url Shortener](2020-05-12-Stream 95-Unscheduled-stream-Working-on-project-AzUrlShortener.md) |
+| 94 | 2020-05-08 | [Adding Edit feature to the project Azure Url Shortener](2020-05-08-Stream 94-Adding-Edit-feature-to-AzUrlShortener.md) |
+| 93 | 2020-05-06 | [Working on the Azure Url Shortener](2020-05-06-Stream-93-Working-on-the-Azure-Url-Shortener.md) |
+| 92 | 2020-04-29 | [AzUrlShortener-More Features](2020-04-29-Stream-92-AzUrlShortener-More-Features.md) |
+| 91 | 2020-04-22 | [Automatic deployment of the selected frontend (1-click deployment) for Azure Url Shortener](2020-04-22-Stream-91-AzUrlShortener-1-click-to-deploy-everything.md) |
+| 90 | 2020-04-17 | [AzUrlShortener - How it work documentation](2020-04-17-Stream-90-AzUrlShortener-1-click-to-deploy-everything.md) |
+| 89 | 2020-04-15 | [Working on the Azure Url Shortener (AzUrlShortener) - Closing GitHub Issues](2020-04-15_Working-on-AzUrlShortener-Closing-GitHub-Issues.md) |
+| 88 | 2020-04-11 | [Building an automatic video converter with AMS Azure Media Services](2020-04-11_Stream-88_Building-automatic-video-converterwith-Azure-Media-Services.md) |
+| 87 | 2020-04-08 | [What stats should we add at our URL Shortener aka. AzUrlShortener](2020-04-08_Stream-87_Adding-Stats-to-AzUrlShortener.md) |
+| 86 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md) |
+| 85 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md) |
+| 84 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md) |
+| 83 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener](2020-03-27-Building-admin-webpage-AzUrlShortener.md) |
 | 82 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 81 | 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 80 | 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
@@ -148,35 +130,35 @@ Stream notes and videos from the most recent to the older.
 | 32 | 2019-07-15 | [Let's Learn Blazor (.Net Core) on Linux](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-15-Lets-Learn-Blazor-dotNet-Core-on-Linux.md) |
 | 31 | 2019-07-10 | [Learning / playing with Azure Storage table and C#](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-10-PLaying-playing-with-Azure-Storage-Tables.md) |
 | 30 | 2019-07-08 | [Working on AzPics, does #blazor sounds like exiting?](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-08-Working-on-AzPics-does-blazor-sounds-like-exiting.md) |
-| 29 | 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
-| 28 | 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md)
-| 27 | 2019-06-28 | [Answering community questions, Azure Function and Coding projects](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md)
+| 29 | 2019-07-05 | [Adding Deploy to Azure button & ARM template to AzUnzipEverything](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-05-Adding-Deploy-to-Azure-button-&-ARM-template-to-AzUnzipEverything-Azure-Function-and-Blob-Storage.md) |
+| 28 | 2019-07-03 | [Working on AzUnzipEverything: Azure Function and Blob Storage](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-07-03-Working-on-AzUnzipEverything-Azure-Function-and-Blob-Storage.md) |
+| 27 | 2019-06-28 | [Answering community questions, Azure Function and Coding projects](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-28-Live-Coding-Azure-Function-and-other-projects.md) |
 | 26 | 2019-06-24 | [Starting a new project AzPics (serverless, AI)](https://github.com/FBoucher/stream-projects/blob/master/Streams/Streams/2019-06-24-Starting-a-new-project-serverless-AI.md) |
-| 25 | 2019-06-17 | [Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md)|
-| 24 | 2019-06-19 | [Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md)|
+| 25 | 2019-06-17 | [Let's implement a deploy to Azure button into a GitHub repo](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-17-Lets-implement-a-deploy-to-Azure-button-into-a-GitHub-repo.md) |
+| 24 | 2019-06-19 | [Live Coding Azure Deploy button & Asp.Net Core StartUp Task](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-19-Live-Coding-Azure-Deploy-button-and-Asp.Net-Core-StartUp-Task.md) |
 | 23 | 2019-06-12 | [Live Coding - Azure LogicApp for the ReadingNotes project](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-12-Live-Coding-Azure-LogicApp-for-the-ReadingNotes-project.md)|
-| 22 | 2019-06-10 | [Create Azure Logic App to Create ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-10-Create-Azure-Logic-App-to-Create-ReadingNotes-Summary.md)|
-| 21 | 2019-06-07 | [Create an Azure LogicApp to Generate a ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-07-Create%20an%20Azure%20LogicApp%20to%20write%20a%20ReadingNotes%20Summary.md)|
+| 22 | 2019-06-10 | [Create Azure Logic App to Create ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-10-Create-Azure-Logic-App-to-Create-ReadingNotes-Summary.md) |
+| 21 | 2019-06-07 | [Create an Azure LogicApp to Generate a ReadingNotes Summary](https://github.com/FBoucher/stream-projects/blob/master/Streams/2019-06-07-Create%20an%20Azure%20LogicApp%20to%20write%20a%20ReadingNotes%20Summary.md) |
 | 20 | 2019-06-03 | [Bringing the Unit test Results from the Container to Azure Pipeline](Streams/2019-06-03-Bringing%20the%20Unit%20test%20Results%20from%20the%20Container%20to%20Azure%20Pipeline.md)
-| 19 | 2019-05-27 | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md)|
-| 18 | 2019-05-24 | [Dockerize WebAPI and stuff Container from Azure Pipeline](Streams/2019-05-24-Dockerize%20WebAPI%20and%20stuff.md)|
+| 19 | 2019-05-27 | [Can We Execute the DotNet Tests inside a Docker Container from Azure Pipeline](Streams/2019-05-27-Can%20We%20Execute%20the%20DotNet%20Tests%20inside%20a%20Docker%20Container%20from%20Azure%20Pipeline.md) |
+| 18 | 2019-05-24 | [Dockerize WebAPI and stuff Container from Azure Pipeline](Streams/2019-05-24-Dockerize%20WebAPI%20and%20stuff.md) |
 | 17 | 2019-05-21 | [Working on Unit Test with Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 16 | 2019-05-17 | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) [<sup>2</sup>](#2)|
-| 15 | 2019-05-17 | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 14 | 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 13 | 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 12 | 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 11 | 2019-05-03 | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 10 | 2019-05-01 | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)| 
-| 09 | 2019-04-30 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 08 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)[<sup>1</sup>](#1)|
-| 07 | 2019-04-26 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 06 | 2019-04-24 | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 05 | 2019-04-22 | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 04 | 2019-04-19 | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 03 | 2019-04-17 | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 02 | 2019-04-08 | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1)|
-| 01 | 2019-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)[<sup>1</sup>](#1)|
+| 16 | 2019-05-17 | [Merging Arlvin's PR and adding the XUnit tests to the Azure Pipeline](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) [<sup>2</sup>](#2) |
+| 15 | 2019-05-17 | [Learning how to do XUnit tests with Arlvin Moyo](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 14 | 2019-05-15 | [Build CI for a .Net Core Web API ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 13 | 2019-05-10 | [Coding .Net Core Web API for ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 12 | 2019-05-03 | [Design Session ReadingNotes Summary Generator](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 11 | 2019-05-03 | [Working on Bookmarklet - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 10 | 2019-05-01 | [Working on Azure-Docker-LogicApps - ReadingNotes Project](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) | 
+| 09 | 2019-04-30 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 08 | 2019-04-28 | [Deploy an Azure Function V2 (to unzip automatically your files) with Visual Studio Code](https://youtu.be/t9PvXWEzU-o)[<sup>1</sup>](#1) |
+| 07 | 2019-04-26 | [Coding on the ARM template for ReadingNotes](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 06 | 2019-04-24 | [Learning Azure Cosmo DB with Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 05 | 2019-04-22 | [Learning Azure Cosmo DB ](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 04 | 2019-04-19 | [GitHub Stream Project Maintenace](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 03 | 2019-04-17 | [Working on an Azure Logic Apps](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 02 | 2019-04-08 | [Coding Azure Function (Wrapping Mercury services)](https://github.com/FBoucher/ReadingNotes#streams)[<sup>1</sup>](#1) |
+| 01 | 2019-03-28 | [How to extract (unzip) files automatically without code](https://youtu.be/liyiBUV7ICw)[<sup>1</sup>](#1) |
 
 <a class="anchor" id="1"><sup>1</sup></a> This stream was recorded before I start taking notes, only the video remains.
 
