@@ -12,3 +12,14 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 
 [Stream_Screenshots]: /medias/Stream_Screenshots.png
+
+## Projects
+
+### [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
+
+ Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
+
+ 🔗 https://github.com/FBoucher/TinyBlazorAdmin
+
+
+---
