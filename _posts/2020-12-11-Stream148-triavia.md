@@ -1,5 +1,9 @@
-
-# 2020-12-11 - Stream148 Learning Typescript + Nodejs + React by building a trivia game
+---
+layout: post
+title: "Stream 148 - Learning Typescript + Nodejs + React by building a trivia game"
+date: 2020-12-11
+categories: triavia Typescript nodejs react
+---
 
 Summary
 -------
@@ -11,6 +15,8 @@ Replay
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/i1QrEfdPiz8)
+
+{% youtube "https://www.youtube.com/watch?v=i1QrEfdPiz8" %}
 
 
 Timestamps

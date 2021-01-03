@@ -1,6 +1,9 @@
-
-# 2020-12-09 - Stream147 Trying GitHub new features and PRs + maintenance on project AzURLShortener 
-
+---
+layout: post
+title: "Stream 147 - Trying GitHub new features and PRs + maintenance on project AzURLShortener"
+date: 2020-12-09
+categories: AzURLShortener maintenance GitHub
+---
 
 Summary
 -------
