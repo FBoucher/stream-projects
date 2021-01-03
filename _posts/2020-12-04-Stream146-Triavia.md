@@ -2,7 +2,8 @@
 layout: post
 title: "Stream 146 - Learning how to create & publish our first Typescript + Nodejs + React  to Azure..."
 date: 2020-12-04
-categories: triavia Typescript nodejs react stream
+categories: triavia
+tags: [triavia,typescript,nodejs,react]
 ---
 
 ## Summary

@@ -23,7 +23,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ### [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
-<img src="Streams\medias\Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+<img src="medias/Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
 
 An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
 

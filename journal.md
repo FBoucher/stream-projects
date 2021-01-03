@@ -35,9 +35,9 @@ Stream notes and videos from the most recent to the older.
 | 127 |   ...      |  ... |
 | 126 |   ...      |  ... |
 | 125 |   ...      |  ... |
-| 124 | 2020-08-21 |  [Learning Node.js for the first time: Building a chatbot](2020-08-21-Stream 124 -Cloudbot.md) |
-| 123 | 2020-08-19 |  [Stream 123  Exploring .Net Blazor UI Control for TinyBlazorAdmin](2020-08-19-Stream 123 -TinyBlazorAdmin.md) |
-| 122 | 2020-08-14 |  [Learning Node.js for the first time: Building a chatbot](2020-08-14-Stream 122-CloudBot.md) |
+| 124 | 2020-08-21 |  [Learning Node.js for the first time: Building a chatbot](2020-08-21-Stream124-Cloudbot.md) |
+| 123 | 2020-08-19 |  [Stream 123  Exploring .Net Blazor UI Control for TinyBlazorAdmin](2020-08-19-Stream123-TinyBlazorAdmin.md) |
+| 122 | 2020-08-14 |  [Learning Node.js for the first time: Building a chatbot](2020-08-14-Stream122-CloudBot.md) |
 | 121 |   ...      |  ... |
 | 120 |   ...      |  ... |
 | 119 |   ...      |  ... |
@@ -59,13 +59,13 @@ Stream notes and videos from the most recent to the older.
 | 103 |   ...      |  ... |
 | 102 |   ...      |  ... |
 | 101 |   ...      |  ... |
-| 100 | 2020-05-29 | [Updating all dependencies of AzUrlShortener. Are we ready for v0.5?](2020-05-29-Stream 100-Updating-all-dependencies-of-AzUrlShortener-Are-we-ready-for-v0-5.md) |
-| 99 | 2020-05-27 | [PR Review, and experimentation for new feature](2020-05-27-Stream 99-AzUrlShortener-PR-Review.md) |
-| 98 | 2020-05-22 | [What's Next with the project Azure Url Shortener](2020-05-22-Stream 98-Whats-Next-with-the-project-Azure-Url-Shortener.md) |
+| 100 | 2020-05-29 | [Updating all dependencies of AzUrlShortener. Are we ready for v0.5?](2020-05-29-Stream100-Updating-all-dependencies-of-AzUrlShortener-Are-we-ready-for-v0-5.md) |
+| 99 | 2020-05-27 | [PR Review, and experimentation for new feature](2020-05-27-Stream99-AzUrlShortener-PR-Review.md) |
+| 98 | 2020-05-22 | [What's Next with the project Azure Url Shortener](2020-05-22-Stream98-Whats-Next-with-the-project-Azure-Url-Shortener.md) |
 | 97 | 2020-05-15 | [Working on the project Azure Url Shortener](2020-05-15-Stream%2097-Working-on-the-project-Azure-Url-Shortener.md) |
 | 96 | 2020-05-13 | [Working on the project Azure Url Shortener GitHub, AzFunction, Blazor](2020-05-13-Stream-96-Working-on-the-project-Azure-Url-Shortener-GitHub-AzFunction-Blazor.md) |
-| 95 | 2020-05-12 | [Unscheduled stream :) - Working on project Azure Url Shortener](2020-05-12-Stream 95-Unscheduled-stream-Working-on-project-AzUrlShortener.md) |
-| 94 | 2020-05-08 | [Adding Edit feature to the project Azure Url Shortener](2020-05-08-Stream 94-Adding-Edit-feature-to-AzUrlShortener.md) |
+| 95 | 2020-05-12 | [Unscheduled stream :) - Working on project Azure Url Shortener](2020-05-12-Stream95-Unscheduled-stream-Working-on-project-AzUrlShortener.md) |
+| 94 | 2020-05-08 | [Adding Edit feature to the project Azure Url Shortener](2020-05-08-Stream94-Adding-Edit-feature-to-AzUrlShortener.md) |
 | 93 | 2020-05-06 | [Working on the Azure Url Shortener](2020-05-06-Stream-93-Working-on-the-Azure-Url-Shortener.md) |
 | 92 | 2020-04-29 | [AzUrlShortener-More Features](2020-04-29-Stream-92-AzUrlShortener-More-Features.md) |
 | 91 | 2020-04-22 | [Automatic deployment of the selected frontend (1-click deployment) for Azure Url Shortener](2020-04-22-Stream-91-AzUrlShortener-1-click-to-deploy-everything.md) |
@@ -75,8 +75,8 @@ Stream notes and videos from the most recent to the older.
 | 87 | 2020-04-08 | [What stats should we add at our URL Shortener aka. AzUrlShortener](2020-04-08_Stream-87_Adding-Stats-to-AzUrlShortener.md) |
 | 86 | 2020-04-03 | [Adding auto-deployment and documentation for that admin website of AzUrlShortener](2020-04-03_Stream-86_%20Adding-auto-deployment-docs-for%20that-adminwebsite-AzUrlShortener.md) |
 | 85 | 2020-04-01 | [Let's Add a Create new ShortUrl to our admin interface AzUrlShortener](2020-04-01-Adding-a-Create-new-ShortUrl-to-our-admin-interface-AzUrlShortener.md) |
-| 84 | 2020-03-27 | [Adding more documentation about admin interfaces into GitHub for project repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md) |
-| 83 | 2020-03-25 | [Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener: AzUrlShortener](2020-03-27-Building-admin-webpage-AzUrlShortener.md) |
+| 84 | 2020-03-27 | [Adding more documentation repo azUrlShortener](2020-03-25-Building-admin-webpage-AzUrlShortener.md) |
+| 83 | 2020-03-25 | [Adding an Azure Function to  AzUrlShortener](2020-03-27-Building-admin-webpage-AzUrlShortener.md) |
 | 82 | 2020-03-20 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-20-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 81 | 2020-03-18 | [Building a budget Url-Shortener with Azure Serverless and .Net Blazor](2020-03-18-Building-budget-Url-Shortener-Azure-Serverless-and-blazor.md) |
 | 80 | 2020-03-13 | [Building a budget Url Shortener using Azure Serverless](2020-03-13-Building-budget-Url-Shortener-using-Azure-Serverless.md) |
