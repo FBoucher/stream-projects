@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream101 Lets create a new WebAssembly frontend for AzUrlShortener
+title: Stream 101 Lets create a new WebAssembly frontend for AzUrlShortener
 date: 2020-06-03
 categories: stream
 ---

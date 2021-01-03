@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream141 How to setup custom domain AzFunction
+title: Stream 141 How to setup custom domain AzFunction
 date: 2020-11-13
 categories: stream
 ---
 
 
-# 2020-11-13 - Stream141 How to setup custom domain on you Azure Function
+# 2020-11-13 - Stream 141 How to setup custom domain on you Azure Function
 
 ## Summary
 -

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream100 Updating all dependencies of AzUrlShortener Are we ready for v0 5
+title: Stream 100 Updating all dependencies of AzUrlShortener Are we ready for v0 5
 date: 2020-05-29
 categories: stream
 ---
 
 
-# 2020-05-29 - Stream100 Updating all dependencies of AzUrlShortener. Are we ready for v0.5?
+# 2020-05-29 - Stream 100 Updating all dependencies of AzUrlShortener. Are we ready for v0.5?
 
 ## Summary
 -

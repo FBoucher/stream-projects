@@ -1,5 +1,12 @@
+---
+layout: post
+title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
+date: 
+categories: triavia Typescript nodejs react
+---
 
-# 2020-11-01 - Stream146 Learning how to use a Blazor WebAssembly with Azure AD Token
+# 2020-11-01 - Stream 146
+ Learning how to use a Blazor WebAssembly with Azure AD Token
 
 ## Summary
 -

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream113 TinyBlazorAdmin
+title: Stream 113 TinyBlazorAdmin
 date: 2020-07-15
 categories: stream
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream105 Learning Blazor Building TinyAdmin website
+title: Stream 105 Learning Blazor Building TinyAdmin website
 date: 2020-06-17
 categories: stream
 ---
 
 
-# 2020-06-17 - Stream105 Learning Blazor WebAssemly- Building a TinyAdmin website
+# 2020-06-17 - Stream 105 Learning Blazor WebAssemly- Building a TinyAdmin website
 
 ## Summary
 -

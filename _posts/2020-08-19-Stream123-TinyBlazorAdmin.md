@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream123 TinyBlazorAdmin
+title: Stream 123 TinyBlazorAdmin
 date: 2020-08-19
 categories: stream
 ---
 
 
-# 2020-08-19 - Stream123 Exploring .Net Blazor UI Control (aka Grid & Charts) for TinyBlazorAdmin
+# 2020-08-19 - Stream 123 Exploring .Net Blazor UI Control (aka Grid & Charts) for TinyBlazorAdmin
 
 ## Summary
 -

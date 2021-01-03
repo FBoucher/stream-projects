@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream122 CloudBot
+title: Stream 122 CloudBot
 date: 2020-08-14
 categories: stream
 ---

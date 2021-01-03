@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream129 AzUrlShortener SWA
+title: Stream 129 AzUrlShortener SWA
 date: 2020-09-30
 categories: stream
 ---
 
 
-# 2020-09-30 - Stream129 Testing the new Azure Static Web App (SWA) with the AzUrlShortener
+# 2020-09-30 - Stream 129 Testing the new Azure Static Web App (SWA) with the AzUrlShortener
 
 ## Summary
 -

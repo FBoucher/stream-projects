@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream133 GitHub PRs projects maintenance
+title: Stream 133 GitHub PRs projects maintenance
 date: 2020-10-14
 categories: stream
 ---
 
 
-# 2020-10-14 - Stream133 GitHub PRs & projects maintenance
+# 2020-10-14 - Stream 133 GitHub PRs & projects maintenance
 
 ## Summary
 -

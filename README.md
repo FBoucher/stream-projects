@@ -18,7 +18,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 |    Date🔼   |  Title                                                       | 
 |------------|---------------------------------------------------------------|
-| 2020-08-19 |  [Stream123 Exploring .Net Blazor UI Control for TinyBlazorAdmin](Streams/2020-08-19-Stream123-TinyBlazorAdmin.md)
+| 2020-08-19 |  [Stream 123 Exploring .Net Blazor UI Control for TinyBlazorAdmin](Streams/2020-08-19-Stream 123-TinyBlazorAdmin.md)
 
 
 ---

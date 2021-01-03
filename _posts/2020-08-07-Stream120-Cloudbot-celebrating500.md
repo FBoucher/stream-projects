@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream120 Cloudbot celebrating500
+title: Stream 120 Cloudbot celebrating500
 date: 2020-08-07
 categories: stream
 ---
 
 
-# 2020-08-07 - Stream120 Celebrating 500 followers - And working on the Chat bot
+# 2020-08-07 - Stream 120 Celebrating 500 followers - And working on the Chat bot
 
 ## Summary
 -

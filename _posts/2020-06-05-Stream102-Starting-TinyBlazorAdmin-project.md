@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream102 Starting TinyBlazorAdmin project
+title: Stream 102 Starting TinyBlazorAdmin project
 date: 2020-06-05
 categories: stream
 ---

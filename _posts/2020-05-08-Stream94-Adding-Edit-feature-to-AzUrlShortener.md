@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream94 Adding Edit feature to AzUrlShortener
+title: Stream 94 Adding Edit feature to AzUrlShortener
 date: 2020-05-08
 categories: stream
 ---

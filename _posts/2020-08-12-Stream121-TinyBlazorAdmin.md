@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream121 TinyBlazorAdmin
+title: Stream 121 TinyBlazorAdmin
 date: 2020-08-12
 categories: stream
 ---
 
 
-# 2020-08-12 - Stream121 - Working on a auto deployment for Tiny Blazor Admin
+# 2020-08-12 - Stream 121 - Working on a auto deployment for Tiny Blazor Admin
 
 ## Summary
 -

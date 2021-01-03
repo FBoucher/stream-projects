@@ -1,37 +1,28 @@
 ---
 layout: post
-title: Stream 131 AddingClicks Statistics to TinyBlazorAdmin
-date: 2020-10-07
+title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
+date: 
 categories: stream
 ---
-
-
-# 2020-10-07 - Stream 131 Adding Clicks Statistics to TinyBlazorAdmin (Url Shortener website)
 
 ## Summary
 -
 
-In this live stream session, Frank add more information about the short Urls created by the App. For this he will create new classes to hold the data, and use SyncFusion Grid and Chart.
+In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.131
+📺 - Twitch archive - stream no.146
 
 ## Replay
 
+- Youtube(soon)
 
-- [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
-- [Youtube](https://youtu.be/4OfwrUV1jmk)
+<br/><!--more-->
 
 
 ## Timestamps
 
-
 00:00:00 Intro
 00:00:10 Bonjour, Hi!
-00:00:30 Chit-Chat
-00:22:48 Looking at the Grid
-01:15:10 Prep for the Click Stats barchart
-
 
 
 Project

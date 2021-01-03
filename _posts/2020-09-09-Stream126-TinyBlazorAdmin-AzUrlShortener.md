@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream126 TinyBlazorAdmin AzUrlShortener
+title: Stream 126 TinyBlazorAdmin AzUrlShortener
 date: 2020-09-09
 categories: stream
 ---
 
 
-# 2020-09-09 - Stream126 Let's work on the automatic deployment of AzUrlShortener with TinyBlazorAdmin
+# 2020-09-09 - Stream 126 Let's work on the automatic deployment of AzUrlShortener with TinyBlazorAdmin
 
 ## Summary
 -

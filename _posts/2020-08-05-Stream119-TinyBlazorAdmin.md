@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream119 TinyBlazorAdmin
+title: Stream 119 TinyBlazorAdmin
 date: 2020-08-05
 categories: stream
 ---
 
 
-# 2020-08-05 - Stream119 How easy can we make the deployment of TinyBlazorAdmin
+# 2020-08-05 - Stream 119 How easy can we make the deployment of TinyBlazorAdmin
 
 ## Summary
 -

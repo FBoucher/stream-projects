@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream104 No Idea what Im doing Building Twitch chatbot JavaScript
+title: Stream 104 No Idea what Im doing Building Twitch chatbot JavaScript
 date: 2020-06-12
 categories: stream
 ---
 
 
-# 2020-06-12 - Stream104-No idea what I'm doing - Building a Twitch chatbot in JavaScript 
+# 2020-06-12 - Stream 104-No idea what I'm doing - Building a Twitch chatbot in JavaScript 
 
 ## Summary
 -

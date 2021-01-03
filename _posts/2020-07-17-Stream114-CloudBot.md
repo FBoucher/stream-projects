@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream114 CloudBot
+title: Stream 114 CloudBot
 date: 2020-07-17
 categories: stream
 ---
 
 
-# 2020-07-17 - Stream114  Learning Node.js for the first time (C# dev)
+# 2020-07-17 - Stream 114  Learning Node.js for the first time (C# dev)
 
 ## Summary
 -

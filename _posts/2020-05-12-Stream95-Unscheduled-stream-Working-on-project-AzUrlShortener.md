@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream95 Unscheduled stream Working on project AzUrlShortener
+title: Stream 95 Unscheduled stream Working on project AzUrlShortener
 date: 2020-05-12
 categories: stream
 ---

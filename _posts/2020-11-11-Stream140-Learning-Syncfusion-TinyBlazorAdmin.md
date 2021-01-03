@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Stream140 Learning Syncfusion TinyBlazorAdmin
+title: Stream 140 Learning Syncfusion TinyBlazorAdmin
 date: 2020-11-11
 categories: stream
 ---
 
 
-# 2020-11-11 - Stream140 Learning Syncfusion Blazor UI component library project TinyBlazorAdmin
+# 2020-11-11 - Stream 140 Learning Syncfusion Blazor UI component library project TinyBlazorAdmin
 
 ## Summary
 -
