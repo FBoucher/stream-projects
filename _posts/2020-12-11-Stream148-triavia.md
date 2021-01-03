@@ -15,10 +15,6 @@ In this live stream session, Frank is joinned by Jason to continue to work on th
 {% include youtube.html id="i1QrEfdPiz8" %}
 <br/><!--more-->
 
-{% include youtube.html id="i1QrEfdPiz8" %}
-
-<!--more-->
-
 ## Timestamps
 
     00:00:00 Intro

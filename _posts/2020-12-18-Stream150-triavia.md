@@ -2,7 +2,6 @@
 layout: post
 title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
 date: 2020-12-18
-categories: triavia Typescript nodejs react
 ---
 
 

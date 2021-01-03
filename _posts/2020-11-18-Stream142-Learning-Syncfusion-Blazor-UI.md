@@ -52,24 +52,24 @@ All the code for this project is available on GitHub: TinyBlazorAdmin - https://
 
 ## Game Results
 
-[@smabuk](https://www.twitch.tv/smabuk): 0
-[@surlydev](https://www.twitch.tv/surlydev): 0
-[@aaron22822](https://www.twitch.tv/aaron22822): 0
-[@theunoriginaljerk](https://www.twitch.tv/theunoriginaljerk): 5.58
-[@therealsurlybot](https://www.twitch.tv/therealsurlybot): 5.78
-[@tbdgamer](https://www.twitch.tv/tbdgamer): 31.92
-[@mreyeros](https://www.twitch.tv/mreyeros): 39.99
-[@hyfss7vxwj](https://www.twitch.tv/hyfss7vxwj): 48.46
-[@mrxtremely](https://www.twitch.tv/mrxtremely): 51.67
-[@theclipographer](https://www.twitch.tv/theclipographer): 61.06
-[@jeffs_hat_stand](https://www.twitch.tv/jeffs_hat_stand): 66.19
-[@undefined_process](https://www.twitch.tv/undefined_process): 67.76
-[@talelearncode](https://www.twitch.tv/talelearncode): 71.00
-[@fredda_the_cat](https://www.twitch.tv/fredda_the_cat): 74.93
-[@helpfulstranger999](https://www.twitch.tv/helpfulstranger999): 82.43
-[@lurkydev](https://www.twitch.tv/lurkydev): 83.13
-[@fboucheros](https://www.twitch.tv/fboucheros): 87.57
-[@coppersbeard](https://www.twitch.tv/coppersbeard): 95.55
-[@marcusvoiceprogrammer](https://www.twitch.tv/marcusvoiceprogrammer): 95.61
-[@codebymistakes](https://www.twitch.tv/codebymistakes): 97.81
-[@groversaurus](https://www.twitch.tv/groversaurus): 98.41
+- [@smabuk](https://www.twitch.tv/smabuk): 0
+- [@surlydev](https://www.twitch.tv/surlydev): 0
+- [@aaron22822](https://www.twitch.tv/aaron22822): 0
+- [@theunoriginaljerk](https://www.twitch.tv/theunoriginaljerk): 5.58
+- [@therealsurlybot](https://www.twitch.tv/therealsurlybot): 5.78
+- [@tbdgamer](https://www.twitch.tv/tbdgamer): 31.92
+- [@mreyeros](https://www.twitch.tv/mreyeros): 39.99
+- [@hyfss7vxwj](https://www.twitch.tv/hyfss7vxwj): 48.46
+- [@mrxtremely](https://www.twitch.tv/mrxtremely): 51.67
+- [@theclipographer](https://www.twitch.tv/theclipographer): 61.06
+- [@jeffs_hat_stand](https://www.twitch.tv/jeffs_hat_stand): 66.19
+- [@undefined_process](https://www.twitch.tv/undefined_process): 67.76
+- [@talelearncode](https://www.twitch.tv/talelearncode): 71.00
+- [@fredda_the_cat](https://www.twitch.tv/fredda_the_cat): 74.93
+- [@helpfulstranger999](https://www.twitch.tv/helpfulstranger999): 82.43
+- [@lurkydev](https://www.twitch.tv/lurkydev): 83.13
+- [@fboucheros](https://www.twitch.tv/fboucheros): 87.57
+- [@coppersbeard](https://www.twitch.tv/coppersbeard): 95.55
+- [@marcusvoiceprogrammer](https://www.twitch.tv/marcusvoiceprogrammer): 95.61
+- [@codebymistakes](https://www.twitch.tv/codebymistakes): 97.81
+- [@groversaurus](https://www.twitch.tv/groversaurus): 98.41
