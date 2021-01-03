@@ -8,4 +8,5 @@ github_username:  fboucher
 
 excerpt_separator: <!--more-->
 
-
+plugins: jekyll-paginate
+paginate: 5
