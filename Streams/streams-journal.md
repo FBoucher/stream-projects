@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Journal"
+permalink: /journal/
+---
+
 # Stream Projects
 
 This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros).
