@@ -5,25 +5,23 @@ date: 2020-11-27
 categories: chatbot container stream
 ---
 
-Summary
--------
+## Summary
 
 In this live stream session, Frank is containerizing the chatbot used during the livestream on Twitch. It's a Node.js application and the code is in GitHub. We need to have a way to pass a configuration file when we create an instance and a way to get back the stream notes.
 
 📺 - Twitch archive - stream no.145
 
-Replay
-------
+## Replay
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/HBruR9lx4T0)
 
 {% include youtube.html id="HBruR9lx4T0" %}
 
-<!--more-->
+<br/><!--more-->
 
-Timestamps
---------
+## Timestamps
+
     00:00:00 Intro
     00:00:10 Bonjour, Hi!
     00:04:09 Working to upload container to Docker Hub

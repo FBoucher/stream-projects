@@ -11,8 +11,7 @@ In this live stream session, Frank is
 
 📺 - Twitch archive - stream no.146
 
-Replay
-------
+## Replay
 
 {% include youtube.html id="BYZXvlOgT2g" %}
 
