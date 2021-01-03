@@ -20,7 +20,7 @@ In this live stream session, Frank is adding an Azure Key Vault do keep the secr
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Summary](https://youtu.be/ZjnmPOH5404)
-{% include youtube.html id="tbuFZZCxO-Y" %}
+{% include youtube.html id="tbuFZZCxO-Y" %}
 <br/><!--more-->
 
 

@@ -17,7 +17,7 @@ In this session, Frank is investigating a bug in an PowerShell Azure Function re
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/474402852)
-{% include youtube.html id="KsEq16hAEV0" %}
+{% include youtube.html id="KsEq16hAEV0" %}
 <br/><!--more-->
 
 

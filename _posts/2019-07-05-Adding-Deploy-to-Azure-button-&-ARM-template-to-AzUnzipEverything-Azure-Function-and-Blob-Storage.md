@@ -6,8 +6,6 @@ categories: stream
 ---
 
 
-# 2019-07-05 - Adding Deploy to Azure button & ARM template to AzUnzipEverything (Azure Function and Blob Storage)
-
 ## Summary
 -
 
@@ -17,7 +15,9 @@ In this session, Frank is create from A to Z an Azure Resource Manager (ARM) tem
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/448585633)
-{% include youtube.html id="MpVYY_s7Pkc" %}
+
+{% include youtube.html id="MpVYY_s7Pkc" %}
+
 <br/><!--more-->
 
 

@@ -20,7 +20,7 @@ In this live stream session, Frank is bringing all the code created in the previ
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/xArPcMSwKOQ)
-{% include youtube.html id="u7Ogmy1hXkk" %}
+{% include youtube.html id="u7Ogmy1hXkk" %}
 <br/><!--more-->
 
 

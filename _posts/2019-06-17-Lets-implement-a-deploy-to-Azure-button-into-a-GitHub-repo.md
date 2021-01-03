@@ -6,9 +6,6 @@ categories: stream
 ---
 
 
-# 2019-06-17 - Let's implement a deploy to Azure button into a GitHub repo
-
-
 ## Summary
 -
 

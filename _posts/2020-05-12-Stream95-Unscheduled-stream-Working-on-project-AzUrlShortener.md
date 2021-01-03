@@ -19,7 +19,7 @@ In this live stream session, Frank is working on the Azure Url SHortener Admin w
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/618952844)
-{% include youtube.html id="y6OlkiTOPvg" %}
+{% include youtube.html id="y6OlkiTOPvg" %}
 <br/><!--more-->
 
 

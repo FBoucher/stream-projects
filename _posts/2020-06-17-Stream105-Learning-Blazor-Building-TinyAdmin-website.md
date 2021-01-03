@@ -20,7 +20,7 @@ In this live stream session, Frank is creating a sample Blazor Web Assembly (was
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/6I8tc-OObLY)
-{% include youtube.html id="uc2jlWnp-Yg" %}
+{% include youtube.html id="uc2jlWnp-Yg" %}
 <br/><!--more-->
 - [c5m.ca/stream-ep105](https://c5m.ca/stream-ep105)
 

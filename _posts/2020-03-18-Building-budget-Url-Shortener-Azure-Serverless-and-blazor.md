@@ -17,7 +17,7 @@ In this live stream session, Frank is demoing and explaining how the new AzUrlSh
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/569685259)
-{% include youtube.html id="U89WfEisEAc" %}
+{% include youtube.html id="U89WfEisEAc" %}
 <br/><!--more-->
 
 

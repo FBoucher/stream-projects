@@ -6,8 +6,6 @@ categories: stream
 ---
 
 
-# 2019-06-24 - Starting a new project AzPics (serverless, AI)
-
 ## Summary
 -
 

@@ -20,7 +20,7 @@ In this live stream session, Frank is starting a brand new project: CloudBot. Th
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/6I8tc-OObLY)
-{% include youtube.html id="lxq48ZlG1hM" %}
+{% include youtube.html id="lxq48ZlG1hM" %}
 <br/><!--more-->
 - [c5m.ca/stream-ep106](https://c5m.ca/stream-ep106)
 

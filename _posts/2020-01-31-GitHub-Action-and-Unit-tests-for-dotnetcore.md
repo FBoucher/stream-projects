@@ -17,7 +17,7 @@ In this live stream session, Frank is creating a continuous integration workflow
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/544608382)
-{% include youtube.html id="_vwGDBNYHyw" %}
+{% include youtube.html id="_vwGDBNYHyw" %}
 <br/><!--more-->
 
 

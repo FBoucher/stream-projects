@@ -5,9 +5,6 @@ date: 2019-06-19
 categories: stream
 ---
 
-
-# 2019-06-19 - Live Coding Azure Deploy button & Asp.Net Core StartUp Task
-
 ## Summary
 -
 

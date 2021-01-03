@@ -20,7 +20,7 @@ In this live stream session, Frank is containerizing the chatbot used during the
 
 - [Twitch](https://www.twitch.tv/fboucheros)
 ⚡ Summary video:
-{% include youtube.html id="Dn2jYJ2vZ6E" %}
+{% include youtube.html id="Dn2jYJ2vZ6E" %}
 <br/><!--more-->
 
 

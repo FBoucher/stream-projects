@@ -20,7 +20,7 @@ In this live stream session, Frank is working on the CloudBot project. He will b
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="Fr_jlDPdt-8" %}
+{% include youtube.html id="Fr_jlDPdt-8" %}
 <br/><!--more-->
 
 

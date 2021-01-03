@@ -20,7 +20,7 @@ In this live stream session, Frank is working on the documentation for the manua
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="BJrHY78j1aQ" %}
+{% include youtube.html id="BJrHY78j1aQ" %}
 <br/><!--more-->
 
 

@@ -20,7 +20,7 @@ In this live stream session, Frank is working on the Twitch chatbot. The focus w
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="SM8auI0JopM" %}
+{% include youtube.html id="SM8auI0JopM" %}
 <br/><!--more-->
 
 ## Project

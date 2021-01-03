@@ -20,7 +20,7 @@ In this live stream session, Frank is celebrating his 500 Twitch followers and w
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="X8J4lVSCELU" %}
+{% include youtube.html id="X8J4lVSCELU" %}
 <br/><!--more-->
 
 

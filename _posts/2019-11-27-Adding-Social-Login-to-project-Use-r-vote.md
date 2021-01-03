@@ -17,7 +17,7 @@ In this life session, Frank is trying to add social login to the project Use-R-v
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/514099577)
-{% include youtube.html id="NlGlVJbnpgQ" %}
+{% include youtube.html id="NlGlVJbnpgQ" %}
 <br/><!--more-->
 
 

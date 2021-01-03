@@ -17,7 +17,7 @@ In this session, Frank is restructuring the GitHub project to have two solutions
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/476052694)
-{% include youtube.html id="wwxEy0MzT10" %}
+{% include youtube.html id="wwxEy0MzT10" %}
 <br/><!--more-->
 
 

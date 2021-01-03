@@ -17,7 +17,7 @@ In this session, Frank is doing a recap of the two weeks offline and learning ho
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-{% include youtube.html id="_yXeVo1LKJ8" %}
+{% include youtube.html id="_yXeVo1LKJ8" %}
 <br/><!--more-->
 
 

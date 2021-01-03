@@ -20,7 +20,7 @@ In this live stream session, Frank is doing some GitHub maintenance, sorting iss
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="TQkmBHsLZZY" %}
+{% include youtube.html id="TQkmBHsLZZY" %}
 <br/><!--more-->
 
 

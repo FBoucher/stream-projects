@@ -19,7 +19,7 @@ In this live stream session, Frank is adding a diagram to the doc, and improving
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-{% include youtube.html id="viqAXcWK7Oo" %}
+{% include youtube.html id="viqAXcWK7Oo" %}
 <br/><!--more-->
 
 

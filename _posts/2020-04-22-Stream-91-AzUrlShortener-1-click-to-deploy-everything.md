@@ -19,7 +19,7 @@ In this live stream session, Frank is working on the Azure Url Shortener (AzUrlS
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/599257462)
-{% include youtube.html id="2dNqXxtYMpA" %}
+{% include youtube.html id="2dNqXxtYMpA" %}
 <br/><!--more-->
 
 

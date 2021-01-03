@@ -19,7 +19,7 @@ In this live stream session, Frank is joinned by Jason to contibue the work on t
 
 
 - [Twitch](https://www.twitch.tv/fboucheros)
-{% include youtube.html id="hlh69jo4gH0" %}
+{% include youtube.html id="hlh69jo4gH0" %}
 <br/><!--more-->
 
 

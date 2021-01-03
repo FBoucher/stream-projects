@@ -20,7 +20,7 @@ In this live stream session, Frank is fixing the modal windows and testing all t
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="bDMmy4yi6lo" %}
+{% include youtube.html id="bDMmy4yi6lo" %}
 <br/><!--more-->
 
 

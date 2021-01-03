@@ -20,7 +20,7 @@ In this live stream session, Frank is fixing the issue CB#11 when the Cloudbot d
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/xArPcMSwKOQ)
-{% include youtube.html id="NqM1stcFbzM" %}
+{% include youtube.html id="NqM1stcFbzM" %}
 <br/><!--more-->
 
 

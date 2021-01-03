@@ -16,7 +16,7 @@ In this session, Frank is finishing the new button to deploy to Azure the result
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/463091948)
-{% include youtube.html id="1greOS9AHB8" %}
+{% include youtube.html id="1greOS9AHB8" %}
 <br/><!--more-->
 
 

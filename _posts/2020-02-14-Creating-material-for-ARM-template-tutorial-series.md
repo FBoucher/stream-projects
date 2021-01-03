@@ -18,7 +18,7 @@ In this live stream session, Frank is working on some material that will be used
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/551810399)
-{% include youtube.html id="kYQaSCQVlos" %}
+{% include youtube.html id="kYQaSCQVlos" %}
 <br/><!--more-->
 
 

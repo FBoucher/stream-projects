@@ -17,7 +17,7 @@ In this session, Frank is reviewing/ practicing the Not-a-Dog Workshop and showi
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/497809804)
-{% include youtube.html id="Pxx03HojiN0" %}
+{% include youtube.html id="Pxx03HojiN0" %}
 <br/><!--more-->
 
 

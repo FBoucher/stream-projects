@@ -16,7 +16,7 @@ In this session, Frank is creating an Azure Logic App (that will be called by a 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/437981732)
 
-{% include youtube.html id="dL7xDly1__o" %}
+{% include youtube.html id="dL7xDly1__o" %}
 
 <br/><!--more-->
 

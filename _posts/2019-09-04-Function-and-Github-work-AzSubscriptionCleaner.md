@@ -17,7 +17,7 @@ In this session, Frank is fixing the last error in the Azure Subscription Cleane
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/476831551)
-{% include youtube.html id="Tu0GX8Ps4to" %}
+{% include youtube.html id="Tu0GX8Ps4to" %}
 <br/><!--more-->
 
 

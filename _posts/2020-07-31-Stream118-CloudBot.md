@@ -20,7 +20,7 @@ In this live stream session, Frank is learning how to play mp3 in JavaScript, so
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="0uwnS8UaUeg" %}
+{% include youtube.html id="0uwnS8UaUeg" %}
 <br/><!--more-->
 
 

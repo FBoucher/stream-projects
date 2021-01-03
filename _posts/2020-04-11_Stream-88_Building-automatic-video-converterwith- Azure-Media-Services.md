@@ -21,7 +21,7 @@ He will migrate the code in GitHub and start ease the deployment of the solution
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/589338160)
-{% include youtube.html id="Q3ix5IuvPXE" %}
+{% include youtube.html id="Q3ix5IuvPXE" %}
 <br/><!--more-->
 
 

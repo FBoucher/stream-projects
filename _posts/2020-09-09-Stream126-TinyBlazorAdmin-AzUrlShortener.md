@@ -20,7 +20,7 @@ In this live stream session, Frank is trying to deploy an Azure function (C#) an
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="3_QuIIzOAoY" %}
+{% include youtube.html id="3_QuIIzOAoY" %}
 <br/><!--more-->
 
 

@@ -17,7 +17,7 @@ In this session, Frank is fixing some bug into the Azure Function for AzSubscrip
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/471174539)
-{% include youtube.html id="JlF8e-gvI8A" %}
+{% include youtube.html id="JlF8e-gvI8A" %}
 <br/><!--more-->
 
 

@@ -20,7 +20,7 @@ In this live stream session, Frank is bringing all the functionalities of the pr
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ Summary video:
-{% include youtube.html id="IFLPz4sh650" %}
+{% include youtube.html id="IFLPz4sh650" %}
 <br/><!--more-->
 
 

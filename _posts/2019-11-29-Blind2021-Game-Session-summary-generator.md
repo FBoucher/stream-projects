@@ -17,7 +17,7 @@ In this life session from Twitch, Frank is adding a new class GameSession that w
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/514771982)
-{% include youtube.html id="vkOFEEJQ2uQ" %}
+{% include youtube.html id="vkOFEEJQ2uQ" %}
 <br/><!--more-->
 
 

@@ -17,7 +17,7 @@ In this session, Frank is starting a new .Net Core community project. This proje
 
 
 - [Twitch (for 60 days)](https://www.twitch.tv/videos/501742008)
-{% include youtube.html id="C7GZpPY3WFk" %}
+{% include youtube.html id="C7GZpPY3WFk" %}
 <br/><!--more-->
 
 

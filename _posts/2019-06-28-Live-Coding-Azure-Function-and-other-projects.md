@@ -6,8 +6,6 @@ categories: stream
 ---
 
 
-# 2019-06-28 - Answering community questions, Azure Function and Coding projects
-
 2019-06-28-Live-Coding-Azure-Function-and-other-projects
 
 ## Summary
