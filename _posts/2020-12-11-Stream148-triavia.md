@@ -16,7 +16,7 @@ Replay
 - [Twitch](https://www.twitch.tv/fboucheros)
 - [Youtube](https://youtu.be/i1QrEfdPiz8)
 
-{% youtube "https://www.youtube.com/watch?v=i1QrEfdPiz8" %}
+{% include youtube.html id=i1QrEfdPiz8 %}
 
 
 Timestamps
