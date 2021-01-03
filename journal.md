@@ -20,16 +20,16 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 Stream notes and videos from the most recent to the older.
 
 | # |    Date🔼   |  Title                                                       | 
-|----|------------|---------------------------------------------------------------|
-| 143| 2020-11-20 |  []()
-| 142| 2020-11-18 |  []()
-| 141| 2020-11-13 |  [How to setup custom domain on you Azure Function](https://www.youtube.com/watch?v=4MMd5F3BjAY)
-| 140| 2020-11-11 |  [Learning Syncfusion Blazor UI component library project TinyBlazorAdmin](https://www.youtube.com/watch?v=-yUFifbA9Lc)
-| 139| 2020-11-06 |  [Learning TypeScript from scratch with Jason and working on our game](https://www.youtube.com/watch?v=GXZ7gB15V6w)
-| 138| 2020-11-04 |  [Working on AzUrlShortener and TinyBlazorAdmin it's time to go version 2 0](https://www.youtube.com/watch?v=R2h7nacg6SU)
-| 137| 2020-10-30 |  [Learning TypeScript from scratch with Jason](https://www.youtube.com/watch?v=ZbuvdEoB88I)
-| 136| 2020-10-23 |  [Working on project triavia with Jason Hand](https://www.youtube.com/watch?v=hlh69jo4gH0)
-| 135| 2020-10-21 |  [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=oztwgQ2db08)
+| -- | ---------- | ------------------------------------------------------------- |
+| 143| 2020-11-20 |  []() |
+| 142| 2020-11-18 |  []() |
+| 141| 2020-11-13 |  [How to setup custom domain on you Azure Function](https://www.youtube.com/watch?v=4MMd5F3BjAY)  |
+| 140| 2020-11-11 |  [Learning Syncfusion Blazor UI component library project TinyBlazorAdmin](https://www.youtube.com/watch?v=-yUFifbA9Lc) |
+| 139| 2020-11-06 |  [Learning TypeScript from scratch with Jason and working on our game](https://www.youtube.com/watch?v=GXZ7gB15V6w) |
+| 138| 2020-11-04 |  [Working on AzUrlShortener and TinyBlazorAdmin it's time to go version 2 0](https://www.youtube.com/watch?v=R2h7nacg6SU) |
+| 137| 2020-10-30 |  [Learning TypeScript from scratch with Jason](https://www.youtube.com/watch?v=ZbuvdEoB88I) |
+| 136| 2020-10-23 |  [Working on project triavia with Jason Hand](https://www.youtube.com/watch?v=hlh69jo4gH0) |
+| 135| 2020-10-21 |  [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=oztwgQ2db08) |
 | 134| 2020-10-16 |  [Starting a new project a trivia game](https://www.youtube.com/watch?v=oAqaRsH2UFU)
 | 133| 2020-10-14 |  [GitHub PRs and projects maintenance](https://www.youtube.com/watch?v=cAJqJKiAFv4)
 | 132| 2020-10-09 |  [We need to make sure the chatbot doesn't lose information](https://www.youtube.com/watch?v=3KOJxXlmhFc)
