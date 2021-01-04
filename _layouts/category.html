@@ -12,7 +12,7 @@ layout: default
         {% if site.date_format %}
             {{ post.date | date: site.date_format }}
         {% else %}
-            {{ post.date | date: "%b %-d, %Y" }}
+            {{ post.date | date: "%F" }}
         {% endif %}
         </p>
           <a href="{{ post.url | relative_url }}" class="post-link">

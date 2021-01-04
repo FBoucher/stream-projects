@@ -51,7 +51,7 @@ A trivia game to play with the viewers while streaming.
 </thead>
     {% for post in site.categories["triavia"] %}
     <tr>
-        <td> {{ post.date | date: site.date_format }} </td>
+        <td> {{ post.date | date: "%F" }} </td>
         <td> 
             <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
         </td>
