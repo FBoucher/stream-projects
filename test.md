@@ -4,19 +4,16 @@ title: Test
 permalink: /test/
 ---
 
-{% for post in site.posts  %}
-    {% capture this_category %}{{ post.categories | stream }}{% endcapture %}
+<div class="sidebar" id="sidebar">
+  <nav class="sidebar-nav">
+   <h3 class="category-topic">Topics/</h3>
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
+     {% assign cat4url = category[0] | remove:' ' | downcase %}
+     <a class="sidebar-nav-item" href="{{site.baseurl}}/category/{{cat4url}}">
+        {{category[0]}}
+     </a>
+    {% endfor %}
+  </nav>
 
-    {% if forloop.first %}
-<h2 id="{{ this_category }}-ref">{{this_category}}</h2>
-<ul>
-    {% endif %}
-
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-
-    {% if forloop.last %}
-</ul>
-    {% else %}
-       
-    {% endif %}
-{% endfor %}
+</div>
