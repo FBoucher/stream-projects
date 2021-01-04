@@ -45,13 +45,13 @@ A trivia game to play with the viewers while streaming.
 <table>
 <thead>
   <tr>
-    <th>Date</th>\
+    <th>Date</th>
     <th>Title</th>
   </tr>
 </thead>
     {% for post in site.categories["triavia"] %}
     <tr>
-        <td> {{ post.date }} </td>
+        <td> {{ post.date | date: site.date_format }} </td>
         <td> 
             <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
         </td>
