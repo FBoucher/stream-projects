@@ -13,6 +13,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ## Projects
 
+
 ### [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
 
  Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
@@ -24,11 +25,42 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ### [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
-<img src="medias/Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
 
 An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
 
 🔗 https://github.com/FBoucher/AzUrlShortener
+
+
+---
+
+
+### [Triavia the Trivia game](https://github.com/FBoucher/triavia)
+
+A trivia game to play with the viewers while streaming.
+
+🔗 https://github.com/FBoucher/triavia
+
+
+<div class="posts">
+    {% for post in site.categories[triavia] %}
+    <div class="post py3">
+        <p class="post-meta">
+    {% if site.date_format %}
+        {{ post.date | date: site.date_format }}
+    {% else %}
+        {{ post.date | date: "%b %-d, %Y" }}
+    {% endif %}
+    </p>
+        <a href="{{ post.url | relative_url }}" class="post-link">
+        <h3 class="h1 post-title">
+            {{ post.title }}
+        </h3>
+        </a>
+    </div>
+    {% endfor %}
+</div>
+
 
 
 ---
