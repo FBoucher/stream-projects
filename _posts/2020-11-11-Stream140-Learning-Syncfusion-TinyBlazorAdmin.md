@@ -2,14 +2,13 @@
 layout: post
 title: Stream 140 Learning Syncfusion TinyBlazorAdmin
 date: 2020-11-11
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
 # 2020-11-11 - Stream 140 Learning Syncfusion Blazor UI component library project TinyBlazorAdmin
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

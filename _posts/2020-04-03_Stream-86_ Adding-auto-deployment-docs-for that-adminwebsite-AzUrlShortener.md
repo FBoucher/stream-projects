@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-03 - Adding auto-deployment and documentation for that admin website of AzUrlShortener ☁ 
 
 ## Summary
--
 
 In this live stream session, Frank is improving the documentation on GitHub page for the Azure Url Shortener (AzUrlShortener) to make it easier to use and install. Also creating documentation about the new admin interface created in the past stream.
 

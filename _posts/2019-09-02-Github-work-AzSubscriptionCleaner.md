@@ -9,7 +9,6 @@ categories: stream
 # 2019-09-02 - GitHub management for AzSubscription Cleaner
 
 ## Summary
--
 
 In this session, Frank is restructuring the GitHub project to have two solutions. One using Azure Automation, and the other one using Azure Function. @Lanwalker2 join mid-stream and suggested to do some test/ to understand with the Function is throwing errors. An chill and relax stream.
 

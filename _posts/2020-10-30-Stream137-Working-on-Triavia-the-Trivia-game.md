@@ -2,14 +2,13 @@
 layout: post
 title: Stream 137 Working on Triavia the Trivia game
 date: 2020-10-30
-categories: stream
+categories: triavia
 ---
 
 
 # 2020-10-30 - Stream 137 Working on Triavia the Trivia game
 
 ## Summary
--
 
 In this live stream session, Jason and Frank decided to use TypeScript as the language for the project Triavia. And because both of them didn't know how to code in TypeScript, it became the goal of the day. Join them in this learning exercise...
 

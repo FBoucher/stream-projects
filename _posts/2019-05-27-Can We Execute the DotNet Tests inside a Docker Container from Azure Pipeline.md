@@ -6,7 +6,6 @@ categories: stream
 ---
 
 ## Summary
--
 
 In this session, Frank is finishing the "Dockerization" of the Web API [MyClippings-Parser(https://github.com/FBoucher/MyClippings-Parser). 
 

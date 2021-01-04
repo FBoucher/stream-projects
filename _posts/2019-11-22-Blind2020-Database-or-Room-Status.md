@@ -9,7 +9,6 @@ categories: stream
 # 2019-11-22 - Blind2021 adding Room Status and more
 
 ## Summary
--
 
 In this session, Frank is working on Blind2021, a text-based adventure game written in .Net Core. There two tasks today. 
 

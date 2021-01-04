@@ -2,14 +2,13 @@
 layout: post
 title: Stream 132 chatbot
 date: 2020-10-09
-categories: stream
+categories: cloudbot
 ---
 
 
 # 2020-10-09 - Stream 132 We need to make sure the chatbot doesn't lose information!
 
 ## Summary
--
 
 In this live stream session, Frank is adding a recurring save to file to the chatbot, to avoid losing the stream notes. In the same type of idea a collection of Reminders are added to the stream.
 

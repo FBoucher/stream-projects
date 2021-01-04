@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 130 Learning Nodejs CloudBot
+title: Stream 130 - earning Node.js building a chatbot named CeeBee
 date: 2020-10-02
-categories: stream
+categories: cloudbot
 ---
 
-
-# 2020-10-02 - Stream 130 Learning Node.js building a chatbot named CeeBee
-
 ## Summary
--
 
 In this live stream session, Frank is adding ToDo management to the chat bot amd also display them in the screen.
 

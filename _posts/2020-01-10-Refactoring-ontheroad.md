@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-10 - Refactoring and Adding unit tests to Blind 2021 (on the road)
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

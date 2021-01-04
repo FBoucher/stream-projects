@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 121 TinyBlazorAdmin
+title: Stream 121 - Working on a auto deployment for Tiny Blazor Admin
 date: 2020-08-12
-categories: stream
+categories: tinyblazoradmin
 ---
 
-
-# 2020-08-12 - Stream 121 - Working on a auto deployment for Tiny Blazor Admin
-
 ## Summary
--
 
 In this live stream session, Frank is writing the step by step documentation on how to deploy the Tiny Blazor Admin website. Focusing on creating the AAD components for the Azure Function. 
 
@@ -17,25 +13,21 @@ In this live stream session, Frank is writing the step by step documentation on 
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="UaUdFSXrbmA" %}
 <br/><!--more-->
 
 
 ## Timestamps
 
-
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:00:24 Plan of the day
-00:05:40 Fixing Drop game
-00:00:10 Documenting step by step how to create the AAD components
-00:38:10 VS Code has separate windows color?!
-00:42:29 More docs - Create App for AzFunction
-01:47:48 Committing the code
-01:49:15 Wrapping up 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:00:24 Plan of the day
+    00:05:40 Fixing Drop game
+    00:00:10 Documenting step by step how to create the AAD components
+    00:38:10 VS Code has separate windows color?!
+    00:42:29 More docs - Create App for AzFunction
+    01:47:48 Committing the code
+    01:49:15 Wrapping up 
 
 
 Project

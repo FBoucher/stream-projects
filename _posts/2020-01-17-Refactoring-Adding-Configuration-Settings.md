@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-17 - Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

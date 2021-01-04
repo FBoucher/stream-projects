@@ -9,7 +9,6 @@ categories: stream
 # 2020-05-22 - Stream 98 - What's Next with the project Azure Url Shortener [cloud computing, serverless, C#] 
 
 ## Summary
--
 
 In this live stream session, Frank is doing a return on Microsoft Build and add documentation for issue AZURL#50: Add documentation to show how to update/ upgrade. And add more information about the password requirement as requested in AZURL#66: Invalid Login.
 

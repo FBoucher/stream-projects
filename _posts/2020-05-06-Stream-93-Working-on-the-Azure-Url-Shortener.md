@@ -9,7 +9,6 @@ categories: stream
 # 2020-05-06 - Stream 93 - Working on the Azure Url Shortener
 
 ## Summary
--
 
 In this live stream session (no.93), Frank is working on the project Azure Url Shortener. Adding a new feature to edit URL (feature request AZURL#45). He will great a new Azure Function UrlUpdate to edit the long URL. He will also start planning the user interface for it.  
 

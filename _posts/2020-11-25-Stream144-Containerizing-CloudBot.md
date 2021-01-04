@@ -2,14 +2,13 @@
 layout: post
 title: Stream 144 Containerizing CloudBot
 date: 2020-11-25
-categories: stream
+categories: cloudbot
 ---
 
 
 # 2020-11-25 - Stream 144 Containerizing CeeBee... our chatbot and Learning how to do that!
 
 ## Summary
--
 
 In this live stream session, Frank is containerizing the chatbot used during the livestream on Twitch. It's a Node.js application and the code is in GitHub. We need to have a way to pass a configuration file when we create an instance and a way to get back the stream notes.
 

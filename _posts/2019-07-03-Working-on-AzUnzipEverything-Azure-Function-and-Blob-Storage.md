@@ -9,7 +9,6 @@ categories: stream
 #
 
 ## Summary
--
 
 In this session, Frank is fixing a bug into the project AzUnzipEverything (An Azure Function that unzip any zip files drop in a blob storage). The Issue detail is available here: https://github.com/FBoucher/AzUnzipEverything/issues/3
 

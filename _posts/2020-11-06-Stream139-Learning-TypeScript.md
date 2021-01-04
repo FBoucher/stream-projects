@@ -2,14 +2,13 @@
 layout: post
 title: Stream 139 Learning TypeScript
 date: 2020-11-06
-categories: stream
+categories: triavia
 ---
 
 
 # 2020-11-06 - Stream 139 Learning TypeScript from scratch with Jason (and working on our game)
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

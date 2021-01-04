@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 131 AddingClicks Statistics to TinyBlazorAdmin
+title: Stream 131 - Adding Clicks Statistics to TinyBlazorAdmin (Url Shortener website)
 date: 2020-10-07
-categories: stream
+categories: tinyblazoradmin
 ---
 
-
-# 2020-10-07 - Stream 131 Adding Clicks Statistics to TinyBlazorAdmin (Url Shortener website)
-
 ## Summary
--
 
 In this live stream session, Frank add more information about the short Urls created by the App. For this he will create new classes to hold the data, and use SyncFusion Grid and Chart.
 
@@ -17,9 +13,6 @@ In this live stream session, Frank add more information about the short Urls cre
 
 ## Replay
 
-
-- [Twitch](https://www.twitch.tv/fboucheros)
-⚡ Summary video:
 {% include youtube.html id="4OfwrUV1jmk" %}
 <br/><!--more-->
 
@@ -43,58 +36,4 @@ All the code for this project is available on GitHub: Azure Url Shortener - http
 All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
 All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
-
-
-Goals
------
-
-- [ ] Something...
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 

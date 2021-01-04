@@ -9,7 +9,6 @@ categories: stream
 # 2019-07-10 - Learning / playing with  Azure Storage table and C# 
 
 ## Summary
--
 
 In this session, Frank is installing Azure Storage Explorer on a linux machine and make it available into the application list. Create an web application, unfinish, to insert and read data into a Azure Storage Table using .Net Core C# code. 
 

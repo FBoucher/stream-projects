@@ -9,7 +9,6 @@ categories: stream
 # 2019-09-09 - Working on a thumbnail... Chat, relax
 
 ## Summary
--
 
 In this session, Frank is creating two thumbnails for an up-coming videos (available here: https://youtu.be/kbM8zwvUpkg). A big thanks to @iboonox for is work... He created 3 super cool images with my pictures.
 

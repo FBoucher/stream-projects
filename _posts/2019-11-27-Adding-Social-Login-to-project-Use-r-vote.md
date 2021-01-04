@@ -9,7 +9,6 @@ categories: stream
 # 2019-11-27 - Adding Social Login to the .Net Core Blazor project: Use-R-vote 
 
 ## Summary
--
 
 In this life session, Frank is trying to add social login to the project Use-R-vote but things won't work as expected. The version of .Net Core is not the good one... Definitely a good learning stream. 
 

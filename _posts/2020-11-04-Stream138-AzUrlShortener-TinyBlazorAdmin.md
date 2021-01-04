@@ -2,14 +2,13 @@
 layout: post
 title: Stream 138 AzUrlShortener TinyBlazorAdmin
 date: 2020-11-04
-categories: stream
+categories: azurlshortener
 ---
 
 
 # 2020-11-04 - Stream 138 Working on AzUrlShortener + TinyBlazorAdmin it's time to go version 2.0
 
 ## Summary
--
 
 In this live stream session, Frank is finalizing the documentation to make sure it's possible to deploy the AzUrlShortener with the next interface (static webapp). Once the doc is updated it's time to merge those PRs and upgrade to version 2.
 

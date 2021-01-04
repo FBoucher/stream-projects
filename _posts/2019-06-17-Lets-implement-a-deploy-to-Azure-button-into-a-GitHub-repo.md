@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is implementing a "deploy to Azure" button into a GitHub repo using the portal deployment template functionality. We will also practice our Alabama and Quebecois expressions.
 

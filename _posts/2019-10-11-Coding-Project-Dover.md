@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-11 - Coding Project Dover working on the inventory
 
 ## Summary
--
 
 In this session, Frank is creating a nice kanban board, using GitKraken GLO, for the project and start working on what will be the inventory system.
 

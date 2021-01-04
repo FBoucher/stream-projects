@@ -9,7 +9,6 @@ categories: stream
 # 2019-11-25 Meta-Monday Creating new Intros for Twitch streams
 
 ## Summary
--
 
 In this session, Frank is 
 

@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-15 - Working on the Azure Url Shortener (AzUrlShortener) - Closing GitHub Issues☁ 
 
 ## Summary
--
 
 In this live stream session, Frank is closing some issues or todo for the project Azure Url Shortener. Making the default Url redirect dynamic and adding a little more detail in the documentation.
 📺 - Twitch archive - stream no.89

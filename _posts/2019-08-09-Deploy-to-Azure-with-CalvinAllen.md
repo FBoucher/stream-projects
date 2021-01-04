@@ -9,7 +9,6 @@ categories: stream
 # 2019-08-09 - Deploy to Azure with @_CalvinAllen
 
 ## Summary
--
 
 In this session, Frank is merging a wonderful pull request (PR) from @smabUK on the Not-a-Dog workshop  project. Than he is collaborating with @_CalvinAllen to create an Azure Resource Manager (ARM) template to deploy an Azure Function for his project: AzCategories2Hashtags (link below). 
 

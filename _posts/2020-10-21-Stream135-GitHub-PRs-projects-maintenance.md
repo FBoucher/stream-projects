@@ -2,21 +2,19 @@
 layout: post
 title: Stream 135 GitHub PRs projects maintenance
 date: 2020-10-21
-categories: stream
+categories: maintenance
 ---
 
 
 # 2020-10-21 - Stream 135 GitHub PRs & projects maintenance
 
 ## Summary
--
 
 In this live stream session, Frank is doing some maintenance to different GitHub projects: CloudBot, TinyBlazorAdmin, and AzUnzipEverything. He will encounter a wonderful PR from mreyeros, and start testing it. This PR upgrade the Azure Function to v3 and add a keyvault, password protected zip support and a few little things to the AzUnzipEverything project. Wow!!
 
 📺 - Twitch archive - stream no.135
 
 ## Replay
-
 
 {% include youtube.html id="oztwgQ2db08" %}
 <br/><!--more-->

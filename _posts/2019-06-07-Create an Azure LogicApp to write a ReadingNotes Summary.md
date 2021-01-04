@@ -6,7 +6,6 @@ categories: stream
 ---
 
 ## Summary
--
 
 In this session, Frank is doing a recap of the Reading Notes project and starting a new Logic App that will generate a summary based on all the notes taken from the Kindle.  We will start by creating an Azure Container Instance (ACI). But, reading the status won't work as planned...
 

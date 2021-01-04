@@ -9,7 +9,6 @@ categories: stream
 # 2019-07-08 - Working on AzPics, does #blazor sounds like exiting?
 
 ## Summary
--
 
 In this session, Frank is back on Linux! He is planning the AzPics project work. Try to do a simple "hello word" Blazor app... but things won't work as expected...
 

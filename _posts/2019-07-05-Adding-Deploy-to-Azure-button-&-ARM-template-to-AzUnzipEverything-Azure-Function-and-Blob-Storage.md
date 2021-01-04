@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is create from A to Z an Azure Resource Manager (ARM) template to deploy the Azure Function or the GitHub project AzUnzipEverything, with all the required resources. Then use the Deploy to Azure button so now in One-click anyone can deploy the solution. You can see the solution here: https://github.com/FBoucher/AzUnzipEverything/tree/arm-template
 

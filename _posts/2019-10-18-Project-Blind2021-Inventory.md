@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-18 - Coding .Net Core on Project Blind2021: Text-based Adventure game - Inventory System
 
 ## Summary
--
 
 In this session, Frank is back in Linux and is working on the inventory system for project Blind2021 a Text-based Adventure game in .Net Core. Great progress was made and a lot of fun.
 

@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-08 - What stats should we add at our URL Shortener aka. AzUrlShortener
 
 ## Summary
--
 
 In this live stream session, Frank is adding some statistics (click count) in the project Azure UrlShortener (AzUrlShortener)... and having fun with the new InstaFluff widget.
 

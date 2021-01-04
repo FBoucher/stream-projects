@@ -9,7 +9,6 @@ categories: stream
 # 2019-08-30 - Working on AzCleanerSubscription - Adding Identity in Azure Function
 
 ## Summary
--
 
 In this session, Frank is investigating a bug in an PowerShell Azure Function related to Identity. The Azure Function executes commands that required to have access to the Azure Subscription and we are getting errors...
 

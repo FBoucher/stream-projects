@@ -6,7 +6,6 @@ categories: stream
 ---
 
 ## Summary
--
 
 In this session, Frank is creating an Azure Logic App to generate a summary. The first step is to create an Azure Container Instance (ACI) from the fboucher/MyClippings-Parser (available on Docker Hub), and to call in passing some file content retrieved from OneDrive. While doing this we learn a few things like how to "play" with those outputs.
 

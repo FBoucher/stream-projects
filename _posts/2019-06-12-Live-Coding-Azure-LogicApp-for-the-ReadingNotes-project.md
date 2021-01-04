@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is creating an Azure Logic App (that will be called by a parent Logic App) and use the new feature Inline code to manipulate some string and return a Json object. While everything IS supposed to be working, for some reason a simple IF statement is acting randomly... and is blocking any progression... Can you see what it is?
 

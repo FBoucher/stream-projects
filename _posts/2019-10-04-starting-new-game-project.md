@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-04 - Starting new game project
 
 ## Summary
--
 
 In this session, Frank is starting a new project. It's a text-based adventure game that will (eventually) use AI. Starting by the beginning, he will list the tech and features of this project.
 

@@ -2,14 +2,13 @@
 layout: post
 title: Stream 134 Starting a new project a trivia game
 date: 2020-10-16
-categories: stream
+categories: trivia
 ---
 
 
 # 2020-10-16 - Stream 134 Starting a new project - a trivia game
 
 ## Summary
--
 
 In this live stream session, Frank is joinned by Jason to start a new project: a trivia game.  This new project (code name triavia) is for playing online while streaming. It's in a very early stage and this session was a whiteboard session, noting the ideas for the cloudies.
 

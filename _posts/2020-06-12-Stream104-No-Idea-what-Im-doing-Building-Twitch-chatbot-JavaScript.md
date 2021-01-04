@@ -9,7 +9,6 @@ categories: stream
 # 2020-06-12 - Stream 104-No idea what I'm doing - Building a Twitch chatbot in JavaScript 
 
 ## Summary
--
 
 In this live stream session, Frank is learning ComfyJS a JavaScript framework. Building slowly but surely a Twitch bot. We learn sooo much! 
 

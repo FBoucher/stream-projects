@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-31 - GitHub Action and Unit tests for .Net Code - Project: Blind2021
 
 ## Summary
--
 
 In this live stream session, Frank is creating a continuous integration workflow using GitHub Action to build and execute unit tests at every push to GitHub.
 

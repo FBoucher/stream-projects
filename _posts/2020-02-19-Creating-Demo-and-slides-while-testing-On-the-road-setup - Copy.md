@@ -9,7 +9,6 @@ categories: stream
 # 2020-02-19 - Creating Demo and slides while testing On the road setup
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

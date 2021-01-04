@@ -9,7 +9,6 @@ categories: triavia Typescript nodejs react
  Learning how to use a Blazor WebAssembly with Azure AD Token
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-30 - New Project Community Vote
 
 ## Summary
--
 
 In this session, Frank is starting a new .Net Core community project. This project is for a community to be able to submit ideas and then vote on them (ex: decide what's the next feature to be developed, or the next video topic). But first, it needs a new and a few little things...
 

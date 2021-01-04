@@ -6,7 +6,6 @@ categories: stream
 ---
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

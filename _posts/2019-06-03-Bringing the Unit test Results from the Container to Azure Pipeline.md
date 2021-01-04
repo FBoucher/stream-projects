@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is bringing back the Unit test charts into the Azure Pipeline Summary. 
 

@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-11 - Building an automatic video converter with AMS Azure Media Services
 
 ## Summary
--
 
 In this session, Frank is sharing the code for an Azure Automatic Video Converter project using Azure Media Services, Azure Logic Apps and Azure Functions
 

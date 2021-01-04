@@ -2,14 +2,13 @@
 layout: post
 title: Stream 142 Learning Syncfusion Blazor UI
 date: 2020-11-18
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
 # 2020-11-18 - Stream 142 Learning Syncfusion Blazor UI component library project TinyBlazorAdmin
 
 ## Summary
--
 
 In this live stream session, Frank is Learning how the Chart component of the Syncfusion Blazor suite works. The goal is to have a bar charts showing the clicks history of one short URL.
 

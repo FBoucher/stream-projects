@@ -9,7 +9,6 @@ categories: stream
 # 2019-11-20 - Exploring GitHub Actions for deploying to Azure
 
 ## Summary
--
 
 In this session, Frank is doing a recap of the two weeks offline and learning how to use the GitHub action to build to add a CI-CD to an existing solution.
 

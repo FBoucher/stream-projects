@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-24 - Refactoring Blind2021
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

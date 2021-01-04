@@ -9,7 +9,6 @@ categories: stream
 # 2020-07-03 - Stream 110 Learning JavaScript 😱 Building Twitch chatbot 
 
 ## Summary
--
 
 In this live stream session, Frank is working on the project Cloud Bot a Twitch chatbot created in JavaScript. In this particular session we are saving the highest score of every participant and trying to display to total score of everyone.
 

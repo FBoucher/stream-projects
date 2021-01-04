@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is starting a new project [AzPics](https://github.com/fboucher/azpics). We will discuss the features, languages and tech to use. And start working on the ARM template to deploy the full version.
 

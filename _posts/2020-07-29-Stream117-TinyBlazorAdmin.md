@@ -9,7 +9,6 @@ categories: stream
 # 2020-07-29 - Stream 117 Adding the last bits to TinyBlazorAdmin (.Net Core Blazor wasm) 
 
 ## Summary
--
 
 In this live stream session, Frank is fixing the modal windows and testing all the features of the TinyBlazorAdmin. This project is now up to date with the server side version (included into the Azure Url Shortener project). Next will be the deployment...
 

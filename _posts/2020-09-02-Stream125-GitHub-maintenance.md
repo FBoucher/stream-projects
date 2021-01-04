@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 125 GitHub maintenance
+title: Stream 125 - GitHub maintenance, looking at your PR, messages, etc.
 date: 2020-09-02
-categories: stream
+categories: maintenance
 ---
 
-
-# 2020-09-02 - Stream 125 GitHub maintenance, looking at your PR, messages, etc.
-
 ## Summary
--
 
 In this live stream session, Frank is doing some GitHub maintenance, sorting issues, merging Pull Requests (PR) from dependabot and the community. This last one will add two new frontend to the project AzUrlShortener PowerShell and SharePoint.
 
@@ -17,9 +13,6 @@ In this live stream session, Frank is doing some GitHub maintenance, sorting iss
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="TQkmBHsLZZY" %}
 <br/><!--more-->
 
@@ -27,14 +20,14 @@ In this live stream session, Frank is doing some GitHub maintenance, sorting iss
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:18 Bonjour, Hi!
-00:00:30 Plan of the day
-00:09:49 Starting Cleaning AzUrlShortener
-00:12:07 Looking the PR PowerShell as UI from @fs366e2spm 
-00:53:41 Merging PR from dependabot
-01:16:03 Quickfix to merge PR PowerShell as UI from @fs366e2spm 
-02:00:00 Wrapping-up
+    00:00:00 Intro
+    00:00:18 Bonjour, Hi!
+    00:00:30 Plan of the day
+    00:09:49 Starting Cleaning AzUrlShortener
+    00:12:07 Looking the PR PowerShell as UI from @fs366e2spm 
+    00:53:41 Merging PR from dependabot
+    01:16:03 Quickfix to merge PR PowerShell as UI from @fs366e2spm 
+    02:00:00 Wrapping-up
 
 
 Project
@@ -76,14 +69,14 @@ ToDos
 
 ## Game Results
 
-[@clarkio](https://www.twitch.tv/clarkio): 5.92
-[@thisisdavid](https://www.twitch.tv/thisisdavid): 23.12
-[@mrsmoofy](https://www.twitch.tv/mrsmoofy): 52.29
-[@jtsom](https://www.twitch.tv/jtsom): 57.85
-[@michaelthefrustrateddev](https://www.twitch.tv/michaelthefrustrateddev): 67.19
-[@fboucheros](https://www.twitch.tv/fboucheros): 72.20
-[@johncallaway](https://www.twitch.tv/johncallaway): 91.32
-[@phrakberg](https://www.twitch.tv/phrakberg): 93.12
+- [@clarkio](https://www.twitch.tv/clarkio): 5.92
+- [@thisisdavid](https://www.twitch.tv/thisisdavid): 23.12
+- [@mrsmoofy](https://www.twitch.tv/mrsmoofy): 52.29
+- [@jtsom](https://www.twitch.tv/jtsom): 57.85
+- [@michaelthefrustrateddev](https://www.twitch.tv/michaelthefrustrateddev): 67.19
+- [@fboucheros](https://www.twitch.tv/fboucheros): 72.20
+- [@johncallaway](https://www.twitch.tv/johncallaway): 91.32
+- [@phrakberg](https://www.twitch.tv/phrakberg): 93.12
 
 Streams Notes/ Snippets/ Shared urls
 -----------------------------------

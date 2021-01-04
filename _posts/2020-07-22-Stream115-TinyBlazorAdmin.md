@@ -9,7 +9,6 @@ categories: stream
 # 2020-07-22 - Stream 115 Adding all functionalities from previous version into TinyBlazorAdmin website
 
 ## Summary
--
 
 In this live stream session, Frank is bringing all the functionalities of the previous admin website to manage our short URLs into TinyBlazorAdmin. Everything that was possible with the server version must be possible into the client only one. 
 

@@ -9,7 +9,6 @@ categories: stream
 # 2020-06-05 - Stream 102 - Starting Tiny Blazor Admin project (C#, WebAssembly, AAD) !drop !bonjour
 
 ## Summary
--
 
 In this live stream session, Frank is starting a brand new project a admin static website to complement the UrlShortener backend. Making the documentation as he progress he will show how to create an Application registration for Azure Active Directory (AAD) and create an Blazor web assembly that use Azure Identity as login. 
 

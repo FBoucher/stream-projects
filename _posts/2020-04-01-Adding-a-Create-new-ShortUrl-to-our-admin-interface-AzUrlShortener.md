@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-01 - Let's Add a Create new ShortUrl to our admin interface AzUrlShortener
 
 ## Summary
--
 
 In this live stream session, Frank is adding a new button in the admin website of the Azure Url Shortener (AzUrlShortener) to be able to create new short links. While creating this new functionality a new little bug was found on the serverless backend (aka: Azure Function).
 

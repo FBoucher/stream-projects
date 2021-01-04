@@ -9,7 +9,6 @@ categories: stream
 # 2019-08-21 - Creating a Tool to keep our Azure Subscription Clean
 
 ## Summary
--
 
 In this session, Frank is converting Azure Subscription Cleaner (AzSubscriptionCleaner) to serverless using the Azure Function. Things are going pretty smoothly.
 

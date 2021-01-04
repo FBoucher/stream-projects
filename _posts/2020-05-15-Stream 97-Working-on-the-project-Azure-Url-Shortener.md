@@ -9,7 +9,6 @@ categories: stream
 # 2020-05-15 - Stream 97 - Working on the project Azure Url Shortener [cloud computing, serverless, C#] 
 
 ## Summary
--
 
 In this live stream session, Frank is finishing and deploying to production the task AZURL#24 to store a page title/ description, along with the URL. He will also start AZURL#50 to add documentation about how to update/ upgrade, but where should it go?
 

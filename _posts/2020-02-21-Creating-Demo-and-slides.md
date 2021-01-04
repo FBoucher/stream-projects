@@ -9,7 +9,6 @@ categories: stream
 # 2020-02-21 - Creating Demo and slides (a few hour before travel)
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

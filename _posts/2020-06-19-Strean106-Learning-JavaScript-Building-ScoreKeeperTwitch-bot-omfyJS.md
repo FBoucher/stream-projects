@@ -9,7 +9,6 @@ categories: stream
 # 2020-06-19 - Strean 106 - Learning JavaScript 😱 Building a Score Keeper Twitch bot with ComfyJS
 
 ## Summary
--
 
 In this live stream session, Frank is starting a brand new project: CloudBot. The goal is to have a fun and interactive chat bot for the stream and also the perfect pretext to learn JavaScript. We will be using/ learning Comfy.js and Node.js.
 

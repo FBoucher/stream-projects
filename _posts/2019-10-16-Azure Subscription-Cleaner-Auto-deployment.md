@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-16 - Azure Subscription Cleaner Auto deployment
 
 ## Summary
--
 
 In this session, Frank is "fighting" against an error in the deployment of AzSubscriptionCleaner. Azure Subscription Cleaner (AzSubscriptionCleaner) is an open-source project to delete automatically the expired resources. https://github.com/FBoucher/AzSubscriptionCleaner
 

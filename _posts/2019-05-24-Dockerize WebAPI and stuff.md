@@ -7,7 +7,6 @@ categories: stream
 
 
 ## Summary
--
 
 In this session, Frank is learning how to Dockerize a simple Web API. Then apply this new skill to the MyClippings-Parser API. The Goal is to build and execute the unit test with Docker from an Azure Pipeline.
 

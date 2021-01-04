@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 120 Cloudbot celebrating500
+title: Stream 120 - Celebrating 500 followers - And working on the Chat bot
 date: 2020-08-07
 categories: stream
 ---
 
-
-# 2020-08-07 - Stream 120 Celebrating 500 followers - And working on the Chat bot
-
 ## Summary
--
 
 In this live stream session, Frank is celebrating his 500 Twitch followers and working on the chat bot. This week task is to save and load the project information.
 
@@ -17,26 +13,21 @@ In this live stream session, Frank is celebrating his 500 Twitch followers and w
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="X8J4lVSCELU" %}
 <br/><!--more-->
 
 
 ## Timestamps
 
-
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:01:00 Showing the giveway swags
-00:02:37 Explaining the project of the day
-00:04:35 Fixing chat bot the running one
-00:14:45 Showing the project info saved
-00:31:29 Debugging save/load project info
-02:59:35 Collecting winner names
-00:04:35 Wrapping-up
-
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:01:00 Showing the giveway swags
+    00:02:37 Explaining the project of the day
+    00:04:35 Fixing chat bot the running one
+    00:14:45 Showing the project info saved
+    00:31:29 Debugging save/load project info
+    02:59:35 Collecting winner names
+    00:04:35 Wrapping-up
 
 
 Project

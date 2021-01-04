@@ -2,14 +2,13 @@
 layout: post
 title: Stream 136 Working on project triavia with JasonHand
 date: 2020-10-23
-categories: stream
+categories: triavia
 ---
 
 
 # 2020-10-23 - Stream 136 Working on project triavia with Jason Hand
 
 ## Summary
--
 
 In this live stream session, Frank is joinned by Jason to contibue the work on the new project: a trivia game.  This new project (code name triavia) is for playing online while streaming. In this second stream we will start a data diagram to visualize what information is going where.
 

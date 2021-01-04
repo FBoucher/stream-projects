@@ -9,7 +9,6 @@ categories: stream
 # 2020-04-17 - Stream 90 AzUrlShortener - Documentation is important, right?! 
 
 ## Summary
--
 
 In this live stream session, Frank is writing documentation on the Azure URL Shortener project adding more detail on how it works and how to use it.
 

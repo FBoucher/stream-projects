@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Stream 124 Cloudbot
+title: Stream 124 - Learning Node.js for the first time: Building a chatbot
 date: 2020-08-21
-categories: stream
+categories: cloudbot
 ---
 
-
-# 2020-08-21 - Stream 124 Learning Node.js for the first time: Building a chatbot
-
 ## Summary
--
 
 In this live stream session, Frank is making great progress on the co-host functionalities of CB, the cloud bot. Working on the Stream Notes generation and the timestamps.
 
@@ -17,9 +13,6 @@ In this live stream session, Frank is making great progress on the co-host funct
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="ba6NRyo0oaE" %}
 <br/><!--more-->
 
@@ -27,13 +20,13 @@ In this live stream session, Frank is making great progress on the co-host funct
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:36 Bonjour, Hi!
-00:03:01 Status... Where were we? 
-00:08:53 Starting to work on the Stream note generator
-00:41:00 Writing the Generate Parachute Section function
-01:48:29 Let's try to create timestamps with notes
-02:18:00 Wrapping-up
+    00:00:00 Intro
+    00:00:36 Bonjour, Hi!
+    00:03:01 Status... Where were we? 
+    00:08:53 Starting to work on the Stream note generator
+    00:41:00 Writing the Generate Parachute Section function
+    01:48:29 Let's try to create timestamps with notes
+    02:18:00 Wrapping-up
 
 
 Project

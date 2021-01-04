@@ -9,7 +9,6 @@ categories: stream
 # 2019-10-02 - Building ARM template for Azure Subscription Cleaner
 
 ## Summary
--
 
 In this session, Frank is looking at @ChrisIIx PR for AzSubscriptionCleaner.
 After he will be working on the Azure Automation solution to extract the ARM template.

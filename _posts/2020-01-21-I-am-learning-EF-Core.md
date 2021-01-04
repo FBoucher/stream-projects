@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-21 - I am learning EF Core, From scratch :)
 
 ## Summary
--
 
 In this live stream session, Frank is learning Entity Framework (EF) Core following docs sample.
 

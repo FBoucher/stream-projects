@@ -9,7 +9,6 @@ categories: stream
 # 2019-09-30 - GitHub Azure and Chatting
 
 ## Summary
--
 
 In this session, Frank is just getting back from vacation, and doing a little update to the AzSubcriptionCleaner documentation adding a PowerShell script based on a GitHub comment. Also doing an unboxing?! And talking game... yeah. It's was relax.
 

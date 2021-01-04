@@ -9,7 +9,6 @@ categories: stream
 # 2019-08-02 - Fixing the on the road setup
 
 ## Summary
--
 
 In this session, Frank is fixing/ building a "on the road" setup for Twitch Streaming using StreamLabsOBS. Got the visit of @MaximeRoullier, and with him found the solution to deploy the resulting solution of Not-a-Dog Workshop with a 1-click deploy from GitHub.
 

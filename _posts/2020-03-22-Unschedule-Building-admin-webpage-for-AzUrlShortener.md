@@ -9,7 +9,6 @@ categories: stream
 # 2020-03-22 - (Unschedule) Experimenting with Azure Function and .Net Core Blazor ☁ 
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

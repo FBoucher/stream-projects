@@ -2,14 +2,13 @@
 layout: post
 title: Building budget Url Shortener Azure Serverless and blazor
 date: 2020-03-18
-categories: stream
+categories: azurlshortener
 ---
 
 
 # 2020-03-18 - Building a budget Url-Shortener with Azure Serverless and .Net Blazor
 
 ## Summary
--
 
 In this live stream session, Frank is demoing and explaining how the new AzUrlShortener is working. Then On GitHub add some documentation to help people to deploy it and to use it. Great Stream a lot of fun.
 

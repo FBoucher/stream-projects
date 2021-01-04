@@ -9,7 +9,6 @@ categories: stream
 # 2020-01-03 - Adding Unit test and refactoring - Project Blind2021 - #collab
 
 ## Summary
--
 
 In this live stream session, Frank is making some refactoring to the code and folder structure to add some unit test and prepare the solution to a major lift. In the second part Ted M. Young (aka. @jitterted) will join and make tons of fantastic suggestions in order to get closer to a better architecture.
 

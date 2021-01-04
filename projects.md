@@ -176,4 +176,31 @@ An online request/idea voting platform manage by the community. You pitch your i
 </table>
 
 
+
+### [CloudBot](https://github.com/FBoucher/CloudBot)
+
+<img src="https://github.com/FBoucher/CloudBot/raw/main/medias/cloudbot_logo.png" alt="CeeBee cover" width="400"/>
+
+Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pretext to learn (or refresh) my JavaScript knowledge, but it became quickly fun to add more and more feature to it. Have a look customize it. make suggestion... this is pure fun. :)
+
+🔗 https://github.com/FBoucher/CloudBot
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["cloudbot"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
 [Stream_Screenshots]: /medias/Stream_Screenshots.png

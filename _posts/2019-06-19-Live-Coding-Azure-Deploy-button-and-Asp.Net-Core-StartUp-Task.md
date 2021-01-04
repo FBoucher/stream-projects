@@ -6,7 +6,6 @@ categories: stream
 ---
 
 ## Summary
--
 
 In this session, Frank is explaining how offline he fixed the automatic deployment of a solution in GitHub. Reviewing the ARM template, deployment script and creation/ settings assignation. The plan was to create a Startup task for the Asp.Net Core but we ends-up with a condition in the controller.
 

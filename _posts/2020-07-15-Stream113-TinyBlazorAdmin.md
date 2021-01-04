@@ -9,7 +9,6 @@ categories: stream
 # 2020-07-15 - Stream 113 Why it's not working?! Investigating login Azure AD Token with Blazor WebAssembly
 
 ## Summary
--
 
 In this live stream session, Frank is investigating why the application is crashing after adding the Azure AD login... and the issue was fixed! 
 

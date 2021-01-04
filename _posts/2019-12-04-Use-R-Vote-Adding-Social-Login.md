@@ -9,7 +9,6 @@ categories: stream
 # 2019-12-04 - Project: Use-R-Vote - Adding Social Login to .Net Core WebApp !commands
 
 ## Summary
--
 
 In this recorded live session from Twitch, Frank is adding social login (focusing on Twitter this time) to a .Net Core Blazor web application deployed in Azure. Things won't be easy. A stream like you like them... Not going as planned!  
 

@@ -9,7 +9,6 @@ categories: stream
 # Azure Url Shortener - PR Review, and experimentation for new feature
 
 ## Summary
--
 
 In this live stream session, Frank is showing how he configure Dependabot, a GitHub application that helps you to keep the dependencies in your projects up to date. Then He will start looking at a PR done by the community to add an archiving feature to the project Azure Url Shortener. 
 

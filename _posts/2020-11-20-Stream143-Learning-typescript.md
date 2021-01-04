@@ -2,14 +2,13 @@
 layout: post
 title: Stream 143 Learning typescript
 date: 2020-11-20
-categories: stream
+categories: triavia
 ---
 
 
 # 2020-11-20 - Stream 143 Learning how to create & publish our first Typescript + Nodejs + ??  to Azure...
 
 ## Summary
--
 
 In this live stream session, Frank and Jason are creating their first Typescript and React application... A lot of learning and fun moments.
 

@@ -2,14 +2,13 @@
 layout: post
 title: Stream 141 How to setup custom domain AzFunction
 date: 2020-11-13
-categories: stream
+categories: azurlshortener
 ---
 
 
 # 2020-11-13 - Stream 141 How to setup custom domain on you Azure Function
 
 ## Summary
--
 
 In this live stream session, Frank is 
 

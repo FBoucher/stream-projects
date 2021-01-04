@@ -9,7 +9,6 @@ categories: stream
 # 2019-07-31 - Adding Deployment to the Not-a-Dog-Workshop
 
 ## Summary
--
 
 In this session, Frank is creating an Azure Function and start an new ARM template to create the solution at his finale stage.  
 
