@@ -42,24 +42,22 @@ A trivia game to play with the viewers while streaming.
 🔗 https://github.com/FBoucher/triavia
 
 
-<div class="posts">
-    {% for post in site.categories[triavia] %}
-    <div class="post py3">
-        <p class="post-meta">
-    {% if site.date_format %}
-        {{ post.date | date: site.date_format }}
-    {% else %}
-        {{ post.date | date: "%b %-d, %Y" }}
-    {% endif %}
-    </p>
-        <a href="{{ post.url | relative_url }}" class="post-link">
-        <h3 class="h1 post-title">
-            {{ post.title }}
-        </h3>
-        </a>
-    </div>
+<table>
+<thead>
+  <tr>
+    <th>Date</th>\
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["triavia"] %}
+    <tr>
+        <td> {{ post.date }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
     {% endfor %}
-</div>
+</table>
 
 
 
