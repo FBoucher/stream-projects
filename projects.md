@@ -108,7 +108,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     <th>Title</th>
   </tr>
 </thead>
-    {% for post in site.categories["automatic-video-converter"] %}
+    {% for post in site.categories["azure-automatic-video-converter"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 
