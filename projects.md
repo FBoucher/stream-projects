@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
 # Stream Projects
@@ -20,6 +20,22 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
  🔗 https://github.com/FBoucher/TinyBlazorAdmin
 
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["tinyblazoradmin"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 ---
 
@@ -31,6 +47,22 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 🔗 https://github.com/FBoucher/AzUrlShortener
 
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["azurlshortener"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 ---
 
@@ -45,7 +77,7 @@ A trivia game to play with the viewers while streaming.
 <table>
 <thead>
   <tr>
-    <th>Date</th>
+    <th style="width:75px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -69,6 +101,22 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
 
 🔗 https://github.com/FBoucher/Azure-Automatic-Video-Converter
 
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["azure-automatic-video-converter"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 ---
 
@@ -82,6 +130,23 @@ Text-based adventure game, in a near future where you and your glasses companion
 🔗 https://github.com/FBoucher/ProjectDover
 
 
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["blind2021"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
 ---
 
 
@@ -93,6 +158,22 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 🔗 https://github.com/FBoucher/use-r-vote
 
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["use-r-vote"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 
 [Stream_Screenshots]: /medias/Stream_Screenshots.png

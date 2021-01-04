@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Stream 149 Trying to update The Tiny Blazor Admin UI"
+title: "Stream 149 - First stream on new PC what's missing?!"
 date: 2020-12-18
 categories: tinyblazoradmin
+tags: [tinyblazoradmin,dotnet,azFunction,vscode]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is installing the software, SDK missing being on a freshly formated PC. The goal of the day is to run the project locally to be able to debug more easily.
 
 📺 - Twitch archive - stream no.149
 
 ## Replay
 
-- [Twitch](https://www.twitch.tv/fboucheros)
-- Youtube(soon)
-
+{% include youtube.html id="vqD0FU-7-jg" %}
 <br/><!--more-->
+
 
 ## Timestamps
 
