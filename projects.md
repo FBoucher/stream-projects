@@ -23,7 +23,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 <table>
   <thead>
     <tr>
-      <th>Date</th>
+      <th style="width:75px">Date</th>
       <th>Title</th>
     </tr>
   </thead>

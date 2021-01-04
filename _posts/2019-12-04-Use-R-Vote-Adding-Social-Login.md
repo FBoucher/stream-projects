@@ -2,7 +2,7 @@
 layout: post
 title: Use R Vote Adding Social Login
 date: 2019-12-04
-categories: stream
+categories: use-r-vote
 ---
 
 

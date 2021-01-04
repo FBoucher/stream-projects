@@ -2,7 +2,7 @@
 layout: post
 title: Deploying to Azure a website with social login configured from GitHub Use R Vote
 date: 2019-12-18
-categories: stream
+categories: use-r-vote
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Blind2020 Database or Room Status
 date: 2019-11-22
-categories: stream
+categories: blind2021
 ---
 
 

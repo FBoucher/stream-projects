@@ -2,7 +2,7 @@
 layout: post
 title: Blind2021 Game Session summary generator
 date: 2019-11-29
-categories: stream
+categories: blind2021
 ---
 
 

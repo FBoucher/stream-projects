@@ -2,7 +2,7 @@
 layout: post
 title: Stream 88_Building automatic video converterwith  Azure Media Services
 date: 2020-04-11
-categories: stream
+categories: azure-automatic-video-converter
 ---
 
 

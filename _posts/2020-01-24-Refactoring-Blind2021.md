@@ -2,7 +2,7 @@
 layout: post
 title: Refactoring Blind2021
 date: 2020-01-24
-categories: stream
+categories: blind2021
 ---
 
 

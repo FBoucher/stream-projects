@@ -7,18 +7,19 @@ tags: [triavia,typescript,nodejs,react]
 ---
 
 
-## Summary
+### Summary
 
 In this live stream session, Frank is joined by Jason Hand to continue to learn the trio Typescript + Nodejs + React. Slowly building a trivia game to play with the viewers.
 
 📺 - Twitch archive - stream no.150
 
-## Replay
+### Replay
 
 {% include youtube.html id="sub3Isl23uA" %}
-<br/><!--more-->
 
-## Timestamps
+<!--more-->
+
+### Timestamps
 
     00:00:00 Intro
     00:00:10 Bonjour, Hi!
@@ -28,12 +29,12 @@ In this live stream session, Frank is joined by Jason Hand to continue to learn 
     02:00:00 creating Question Type from API
 
 
-## Project
+### Project
 
 All the code for this project is available on GitHub: triavia - https://github.com/FBoucher/triavia
 
 
-## Game Results
+### Game Results
 
 - [@jobinpa](https://www.twitch.tv/jobinpa): 0
 - [@fboucheros](https://www.twitch.tv/fboucheros): 0
@@ -53,13 +54,13 @@ All the code for this project is available on GitHub: triavia - https://github.c
 - [@tetedampoule66](https://www.twitch.tv/tetedampoule66): 68.67
 - [@groversaurus](https://www.twitch.tv/groversaurus): 74.93
 
-## Notes/ References / Snippets
+### Notes/ References / Snippets
 
 - tutorial https://www.youtube.com/watch?v=F2JCjVSZlG0
 - cool gif: https://www.walpaperlist.com/2020/01/pixel-art-live-wallpaper-pc.html
 - video 33:38
 
-## New Followers
+### New Followers
 
 - [@i_thanvanth](https:/www.twitch.tv/i_thanvanth)
 - [@OnEmpty80](https:/www.twitch.tv/OnEmpty80)

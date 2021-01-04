@@ -2,7 +2,7 @@
 layout: post
 title: Blind2021 save game loading maps
 date: 2019-12-20
-categories: stream
+categories: blind2021
 ---
 
 

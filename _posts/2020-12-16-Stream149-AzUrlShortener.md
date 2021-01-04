@@ -6,19 +6,19 @@ categories: tinyblazoradmin
 tags: [tinyblazoradmin,dotnet,azFunction,vscode]
 ---
 
-## Summary
+#### Summary
 
 In this live stream session, Frank is installing the software, SDK missing being on a freshly formated PC. The goal of the day is to run the project locally to be able to debug more easily.
 
 📺 - Twitch archive - stream no.149
 
-## Replay
+#### Replay
 
 {% include youtube.html id="vqD0FU-7-jg" %}
-<br/><!--more-->
+<!--more-->
 
 
-## Timestamps
+#### Timestamps
 
     00:00:00 Intro
     00:00:10 Bonjour, Hi!
@@ -29,12 +29,12 @@ In this live stream session, Frank is installing the software, SDK missing being
     00:52:11 loading TinyBlazorAdmin
 
 
-## Project
+#### Project
 
 All the code for this project is available on GitHub: tinyblazoradmin - https://github.com/FBoucher/tinyblazoradmin
 
 
-## Game Results
+#### Game Results
 
 - [@fboucheros](https://www.twitch.tv/fboucheros): 0
 - [@therealsurlybot](https://www.twitch.tv/therealsurlybot): 0
