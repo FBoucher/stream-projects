@@ -15,7 +15,7 @@ In this live stream session, Frank is installing the software, SDK missing being
 #### Replay
 
 {% include youtube.html id="vqD0FU-7-jg" %}
-<!--more-->
+<br/><!--more-->
 
 
 #### Timestamps

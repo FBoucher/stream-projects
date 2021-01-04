@@ -16,8 +16,7 @@ In this live stream session, Frank is joined by Jason Hand to continue to learn 
 ### Replay
 
 {% include youtube.html id="sub3Isl23uA" %}
-
-<!--more-->
+<br/><!--more-->
 
 ### Timestamps
 

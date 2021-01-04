@@ -41,9 +41,9 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ### [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
-<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
-
 An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
+
+<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
 
 🔗 https://github.com/FBoucher/AzUrlShortener
 
@@ -108,7 +108,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     <th>Title</th>
   </tr>
 </thead>
-    {% for post in site.categories["azure-automatic-video-converter"] %}
+    {% for post in site.categories["automatic-video-converter"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 
@@ -123,9 +123,10 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
 
 ### [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
+Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
+
 <img src="https://github.com/FBoucher/ProjectDover/raw/master/medias/Text-Based-Game_800.png" alt="Blind2021 cover" width="400"/>
 
-Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
 🔗 https://github.com/FBoucher/ProjectDover
 
@@ -152,9 +153,9 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 ### [Use-R-Vote (aka outspoken)](https://github.com/FBoucher/use-r-vote)
 
-<img src="https://raw.githubusercontent.com/FBoucher/use-r-vote/master/medias/user-r-vote_800.png" alt="Blind2021 cover" width="400"/>
-
 An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
+
+<img src="https://raw.githubusercontent.com/FBoucher/use-r-vote/master/medias/user-r-vote_800.png" alt="Blind2021 cover" width="400"/>
 
 🔗 https://github.com/FBoucher/use-r-vote
 
@@ -179,9 +180,9 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 ### [CloudBot](https://github.com/FBoucher/CloudBot)
 
-<img src="https://github.com/FBoucher/CloudBot/raw/main/medias/cloudbot_logo.png" alt="CeeBee cover" width="400"/>
-
 Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pretext to learn (or refresh) my JavaScript knowledge, but it became quickly fun to add more and more feature to it. Have a look customize it. make suggestion... this is pure fun. :)
+
+<img src="https://github.com/FBoucher/CloudBot/raw/main/medias/cloudbot_logo.png" alt="CeeBee cover" width="400"/>
 
 🔗 https://github.com/FBoucher/CloudBot
 
