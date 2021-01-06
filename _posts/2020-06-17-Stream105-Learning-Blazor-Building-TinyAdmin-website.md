@@ -2,7 +2,7 @@
 layout: post
 title: Stream 105 Learning Blazor Building TinyAdmin website
 date: 2020-06-17
-categories: stream
+categories: tinyblazoradmin
 ---
 
 

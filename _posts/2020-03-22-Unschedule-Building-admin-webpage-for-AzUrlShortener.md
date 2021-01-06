@@ -2,7 +2,7 @@
 layout: post
 title: Unschedule Building admin webpage for AzUrlShortener
 date: 2020-03-22
-categories: stream
+categories: azurlshortener
 ---
 
 

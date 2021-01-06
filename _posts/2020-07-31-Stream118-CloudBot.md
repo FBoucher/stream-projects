@@ -2,7 +2,7 @@
 layout: post
 title: Stream 118 CloudBot
 date: 2020-07-31
-categories: stream
+categories: cloudbot
 ---
 
 

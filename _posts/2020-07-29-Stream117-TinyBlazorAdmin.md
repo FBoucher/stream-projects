@@ -2,7 +2,7 @@
 layout: post
 title: Stream 117 TinyBlazorAdmin
 date: 2020-07-29
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -16,9 +16,6 @@ In this live stream session, Frank is fixing the modal windows and testing all t
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="bDMmy4yi6lo" %}
 <br/><!--more-->
 
@@ -26,13 +23,13 @@ In this live stream session, Frank is fixing the modal windows and testing all t
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:34 Bonjour, Hi!
-00:01:00 Plan of the day, current status
-00:00:10 Testing the last version to see if everything works
-01:24:10 Adding back the Modal look window
-01:44:14 What could be next... Better grid, Charts
-02:12:10 Pushing the code, wrapping up
+    00:00:00 Intro
+    00:00:34 Bonjour, Hi!
+    00:01:00 Plan of the day, current status
+    00:00:10 Testing the last version to see if everything works
+    01:24:10 Adding back the Modal look window
+    01:44:14 What could be next... Better grid, Charts
+    02:12:10 Pushing the code, wrapping up
 
 
 Project

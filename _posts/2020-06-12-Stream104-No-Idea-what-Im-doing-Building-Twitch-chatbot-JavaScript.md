@@ -2,7 +2,7 @@
 layout: post
 title: Stream 104 No Idea what Im doing Building Twitch chatbot JavaScript
 date: 2020-06-12
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -17,21 +17,20 @@ In this live stream session, Frank is learning ComfyJS a JavaScript framework. B
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-- [Youtube](https://c5m.ca/stream-ep104)
+{% include youtube.html id="9SbrQvRPRr0" %}
+
 - Stream Summary: https://youtu.be/Pyij8iXX1hU
 
 
 ## Timestamps
 
-
-- 00:00:01 - Bonjour, Hi!
-- 00:05:46 - Goals of the stream
-- 00:21:00 - Testing all chat message display 
-- 00:30:50 - Testing a command display text bigger  
-- 00:45:20 - Testing a command to display images 
-- 01:33:59 - Ah Ha moment when we understand that Phaser.io was used
-- 02:09:36 - Many variant to try playing a video with the sound
+    - 00:00:01 - Bonjour, Hi!
+    - 00:05:46 - Goals of the stream
+    - 00:21:00 - Testing all chat message display 
+    - 00:30:50 - Testing a command display text bigger  
+    - 00:45:20 - Testing a command to display images 
+    - 01:33:59 - Ah Ha moment when we understand that Phaser.io was used
+    - 02:09:36 - Many variant to try playing a video with the sound
 
 Project
 -------

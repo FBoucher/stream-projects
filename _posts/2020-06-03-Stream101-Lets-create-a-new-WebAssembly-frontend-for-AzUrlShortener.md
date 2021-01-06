@@ -2,11 +2,8 @@
 layout: post
 title: Stream 101 Lets create a new WebAssembly frontend for AzUrlShortener
 date: 2020-06-03
-categories: stream
+categories: maintenance
 ---
-
-
-# 2020-06-03 - Stream 101 GitHub project maintenance and planning 
 
 ## Summary
 

@@ -2,7 +2,7 @@
 layout: post
 title: Azure Subscription Cleaner Auto deployment
 date: 2019-10-16
-categories: stream
+categories: az-subscription-cleaner
 ---
 
 

@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 102 Starting TinyBlazorAdmin project
+title: Stream 102 - Starting Tiny Blazor Admin project (C#, WebAssembly, AAD)
 date: 2020-06-05
-categories: stream
+categories: tinyblazoradmin
 ---
-
-
-# 2020-06-05 - Stream 102 - Starting Tiny Blazor Admin project (C#, WebAssembly, AAD) !drop !bonjour
 
 ## Summary
 
@@ -17,7 +14,6 @@ In this live stream session, Frank is starting a brand new project a admin stati
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 {% include youtube.html id="_t0M1rr1Dc0" %}
 <br/><!--more-->
 
@@ -25,12 +21,12 @@ In this live stream session, Frank is starting a brand new project a admin stati
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:03:14 - new intro to the live
-- 00:09:10 - Plan of the stream
-- 00:12:17 - Create a new board for the project, adding tasks
-- 00:39:21 - Starting tiny#4 Write manual deployment doc
-- 01:40:01 - tiny#3 Create new app
+    - 00:00:01 - Bonjour, Hi!
+    - 00:03:14 - new intro to the live
+    - 00:09:10 - Plan of the stream
+    - 00:12:17 - Create a new board for the project, adding tasks
+    - 00:39:21 - Starting tiny#4 Write manual deployment doc
+    - 01:40:01 - tiny#3 Create new app
 
 
 Project

@@ -176,7 +176,7 @@ An online request/idea voting platform manage by the community. You pitch your i
     {% endfor %}
 </table>
 
-
+---
 
 ### [CloudBot](https://github.com/FBoucher/CloudBot)
 
@@ -194,6 +194,63 @@ Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pr
   </tr>
 </thead>
     {% for post in site.categories["cloudbot"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+---
+
+### [Not-a-Dog-Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
+
+This workshop is for beginners who would like to learn more about the cloud and then try some available services. Today artificial intelligence (AI) can benefit a lot of our applications and most of the time it's easier than we think to implement it.
+
+<img src="https://github.com/FBoucher/Not-a-Dog-Workshop/raw/master/medias/workshopHeader.png" alt="sample" width="400"/>
+
+🔗 https://github.com/FBoucher/Not-a-Dog-Workshop
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["not-a-dog-workshop"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+---
+
+### [AzSubscriptionCleaner](https://github.com/FBoucher/AzSubscriptionCleaner)
+
+The Simple way to keep your Azure Subscription "clean". This run on a schedule and automatically delete all "expired" resources inside your Azure Subscription, and nothing else.
+
+A Resource is "expired" when it has a tag expireOn older then the current date.
+
+<img src="https://raw.githubusercontent.com/FBoucher/AzSubscriptionCleaner/main/medias/AzSubscriptionCleaner.png" alt="sample" width="400"/>
+
+🔗 https://github.com/FBoucher/AzSubscriptionCleaner
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["az-subscription-cleaner"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 

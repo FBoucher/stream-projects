@@ -2,7 +2,7 @@
 layout: post
 title: Reviewing Not a Dog Workshop AspNetCore and Azure AI
 date: 2019-10-21
-categories: stream
+categories: not-a-dog-workshop
 ---
 
 

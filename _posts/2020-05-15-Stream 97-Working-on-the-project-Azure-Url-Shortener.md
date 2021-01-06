@@ -1,18 +1,15 @@
 ---
 layout: post
-title: Stream 97 Working on the project Azure Url Shortener
+title: Stream 97 - Working on the project Azure Url Shortener
 date: 2020-05-15
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-15 - Stream 97 - Working on the project Azure Url Shortener [cloud computing, serverless, C#] 
 
 ## Summary
 
 In this live stream session, Frank is finishing and deploying to production the task AZURL#24 to store a page title/ description, along with the URL. He will also start AZURL#50 to add documentation about how to update/ upgrade, but where should it go?
 
-📺 - Twitch archive - stream no.
+📺 - Twitch archive - stream no.97
 
 ## Replay
 
@@ -24,12 +21,12 @@ In this live stream session, Frank is finishing and deploying to production the 
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:00:31 - Plan of the day 
-- 00:09:04 - starting to work on AZURL#24
-- 01:08:01 - Working the UI to display the Title and also the URL 
-- 01:45:52 - Struggling about what we should do next.
-- 02:05:01 - Start planning AZURL#50 adding documentation
+    - 00:00:01 - Bonjour, Hi!
+    - 00:00:31 - Plan of the day 
+    - 00:09:04 - starting to work on AZURL#24
+    - 01:08:01 - Working the UI to display the Title and also the URL 
+    - 01:45:52 - Struggling about what we should do next.
+    - 02:05:01 - Start planning AZURL#50 adding documentation
 
 
 Project

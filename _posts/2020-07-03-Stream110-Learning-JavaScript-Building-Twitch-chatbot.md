@@ -2,7 +2,7 @@
 layout: post
 title: Stream 110 Learning JavaScript Building Twitch chatbot
 date: 2020-07-03
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -16,8 +16,6 @@ In this live stream session, Frank is working on the project Cloud Bot a Twitch 
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/KszCPCaT1j0)
 {% include youtube.html id="bEsAMXF63eE" %}
 <br/><!--more-->
@@ -26,18 +24,18 @@ In this live stream session, Frank is working on the project Cloud Bot a Twitch 
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:02:40 Showing the ChatBot art
-00:11:29 Showing the different GitKraken tools (chat question)
-00:00:10 Trying to fix the high score issue
-00:36:46 Start working on command !stats
-00:48:00 Did you do some kayak?
-00:49:02 Debugging  command !stats
-00:55:20 javascript wait?
-01:06:00 displaying the !scores results
-01:39:10 Adding some documentation for GitHub
-02:14:10 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:02:40 Showing the ChatBot art
+    00:11:29 Showing the different GitKraken tools (chat question)
+    00:00:10 Trying to fix the high score issue
+    00:36:46 Start working on command !stats
+    00:48:00 Did you do some kayak?
+    00:49:02 Debugging  command !stats
+    00:55:20 javascript wait?
+    01:06:00 displaying the !scores results
+    01:39:10 Adding some documentation for GitHub
+    02:14:10 Wrapping-up
 
 Project
 -------

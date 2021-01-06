@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 98 Whats Next with the project Azure Url Shortener
+title: Stream 98 - Whats Next with the project Azure Url Shortener
 date: 2020-05-22
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-22 - Stream 98 - What's Next with the project Azure Url Shortener [cloud computing, serverless, C#] 
 
 ## Summary
 
@@ -25,15 +22,15 @@ In this live stream session, Frank is doing a return on Microsoft Build and add 
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:01:03 - More about LiveCoders
-- 00:02:01 - Show & Tell, Just chatting, MsBuild, WSL2
-- 00:43:18 - Review new GitHub issues
-- 00:58:03 - Pool Should we split the GitHub repository to have one for the backend and another one for frontend?
-- 01:23:01 - Start working on documentation for AZURL#50
-- 02:12:01 - Start writing documentation about issue AZURL#66 Invalid Login
-- 02:37:50 - Push the works and star doing so PRs
-- 02:50:05 - Wrapping-up
+    - 00:00:01 - Bonjour, Hi!
+    - 00:01:03 - More about LiveCoders
+    - 00:02:01 - Show & Tell, Just chatting, MsBuild, WSL2
+    - 00:43:18 - Review new GitHub issues
+    - 00:58:03 - Pool Should we split the GitHub repository to have one for the backend and another one for frontend?
+    - 01:23:01 - Start working on documentation for AZURL#50
+    - 02:12:01 - Start writing documentation about issue AZURL#66 Invalid Login
+    - 02:37:50 - Push the works and star doing so PRs
+    - 02:50:05 - Wrapping-up
 
 
 Project

@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 93 Working on the Azure Url Shortener
+title: Stream 93 - Working on the Azure Url Shortener
 date: 2020-05-06
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-06 - Stream 93 - Working on the Azure Url Shortener
 
 ## Summary
 
@@ -25,11 +22,11 @@ In this live stream session (no.93), Frank is working on the project Azure Url S
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:03:47 - plan of the day
-- 00:18:01 - Start working on AZURL#44 UI to Edit
-- 02:11:01 - Share post and video about advanced ARM template tips https://c5m.ca/23
-- 02:16:01 - Wrapping-up
+    - 00:00:01 - Bonjour, Hi!
+    - 00:03:47 - plan of the day
+    - 00:18:01 - Start working on AZURL#44 UI to Edit
+    - 02:11:01 - Share post and video about advanced ARM template tips https://c5m.ca/23
+    - 02:16:01 - Wrapping-up
 
 Project
 -------

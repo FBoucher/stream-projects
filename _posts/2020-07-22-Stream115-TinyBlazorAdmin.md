@@ -2,7 +2,7 @@
 layout: post
 title: Stream 115 TinyBlazorAdmin
 date: 2020-07-22
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -17,8 +17,6 @@ In this live stream session, Frank is bringing all the functionalities of the pr
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="IFLPz4sh650" %}
 <br/><!--more-->
 
@@ -26,13 +24,13 @@ In this live stream session, Frank is bringing all the functionalities of the pr
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi! 
-00:02:10 Introduction to the project
-00:06:17 Showing last update into the code
-00:18:33 Converting URLShortener (CREATE) call, and fixing the HTML page
-01:15:53 Converting URLUpdate and URLArchive call
-02:14:10 Push, and wrap-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi! 
+    00:02:10 Introduction to the project
+    00:06:17 Showing last update into the code
+    00:18:33 Converting URLShortener (CREATE) call, and fixing the HTML page
+    01:15:53 Converting URLUpdate and URLArchive call
+    02:14:10 Push, and wrap-up
 
 
 Project

@@ -2,11 +2,8 @@
 layout: post
 title: Stream 95 Unscheduled stream Working on project AzUrlShortener
 date: 2020-05-12
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-12 - Unscheduled stream :) - Working on project Azure Url Shortener 
 
 ## Summary
 
@@ -25,15 +22,15 @@ In this live stream session, Frank is working on the Azure Url SHortener Admin w
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:01:01 - Quick sumary of the previous stream
-- 00:09:05 - Start working on: AZURL#44 - UI to Edit
-- 00:27:04 - Create new issue AzUrl#48 - Add Validation on client side
-- 00:33:01 - Push, merge to GitHub
-- 00:44:44 - Create a new Issue (feature request) AzUrl#49 - Add documentation on How to update/ upgrade
-- 00:50:00 - Upgrade and Test new version.... and debugging.
-- 01:44:44 - Start working on AzUrl#53 - Don't save all API URLs individually in admin
-- 03:10:00 - deploy... quick investigate... wrap-up
+    - 00:00:01 - Bonjour, Hi!
+    - 00:01:01 - Quick sumary of the previous stream
+    - 00:09:05 - Start working on: AZURL#44 - UI to Edit
+    - 00:27:04 - Create new issue AzUrl#48 - Add Validation on client side
+    - 00:33:01 - Push, merge to GitHub
+    - 00:44:44 - Create a new Issue (feature request) AzUrl#49 - Add documentation on How to update/ upgrade
+    - 00:50:00 - Upgrade and Test new version.... and debugging.
+    - 01:44:44 - Start working on AzUrl#53 - Don't save all API URLs individually in admin
+    - 03:10:00 - deploy... quick investigate... wrap-up
 
 
 Project

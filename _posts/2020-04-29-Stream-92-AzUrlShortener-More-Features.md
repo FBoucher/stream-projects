@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Stream 92 AzUrlShortener More Features
+title: Stream 92 - AzUrlShortener More Features
 date: 2020-04-29
-categories: stream
+categories: azurlshortener
 ---
 
-
-# 2020-04-29 - Stream-92-AzUrlShortener-More Features
 
 ## Summary
 
@@ -25,11 +23,11 @@ In this live stream session, Frank is adding a diagram to the doc, and improving
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:01:17 - Show & tell/ plan of the day
-- 00:35:34 - Start AZURL #37 - Add diagram of the solution
-- 01:23:01 - Start working on AZURL #30 - AzFunction List should return also Add a complete Short Url
-- 02:15:31 - Git push and wrapping up
+    - 00:00:01 - Bonjour, Hi!
+    - 00:01:17 - Show & tell/ plan of the day
+    - 00:35:34 - Start AZURL #37 - Add diagram of the solution
+    - 01:23:01 - Start working on AZURL #30 - AzFunction List should return also Add a complete Short Url
+    - 02:15:31 - Git push and wrapping up
 
 
 Project

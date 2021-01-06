@@ -2,22 +2,18 @@
 layout: post
 title: Stream 100 Updating all dependencies of AzUrlShortener Are we ready for v0 5
 date: 2020-05-29
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-29 - Stream 100 Updating all dependencies of AzUrlShortener. Are we ready for v0.5?
 
 ## Summary
 
 In this live stream session, Frank is upgrading all the dependencies in the project AzUrlShortener base on the recommendation of the application Dependabot. Then he will wrap al those last changes to publish the version 0.5! Finishing the stream by testing a chart library named ChartJs.Blazor to create bar chart and display the clicks timeline statistic.
 
-📺 - Twitch archive - stream no.
+📺 - Twitch archive - stream no.100
 
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 {% include youtube.html id="RjBIgpkQB-M" %}
 <br/><!--more-->
 
@@ -25,16 +21,16 @@ In this live stream session, Frank is upgrading all the dependencies in the proj
 ## Timestamps
 
 
-- 00:01:01 - Bonjour, Hi!
-- 00:00:01 - Start working on updating all the dependencies 
-- 00:17:42 - Q: How did you got into coding?
-- 00:37:06 - Testing with all the new veriosn
-- 00:51:55 - azurl#74 Display error for the URL
-- 00:51:55 - Checking/ trying the lib ChartJs.Blazor
-- 01:19:53 - Creating PR for the new version
-- 01:35:33 - New webassembly to try to do some charts with ChartJs.Blazor
-- 02:14:00 - Wrapping-up!
- 
+    - 00:01:01 - Bonjour, Hi!
+    - 00:00:01 - Start working on updating all the dependencies 
+    - 00:17:42 - Q: How did you got into coding?
+    - 00:37:06 - Testing with all the new veriosn
+    - 00:51:55 - azurl#74 Display error for the URL
+    - 00:51:55 - Checking/ trying the lib ChartJs.Blazor
+    - 01:19:53 - Creating PR for the new version
+    - 01:35:33 - New webassembly to try to do some charts with ChartJs.Blazor
+    - 02:14:00 - Wrapping-up!
+    
 
 
 Project

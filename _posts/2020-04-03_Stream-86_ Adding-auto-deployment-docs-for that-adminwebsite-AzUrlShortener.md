@@ -2,7 +2,7 @@
 layout: post
 title: Stream 86_ Adding auto deployment docs for that adminwebsite AzUrlShortener
 date: 2020-04-03
-categories: stream
+categories: azurlshortener
 ---
 
 

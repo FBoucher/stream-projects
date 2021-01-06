@@ -2,7 +2,7 @@
 layout: post
 title: Strean106 Learning JavaScript Building ScoreKeeperTwitch bot omfyJS
 date: 2020-06-19
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -17,8 +17,8 @@ In this live stream session, Frank is starting a brand new project: CloudBot. Th
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/6I8tc-OObLY)
+
 {% include youtube.html id="lxq48ZlG1hM" %}
 <br/><!--more-->
 - [c5m.ca/stream-ep106](https://c5m.ca/stream-ep106)
@@ -26,55 +26,24 @@ In this live stream session, Frank is starting a brand new project: CloudBot. Th
 ## Timestamps
 
 
-00:00:00 Bonjour, Hi!
-00:00:20 Theme animation
-00:00:30 Show and Tell
-00:01:53 Plan of the stream
-00:07:02 Create a new GitHub project, and cloning locally
-00:29:25 Create new Board
-00:54:48 Starting to code
-01:05:19 Starting the scorekeeper
-01:38:18 Installing Node.js and trying a few things
-02:07:24 Talking about Live Codes conference 2
-02:10:13 Wrapping up 
-02:12:46 End
+    00:00:00 Bonjour, Hi!
+    00:00:20 Theme animation
+    00:00:30 Show and Tell
+    00:01:53 Plan of the stream
+    00:07:02 Create a new GitHub project, and cloning locally
+    00:29:25 Create new Board
+    00:54:48 Starting to code
+    01:05:19 Starting the scorekeeper
+    01:38:18 Installing Node.js and trying a few things
+    02:07:24 Talking about Live Codes conference 2
+    02:10:13 Wrapping up 
+    02:12:46 End
 
 
 Project
 -------
 
 All the code for this project is available on GitHub: CloudBot - https://github.com/FBoucher/CloudBot/
-
-
-
-Goals
------
-
-- [ ] Something...
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Stream 114 CloudBot
 date: 2020-07-17
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -16,23 +16,20 @@ In this live stream session, Frank is working on the serialization and deseriali
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 - Youtube(soon)
 
 
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:33 Animation
-00:00:43 Bonjour, Hi!
-00:13:40 Current Status, deciding what's next
-00:32:34 Trying to save to file and read from file
-01:40:03 Updating Glo Board
-01:44:34 Create a more complex class to hold all stream information
-02:16:24 Wrapping up
+    00:00:00 Intro
+    00:00:33 Animation
+    00:00:43 Bonjour, Hi!
+    00:13:40 Current Status, deciding what's next
+    00:32:34 Trying to save to file and read from file
+    01:40:03 Updating Glo Board
+    01:44:34 Create a more complex class to hold all stream information
+    02:16:24 Wrapping up
 
 
 

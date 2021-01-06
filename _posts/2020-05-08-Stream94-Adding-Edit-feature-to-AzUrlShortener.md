@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 94 Adding Edit feature to AzUrlShortener
+title: Stream 94 - Adding Edit feature to AzUrlShortener
 date: 2020-05-08
-categories: stream
+categories: azurlshortener
 ---
-
-
-# 2020-05-08 - Adding Edit feature to the project Azure Url Shortener [C#, Blazor, Serverless, Azure]
 
 ## Summary
 
@@ -25,15 +22,15 @@ In this live stream session, Frank is working on the project Azure Url Shortener
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:00:30 - Show/ Tell/ Share
-- 00:02:01 - Show/ demonstrate bug AZURL#47 Bug redirect when no key passed
-- 00:04:10 - Showing off the board and all GitKraken stuff
-- 00:07:50 - Writing stream notes
-- 00:22:57 - Start working on AZURL#47 Bug
-- 00:48:36 - done pushing fix
-- 00:50:50 - Start working AZURL#44 UI to Edit and AZURL#43
-- 01:52:20 - Wrapping up
+    - 00:00:01 - Bonjour, Hi!
+    - 00:00:30 - Show/ Tell/ Share
+    - 00:02:01 - Show/ demonstrate bug AZURL#47 Bug redirect when no key passed
+    - 00:04:10 - Showing off the board and all GitKraken stuff
+    - 00:07:50 - Writing stream notes
+    - 00:22:57 - Start working on AZURL#47 Bug
+    - 00:48:36 - done pushing fix
+    - 00:50:50 - Start working AZURL#44 UI to Edit and AZURL#43
+    - 01:52:20 - Wrapping up
 
 
 Project

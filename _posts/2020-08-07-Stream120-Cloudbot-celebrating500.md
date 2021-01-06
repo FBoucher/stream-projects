@@ -2,7 +2,7 @@
 layout: post
 title: Stream 120 - Celebrating 500 followers - And working on the Chat bot
 date: 2020-08-07
-categories: stream
+categories: cloudbot
 ---
 
 ## Summary

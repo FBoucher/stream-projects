@@ -2,7 +2,7 @@
 layout: post
 title: Project Blind2021 Inventory
 date: 2019-10-18
-categories: stream
+categories: blind2021
 ---
 
 

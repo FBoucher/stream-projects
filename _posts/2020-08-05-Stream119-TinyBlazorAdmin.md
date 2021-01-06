@@ -2,7 +2,7 @@
 layout: post
 title: Stream 119 TinyBlazorAdmin
 date: 2020-08-05
-categories: stream
+categories: tinyblazoradmin
 ---
 
 

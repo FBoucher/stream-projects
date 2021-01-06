@@ -2,7 +2,7 @@
 layout: post
 title: Working on AzUrlShortener Closing GitHub Issues
 date: 2020-04-15
-categories: stream
+categories: azurlshortener
 ---
 
 

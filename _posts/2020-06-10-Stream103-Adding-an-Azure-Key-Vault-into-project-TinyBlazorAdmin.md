@@ -2,7 +2,7 @@
 layout: post
 title: Stream 103 Adding an Azure Key Vault into project TinyBlazorAdmin
 date: 2020-06-10
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -17,7 +17,6 @@ In this live stream session, Frank is adding an Azure Key Vault do keep the secr
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - [Summary](https://youtu.be/ZjnmPOH5404)
 {% include youtube.html id="tbuFZZCxO-Y" %}
 <br/><!--more-->
@@ -26,11 +25,11 @@ In this live stream session, Frank is adding an Azure Key Vault do keep the secr
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:04:17 - Adding Parachute Penguin to all scenes
-- 00:27:11 - Creating a Key Vault
-- 00:43:27 - Working on the documentation
-- 01:18:37 - Copy-pasting trying to a connection to our azFunction 
+    - 00:00:01 - Bonjour, Hi!
+    - 00:04:17 - Adding Parachute Penguin to all scenes
+    - 00:27:11 - Creating a Key Vault
+    - 00:43:27 - Working on the documentation
+    - 01:18:37 - Copy-pasting trying to a connection to our azFunction 
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Adding a Create new ShortUrl to our admin interface AzUrlShortener
 date: 2020-04-01
-categories: stream
+categories: azurlshortener
 ---
 
 

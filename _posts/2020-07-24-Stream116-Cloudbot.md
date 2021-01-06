@@ -2,7 +2,7 @@
 layout: post
 title: Stream 116 Cloudbot
 date: 2020-07-24
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -14,24 +14,17 @@ In this live stream session, Frank is continuing to build a virtual Co-Host aka 
 
 📺 - Twitch archive - stream no.116
 
-## Replay
-
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
-- Youtube(soon)
-
 
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:01:30 Intro to the project Cloud Bot
-00:09:10 Fixing display message for stats
-00:29:43 Start working on collecting new follower
-01:08:10 Fixing the scores display
-02:02:51 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:01:30 Intro to the project Cloud Bot
+    00:09:10 Fixing display message for stats
+    00:29:43 Start working on collecting new follower
+    01:08:10 Fixing the scores display
+    02:02:51 Wrapping-up
 
 
 
@@ -40,17 +33,6 @@ Project
 
 All the code for this project is available on GitHub: CloudBot https://github.com/FBoucher/CloudBot
 
-
-Goals
------
-
-- [ ] Generate Stream Notes
-
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
 
 
 New Followers
@@ -67,40 +49,4 @@ New Followers
 - [@Skyhoshi](https://www.twitch.tv/Skyhoshi)
 
 
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 

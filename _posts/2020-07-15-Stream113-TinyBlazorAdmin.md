@@ -2,7 +2,7 @@
 layout: post
 title: Stream 113 TinyBlazorAdmin
 date: 2020-07-15
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -16,25 +16,22 @@ In this live stream session, Frank is investigating why the application is crash
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 - Youtube(soon)
 
 
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:04:51 Recap current status
-00:07:41 Create AAD Service Principal for Blazor App
-00:28:04 Trying to login into the App using AAD.
-00:55:58 Create AAD Service Principal for the Az Function
-01:14:58 Investigating the packages version
-02:10:41 Found something... 
-02:13:20 Found the second thing.... and voila!
-02:21:10 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:04:51 Recap current status
+    00:07:41 Create AAD Service Principal for Blazor App
+    00:28:04 Trying to login into the App using AAD.
+    00:55:58 Create AAD Service Principal for the Az Function
+    01:14:58 Investigating the packages version
+    02:10:41 Found something... 
+    02:13:20 Found the second thing.... and voila!
+    02:21:10 Wrapping-up
 
 Project
 -------

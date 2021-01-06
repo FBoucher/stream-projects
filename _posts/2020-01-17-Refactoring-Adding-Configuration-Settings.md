@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Refactoring Adding Configuration Settings
+title: Trying Yori and Refactoring, Adding Configuration Settings
 date: 2020-01-17
-categories: stream
+categories: blind2021
 ---
 
-
-# 2020-01-17 - Trying Yori and Refactoring, Adding Configuration Settings - Project: Blind2021
 
 ## Summary
 
@@ -15,7 +13,6 @@ In this live stream session, Frank is
 ## Replay
 
 
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 - Youtube(soon)
 
 

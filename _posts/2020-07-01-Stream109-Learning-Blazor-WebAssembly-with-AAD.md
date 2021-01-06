@@ -25,18 +25,18 @@ In this live stream session, Frank is learning how to call an Azure Function fro
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:03:25 Adding Olive & Cody to the overlay
-00:05:30 Showing the logo for TinyBlazorAdmin
-00:10:10 Opening all the projects to continue our learning
-00:12:00 Securing the Azure Function checking the received token 
-00:29:10 Working on the webapp to call the secured azFunction
-01:52:10 Showing how to install the Parachute game
-01:58:39 Writing the secured http client
-02:17:10 Trying to run the App/ fixing crashes
-03:40:10 It's working!
-03:43:00 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:03:25 Adding Olive & Cody to the overlay
+    00:05:30 Showing the logo for TinyBlazorAdmin
+    00:10:10 Opening all the projects to continue our learning
+    00:12:00 Securing the Azure Function checking the received token 
+    00:29:10 Working on the webapp to call the secured azFunction
+    01:52:10 Showing how to install the Parachute game
+    01:58:39 Writing the secured http client
+    02:17:10 Trying to run the App/ fixing crashes
+    03:40:10 It's working!
+    03:43:00 Wrapping-up
 
 
 Project

@@ -2,7 +2,7 @@
 layout: post
 title: Stream 112 CloudBot
 date: 2020-07-10
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -16,9 +16,8 @@ In this live stream session, Frank is fixing the issue CB#11 when the Cloudbot d
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
 ⚡ [Summary video](https://youtu.be/xArPcMSwKOQ)
+<br/>
 {% include youtube.html id="NqM1stcFbzM" %}
 <br/><!--more-->
 
@@ -26,12 +25,12 @@ In this live stream session, Frank is fixing the issue CB#11 when the Cloudbot d
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:01:17 Pnan of the day
-00:09:38 Working on CB#11 - Set all user to lowercase
-00:43:44 Learnig Nodejs working on CB#15 - Save Results
-02:13:10 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:01:17 Pnan of the day
+    00:09:38 Working on CB#11 - Set all user to lowercase
+    00:43:44 Learnig Nodejs working on CB#15 - Save Results
+    02:13:10 Wrapping-up
 
 
 Project

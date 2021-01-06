@@ -2,7 +2,7 @@
 layout: post
 title: Building admin webpage AzUrlShortener
 date: 2020-03-27
-categories: stream
+categories: azurlshortener
 ---
 
 

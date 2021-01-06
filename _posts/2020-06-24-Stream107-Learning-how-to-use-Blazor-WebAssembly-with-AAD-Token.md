@@ -2,7 +2,7 @@
 layout: post
 title: Stream 107 Learning how to use Blazor WebAssembly with AAD Token
 date: 2020-06-24
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -25,14 +25,14 @@ In this live stream session, Frank is working on improving the security for the 
 ## Timestamps
 
 
-00:00:00 Intro 
-00:00:10 Bonjour, Hi!
-00:03:44 Plan of the stream
-00:10:54 Making sure the App was created the correct way.
-00:18:42 Securing the Azure Functions with Azure AD
-01:24:57 Configuring Blazor WebAssembly to use the Azure AD Token
-02:20:42 Ready to call the function... but no time!
-02:22:00 Wrapping up!
+    00:00:00 Intro 
+    00:00:10 Bonjour, Hi!
+    00:03:44 Plan of the stream
+    00:10:54 Making sure the App was created the correct way.
+    00:18:42 Securing the Azure Functions with Azure AD
+    01:24:57 Configuring Blazor WebAssembly to use the Azure AD Token
+    02:20:42 Ready to call the function... but no time!
+    02:22:00 Wrapping up!
 
 
 Project

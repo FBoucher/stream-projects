@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 99 AzUrlShortener PR Review
+title: Stream 99 AzUrlShortener PR Review, and experimentation for new feature
 date: 2020-05-27
-categories: stream
+categories: azurlshortener
 ---
-
-
-# Azure Url Shortener - PR Review, and experimentation for new feature
 
 ## Summary
 
@@ -25,14 +22,14 @@ In this live stream session, Frank is showing how he configure Dependabot, a Git
 ## Timestamps
 
 
-- 00:00:01 - Bonjour, Hi!
-- 00:01:00 - Show & Tell
-- 00:07:31 - Talk about Dependabot
-- 00:16:51 - Start looking at PR 85 Feature/soft delete
-- 01:16:07 - Testing manually the new feature
-- 01:37:01 - Merging PR 85
-- 01:54:28 - Update Dependabot config and push
-- 02:04:04 - What's next, try to plan the future steps
+    - 00:00:01 - Bonjour, Hi!
+    - 00:01:00 - Show & Tell
+    - 00:07:31 - Talk about Dependabot
+    - 00:16:51 - Start looking at PR 85 Feature/soft delete
+    - 01:16:07 - Testing manually the new feature
+    - 01:37:01 - Merging PR 85
+    - 01:54:28 - Update Dependabot config and push
+    - 02:04:04 - What's next, try to plan the future steps
 
 
 Project

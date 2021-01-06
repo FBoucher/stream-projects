@@ -2,7 +2,7 @@
 layout: post
 title: Stream 111 Back to TinyBlazorAdmin
 date: 2020-07-08
-categories: stream
+categories: tinyblazoradmin
 ---
 
 
@@ -26,65 +26,15 @@ In this live stream session, Frank is bringing all the code created in the previ
 ## Timestamps
 
 
-00:00:00 Intro
-00:00:10 Bonjour, Hi!
-00:02:18 Plan of the day
-00:31:42 Start migrating the code sample into TinyBlazorAdmin
-00:58:34 Investigating login Error
-02:08:53 Wrapping-up
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
+    00:02:18 Plan of the day
+    00:31:42 Start migrating the code sample into TinyBlazorAdmin
+    00:58:34 Investigating login Error
+    02:08:53 Wrapping-up
 
 
 Project
 -------
 All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
-Goals
------
-- [ ] Call GetUrls securly
-
-
-ToDos
------
-- [ ] unfinish todos from previous stream
-
-
-New Followers
--------------
-
-- [@](https://www.twitch.tv/)
-
-
-New Subscribers
----------------
-
-- [@](https://www.twitch.tv/)
-
-
-Raids
-------
-
-- [@](https://www.twitch.tv/) has raided you with a party of 
-
-
-Cheers
-------
-
-- [@](https://www.twitch.tv/):  bits
-
-
-Drop Parachute Highest Score
-----------------------------
-
-- [@](https://www.twitch.tv/):  70.69
-
-
-
-Streams Notes/ Snippets/ Shared urls
------------------------------------
-
-- 
-
-
-References
-----------
 

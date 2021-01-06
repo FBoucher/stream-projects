@@ -2,7 +2,7 @@
 layout: post
 title: Stream 108 Learning JavaScript Building score keeper Twitch bot
 date: 2020-06-26
-categories: stream
+categories: cloudbot
 ---
 
 
@@ -15,9 +15,6 @@ In this live stream session, Frank is working on the cloud bot. A JavaScript cha
 
 ## Replay
 
-
-- [Twitch (for 60 days)](https://www.twitch.tv/videos/)
-⚡ Summary video:
 {% include youtube.html id="EwPMhKmLSCs" %}
 <br/><!--more-->
 
@@ -25,17 +22,17 @@ In this live stream session, Frank is working on the cloud bot. A JavaScript cha
 ## Timestamps
 
 
-00:00:10 Intro
-00:00:10 Bonjour, Hi!
-00:01:55 Previously on the stream
-00:05:20 Test using Azure (Storage and Serverless)
-00:05:20 Start working on the Scores commands
-00:44:20 Adding command !clear
-00:45:53 Cleaning-up the code
-01:04:12 Fixing the save score function
-02:11:20 Getting ready to push the code to GitHub
-02:17:07 Need a image for GitHub
-02:21:06 Wrap up and raid!
+    00:00:10 Intro
+    00:00:10 Bonjour, Hi!
+    00:01:55 Previously on the stream
+    00:05:20 Test using Azure (Storage and Serverless)
+    00:05:20 Start working on the Scores commands
+    00:44:20 Adding command !clear
+    00:45:53 Cleaning-up the code
+    01:04:12 Fixing the save score function
+    02:11:20 Getting ready to push the code to GitHub
+    02:17:07 Need a image for GitHub
+    02:21:06 Wrap up and raid!
 
 
 
