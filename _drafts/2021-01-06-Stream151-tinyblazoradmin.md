@@ -1,25 +1,26 @@
 ---
 layout: post
 title: "Stream 151 - First stream of 2021 Let's see what we do"
-date: 
-categories: stream
+date: 2021-01-06
+tags: [dotnet,blazor,docker,syncfusionurlsshortener,webdev]
+categories: tinyblazoradmin
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is getting back from time off and getting back into the projects. The project of the day is Tiny Blazor Admin. Where were we? What's working, what's not... Let's start the year have fun and code.
 
 📺 - Twitch archive - stream no.151
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="k1qr0MDSkvE" %}
 <br/><!--more-->
 
 
 ## Project
 
-All the code for this project is available on GitHub: tinyblazoradmin - https://github.com/FBoucher/tinyblazoradmin
+All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/tinyblazoradmin
 
 ### TodDos
 
