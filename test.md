@@ -5,7 +5,7 @@ permalink: /test/
 ---
 
 <div>
-<h1>Now{{ "now" | date: "%Y-%m-%d %H:%M" }}</h1>
+<h1>Now{{ "now" | date: "%Y-%m-%d" }}</h1>
 
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
@@ -14,12 +14,12 @@ permalink: /test/
     {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
 <h3>Post Date: {{post.date}}</h3>
-<p>Previsou Date: {{post.previous.date}}</p>
+<p>{{ post.title }}</p>
+<p>Previous Date: {{post.previous.date}}</p>
 <ul>
   <li>Month: {{ post.date | date: "%B" }}</li>
   <li>Day: {{ post.date | date: "%d" }}</li>
   <li> --current-- </li>
-  <li>{{ next_year }}</li>
   <li>{{ this_year }}</li>
   <li>{{ this_month }}</li>
   <li> --next-- </li>
@@ -30,3 +30,15 @@ permalink: /test/
 {% endfor %}
 
 </div>
+
+
+<h2>Archive</h2>
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% for yearMonth in postsByYearMonth %}
+  <h3>{{ yearMonth.name }}</h3>
+    <ul>
+      {% for post in yearMonth.items %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+{% endfor %}
