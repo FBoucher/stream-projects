@@ -4,7 +4,7 @@ title: Test
 permalink: /test/
 ---
 
-<div>
+<!--div>
 <h1>Now{{ "now" | date: "%Y-%m-%d" }}</h1>
 
 {% for post in site.posts  %}
@@ -29,16 +29,16 @@ permalink: /test/
   
 {% endfor %}
 
-</div>
+</div-->
 
 
 <h2>Archive</h2>
 {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 {% for yearMonth in postsByYearMonth %}
-  <h3>{{ yearMonth.name }}</h3>
-    <ul>
-      {% for post in yearMonth.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+<h3>{{ yearMonth.name }}</h3>
+<ul>
+{% for post in yearMonth.items %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 {% endfor %}
