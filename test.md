@@ -45,7 +45,7 @@ permalink: /test/
 
 
 <h1>Archive</h1>
-{% assign postsByYea = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for curYear in postsByYear %}
 <h2 id="{{ this_year }}-ref">{{ curYear.name }}</h2>
 {% assign postsByYearMonth = curYear.posts | group_by_exp:"post", "post.date | date: '%B'"  %}
