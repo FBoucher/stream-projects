@@ -18,9 +18,6 @@ permalink: /test/
 <ul>
 <li>{{ this_year }}</li>
 <li>{{ this_month }}</li>
-<li> --next-- </li>
-<li>{{ next_year }}</li>
-<li>{{ next_month }}</li>
 </ul>
   
 {% endfor %}
