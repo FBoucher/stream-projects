@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream 124 - Learning Node.js for the first time: Building a chatbot
+title: Stream 124 - Learning Node.js for the first time - Building a chatbot
 date: 2020-08-21
 categories: cloudbot
 ---

@@ -12,3 +12,4 @@ paginate_path: "/page/:num/"
 
 
 markdown: kramdown
+repository: fboucher/stream-projects
