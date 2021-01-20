@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Blazor Docker Azure Storage
+title: Learning Blazor on Linux (running SDK in Docker)
 date: 2019-07-22
 categories: stream
 ---
-
-
-# 2019-07-22 - Learning Blazor on Linux (running SDK in Docker)
 
 ## Summary
 

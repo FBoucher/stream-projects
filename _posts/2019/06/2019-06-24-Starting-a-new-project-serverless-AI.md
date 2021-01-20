@@ -25,10 +25,10 @@ Goals
 Segments
 --------
 
-- 0:00 - Greetings
-- 0:13 - Recap on the weekend [TOHack](https://www.tohacks.ca/), and the final look of the Not-a-Dog workshop
-- 0:23 - Get started with the project (features, tech, etc.)
-- 1:52 - Recap of the stream
+    - 0:00 - Greetings
+    - 0:13 - Recap on the weekend [TOHack](https://www.tohacks.ca/), and the final look of the Not-a-Dog workshop
+    - 0:23 - Get started with the project (features, tech, etc.)
+    - 1:52 - Recap of the stream
 
 
 ToDos

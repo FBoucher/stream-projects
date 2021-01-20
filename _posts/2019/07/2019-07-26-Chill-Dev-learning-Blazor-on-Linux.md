@@ -5,9 +5,6 @@ date: 2019-07-26
 categories: stream
 ---
 
-
-# 2019-07-26 - Chill-Dev learning Blazor on Linux
-
 ## Summary
 
 In this short session, Frank is creating a simple Blazor App to read images from an Azure Storage. We played a little with the CSS bootstrap and did an awesome badge using Sheild.io.

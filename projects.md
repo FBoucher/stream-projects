@@ -20,7 +20,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 <img src="https://github.com/FBoucher/TinyBlazorAdmin/raw/main/medias/TinyBlazorAdmin.png" alt="TinyBlazorAdmin cover" width="400"/>
 
- 🔗 https://github.com/FBoucher/TinyBlazorAdmin
+ 🔗 [https://github.com/FBoucher/TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
 
 <table>
   <thead>
@@ -47,7 +47,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 <img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
 
-🔗 https://github.com/FBoucher/AzUrlShortener
+🔗 [https://github.com/FBoucher/AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
 <table>
 <thead>
@@ -73,7 +73,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 A trivia game to play with the viewers while streaming.
 
-🔗 https://github.com/FBoucher/triavia
+🔗 [https://github.com/FBoucher/triavia](https://github.com/FBoucher/triavia)
 
 
 <table>
@@ -101,7 +101,7 @@ A trivia game to play with the viewers while streaming.
 
 An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
 
-🔗 https://github.com/FBoucher/Azure-Automatic-Video-Converter
+🔗 [https://github.com/FBoucher/Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
 
 <table>
 <thead>

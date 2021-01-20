@@ -19,9 +19,9 @@ In this session, Frank is will investigate some error from the Azure Function pr
 Segments
 --------
 
-- 0:01 - Planning, show & tell
-- 0:17 - Starting AzUnzipEverything Question
-- 1:54 - Still no working more to come (strangely the code doesn't)
+    - 0:01 - Planning, show & tell
+    - 0:17 - Starting AzUnzipEverything Question
+    - 1:54 - Still no working more to come (strangely the code doesn't)
 
 
 Goals

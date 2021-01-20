@@ -2,11 +2,8 @@
 layout: post
 title: Working on AzUnzipEverything Azure Function and Blob Storage
 date: 2019-07-03
-categories: stream
+categories: azunzipeverything
 ---
-
-
-#
 
 ## Summary
 
@@ -22,10 +19,10 @@ In this session, Frank is fixing a bug into the project AzUnzipEverything (An Az
 Segments
 --------
 
-- 0:01:00 Bonjour, Hi!
-- 0:08:00 Recap
-- 1:29:00 PR merged
-- 1:30:00 quick check to deploy Function from ARM
+    - 0:01:00 Bonjour, Hi!
+    - 0:08:00 Recap
+    - 1:29:00 PR merged
+    - 1:30:00 quick check to deploy Function from ARM
 
 
 Goals

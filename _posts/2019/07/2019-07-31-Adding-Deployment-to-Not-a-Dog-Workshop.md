@@ -2,11 +2,8 @@
 layout: post
 title: Adding Deployment to Not a Dog Workshop
 date: 2019-07-31
-categories: stream
+categories: not-a-dog-worksho
 ---
-
-
-# 2019-07-31 - Adding Deployment to the Not-a-Dog-Workshop
 
 ## Summary
 
