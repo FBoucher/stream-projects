@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stream 87_Adding Stats to AzUrlShortener
+title: Stream 87 - Adding Stats to AzUrlShortener
 date: 2020-04-08
 categories: azurlshortener
 ---

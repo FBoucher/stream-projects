@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Building admin webpage AzUrlShortener
+title: Stream 83 - Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener
 date: 2020-03-25
 categories: azurlshortener
 ---
-
-
-# 2020-03-25 - Adding an Azure Function to return all Urls for the budget-friendly Url-Shortener (stream #83) 
 
 ## Summary
 

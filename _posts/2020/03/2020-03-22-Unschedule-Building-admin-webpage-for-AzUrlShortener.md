@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unschedule Building admin webpage for AzUrlShortener
+title: Experimenting with Azure Function and .Net Core Blazor ☁ 
 date: 2020-03-22
 categories: azurlshortener
 ---

@@ -4,11 +4,6 @@
     {% if nav.subcategories != null %}
         <li>
         <a class="navbarItem" href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
-        <ul>
-        {% for subcategory in nav.subcategories %}
-            <li><a class="navbarItem" href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-        {% endfor %}
-        </ul>
         </li>
     {% elsif nav.title == page.title %}
         <li class="active">
