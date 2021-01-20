@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Blind2021 Upgrade and MongoDB
+title: Blind2021-Upgrade and MongoDB
 date: 2019-12-06
 categories: blind2021
 ---
-
-
-# 2019-12-06 - Blind2021-Upgrade and MongoDB
 
 2019-12-06-Blind2021-Upgrade-and-MongoDB
 

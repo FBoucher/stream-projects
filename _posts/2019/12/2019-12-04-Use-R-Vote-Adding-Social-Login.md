@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Use R Vote Adding Social Login
+title: Project> Use-R-Vote - Adding Social Login to .Net Core WebApp !commands
 date: 2019-12-04
 categories: use-r-vote
 ---
-
-
-# 2019-12-04 - Project: Use-R-Vote - Adding Social Login to .Net Core WebApp !commands
 
 ## Summary
 

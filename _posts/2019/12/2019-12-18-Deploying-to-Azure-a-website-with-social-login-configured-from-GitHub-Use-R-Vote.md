@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Deploying to Azure a website with social login configured from GitHub Use R Vote
+title: Deploying to Azure a website with social login configured from GitHub - Use-R-Vote
 date: 2019-12-18
 categories: use-r-vote
 ---
-
-
-# 2019-12-18 - Deploying to Azure a website with social login configured from GitHub - Use-R-Vote
 
 ## Summary
 

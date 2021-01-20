@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Blind2021 save game loading maps
+title: Adding save game, loading maps. Project> Blind2021
 date: 2019-12-20
 categories: blind2021
 ---
-
-
-# 2019-12-20 - Adding save game, loading maps. Project: Blind2021
 
 ## Summary
 

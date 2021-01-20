@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Exploring GitHub Actions for Azure
+title: Exploring GitHub Actions for deploying to Azure
 date: 2019-11-20
-categories: stream
+categories: use-r-vote
 ---
-
-
-# 2019-11-20 - Exploring GitHub Actions for deploying to Azure
 
 ## Summary
 

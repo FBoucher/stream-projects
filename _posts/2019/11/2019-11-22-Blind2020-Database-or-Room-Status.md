@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Blind2020 Database or Room Status
+title: Blind2021 adding Room Status and more
 date: 2019-11-22
 categories: blind2021
 ---
-
-
-# 2019-11-22 - Blind2021 adding Room Status and more
 
 ## Summary
 
