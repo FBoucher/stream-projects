@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Function and Github work AzSubscriptionCleaner
+title: Azure Function and GitHub management for AzSubscription Cleaner
 date: 2019-09-04
-categories: stream
+categories: az-subscription-cleaner
 ---
-
-
-# 2019-09-04 - Azure Function and GitHub management for AzSubscription Cleaner
 
 ## Summary
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Working on a thumbnail chat relax
+title: Working on a thumbnail... Chat, relax
 date: 2019-09-09
 categories: stream
 ---

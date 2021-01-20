@@ -25,7 +25,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 <table>
   <thead>
     <tr>
-      <th style="width:75px">Date</th>
+      <th style="width:80px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -52,7 +52,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -79,7 +79,7 @@ A trivia game to play with the viewers while streaming.
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -97,31 +97,6 @@ A trivia game to play with the viewers while streaming.
 
 ---
 
-### [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
-
-An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
-
-🔗 [https://github.com/FBoucher/Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
-
-<table>
-<thead>
-  <tr>
-    <th style="width:75px">Date</th>
-    <th>Title</th>
-  </tr>
-</thead>
-    {% for post in site.categories["azvideoconverter"] %}
-    <tr>
-        <td> {{ post.date | date: "%F" }} </td>
-        <td> 
-            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
-        </td>
-    </tr>
-    {% endfor %}
-</table>
-
----
-
 
 ### [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
 
@@ -136,7 +111,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -164,7 +139,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -191,7 +166,7 @@ Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pr
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -218,7 +193,7 @@ This workshop is for beginners who would like to learn more about the cloud and 
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -248,7 +223,7 @@ A Resource is "expired" when it has a tag expireOn older then the current date.
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -276,7 +251,7 @@ Transforming the flat file into an Array JSON Objects.
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -310,7 +285,7 @@ The following features are supported in this current version:
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -338,11 +313,38 @@ Az Pics is a simple solution to manage your pictures and images. It will levrage
 <table>
 <thead>
   <tr>
-    <th style="width:75px">Date</th>
+    <th style="width:80px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
     {% for post in site.categories["azpics"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+---
+
+### [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
+
+An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
+
+🔗 [https://github.com/FBoucher/Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
+
+<table>
+<thead>
+  <tr>
+    <th style="width:80px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["azvideoconverter"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 

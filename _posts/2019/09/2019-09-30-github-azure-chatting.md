@@ -1,12 +1,9 @@
 ---
 layout: post
-title: github azure chatting
+title: GitHub Azure and Chatting
 date: 2019-09-30
-categories: stream
+categories: az-subscription-cleaner
 ---
-
-
-# 2019-09-30 - GitHub Azure and Chatting
 
 ## Summary
 

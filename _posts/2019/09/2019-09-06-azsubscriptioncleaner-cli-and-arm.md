@@ -1,8 +1,8 @@
 ---
 layout: post
-title: azsubscriptioncleaner cli and arm
+title: Azure Subscription Cleaner Mostly Azure CLI 
 date: 2019-09-06
-categories: stream
+categories: az-subscription-cleaner
 ---
 
 
