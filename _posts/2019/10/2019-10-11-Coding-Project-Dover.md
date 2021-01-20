@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Coding Project Dover
+title: Coding Project Dover working on the inventory
 date: 2019-10-11
-categories: stream
+categories: blind2021
 ---
 
 

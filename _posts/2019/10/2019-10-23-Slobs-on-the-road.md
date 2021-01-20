@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Slobs on the road
+title: Slobs on the Road configuration
 date: 2019-10-23
-categories: stream
+categories: az-subscription-cleaner
 ---
-
-
-# 2019-10-23 - Slobs on the Road configuration
 
 ## Summary
 

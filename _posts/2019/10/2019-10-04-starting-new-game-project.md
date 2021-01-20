@@ -2,7 +2,7 @@
 layout: post
 title: starting new game project
 date: 2019-10-04
-categories: stream
+categories: blind2021
 ---
 
 

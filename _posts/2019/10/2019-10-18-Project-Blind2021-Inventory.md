@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Blind2021 Inventory
+title: Coding .Net Core on Project Blind2021- Text-based Adventure game - Inventory System
 date: 2019-10-18
 categories: blind2021
 ---

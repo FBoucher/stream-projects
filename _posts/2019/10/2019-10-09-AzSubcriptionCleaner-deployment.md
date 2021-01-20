@@ -2,7 +2,7 @@
 layout: post
 title: AzSubcriptionCleaner deployment
 date: 2019-10-09
-categories: stream
+categories: az-subscription-cleaner
 ---
 
 
