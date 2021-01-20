@@ -7,27 +7,23 @@ categories: triavia
 
 ## Summary
 
-In this live stream session, Frank is 
-
+In this live stream session, Frank is joined by Jason Hand to continue to learn the trio Typescript + Nodejs + React. Slowly building a trivia game to play with the viewers.
 📺 - Twitch archive - stream no.154
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="gclU_od5NP4" %}
 <br/><!--more-->
-
-
-
 
 ### Project
 
-All the code for this project is available on GitHub: triavia2 - https://github.com/FBoucher/triavia2
+All the code for this project is available on GitHub: triavia - https://github.com/FBoucher/triavia
 
 ### TodDos
 
 - [X] Take donw the Christmas lights
 - [X] Recap project's status
-- [ ] **Fetchthe questions**
+- [X] **Fetchting questions**
 
 ### TimeLogs
 
