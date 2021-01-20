@@ -2,7 +2,7 @@
 layout: post
 title: Chill Azure Development
 date: 2019-08-05
-categories: stream
+categories: not-a-dog-workshop
 ---
 
 

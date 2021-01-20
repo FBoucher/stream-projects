@@ -18,6 +18,8 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
  Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
 
+<img src="https://github.com/FBoucher/TinyBlazorAdmin/raw/main/medias/TinyBlazorAdmin.png" alt="TinyBlazorAdmin cover" width="400"/>
+
  🔗 https://github.com/FBoucher/TinyBlazorAdmin
 
 <table>
@@ -108,7 +110,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     <th>Title</th>
   </tr>
 </thead>
-    {% for post in site.categories["azure-automatic-video-converter"] %}
+    {% for post in site.categories["azvideoconverter"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 
@@ -260,5 +262,94 @@ A Resource is "expired" when it has a tag expireOn older then the current date.
     {% endfor %}
 </table>
 
+---
+
+### [MyClippings-Parser](https://github.com/FBoucher/MyClippings-Parser)
+
+As simple as it could be, a .Net Core parser for the Amazon Kindle's "My Clippings.txt" file. The current version support the "Kindle Paperwhite".
+
+Transforming the flat file into an Array JSON Objects.
+
+
+🔗 [https://github.com/FBoucher/MyClippings-Parser](https://github.com/FBoucher/MyClippings-Parser)
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["myclippings-parser"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+---
+
+### [AzUnzipEverything](https://github.com/FBoucher/AzUnzipEverything)
+
+A simple Azure Function to Unzip files from a blob storage container to another one
+
+The following features are supported in this current version:
+1. Supported Archive Types: .zip, .rar
+     
+    *Archive support is currently implemented using the <a href="https://github.com/adamhathcock/sharpcompress">sharpcompress</a> library*
+2. Password protetected zip files
+
+     *The current solution provisions an Azure KeyVault instance for storing the zip archive(s) password used during the unzipping process.  If password protected zip files are uploaded to the blob storage container, this would be the password used when attempting to un-zip the files into the destination storage container.**
+
+🔗 [https://github.com/FBoucher/AzUnzipEverything](https://github.com/FBoucher/AzUnzipEverything)
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["azunzipeverything"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+---
+
+### [AzPics](https://github.com/FBoucher/AzPics)
+
+Az Pics is a simple solution to manage your pictures and images. It will levrage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session.
+
+<img src="https://github.com/FBoucher/AzPics/raw/master/medias/AzPics_300px.png" alt="AzPic Logo" width="400"/>
+
+🔗 [https://github.com/FBoucher/AzPics](https://github.com/FBoucher/AzPics)
+
+<table>
+<thead>
+  <tr>
+    <th style="width:75px">Date</th>
+    <th>Title</th>
+  </tr>
+</thead>
+    {% for post in site.categories["azpics"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 [Stream_Screenshots]: /medias/Stream_Screenshots.png

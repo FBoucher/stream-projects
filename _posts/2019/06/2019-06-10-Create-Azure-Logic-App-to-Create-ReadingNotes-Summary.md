@@ -2,7 +2,7 @@
 layout: post
 title: Create Azure Logic App to Create ReadingNotes Summary
 date: 2019-06-10
-categories: stream
+categories: myclippings-parser
 ---
 
 ## Summary

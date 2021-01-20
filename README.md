@@ -2,26 +2,28 @@
 
 This repository the backend of the website **[Beyond My Cloud](https://behindmycloud.com/)**. The goal is to keep tracks of all work done on the stream (https://www.twitch.tv/fboucheros). On the website, the complete list of the streams is available with the stream notes and the videos in demand.
 
-![Stream_Screenshots][Stream_Screenshots]
+![Stream_Screenshots](https://github.com/FBoucher/stream-projects/raw/main/medias/Stream_Screenshots.png)
 
 # Projects
 
 ## [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
 
+![Stream_Screenshots](https://github.com/FBoucher/TinyBlazorAdmin/raw/main/medias/TinyBlazorAdmin.png)
+
  Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
 
- 🔗 https://github.com/FBoucher/TinyBlazorAdmin
+ 🔗 [https://github.com/FBoucher/TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
 
 
 ---
 
 ## [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
-<img src="Streams\medias\Url Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
 
 An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
 
-🔗 https://github.com/FBoucher/AzUrlShortener
+🔗 [https://github.com/FBoucher/AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
 
 ---
@@ -30,7 +32,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 
 An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
 
-🔗 https://github.com/FBoucher/Azure-Automatic-Video-Converter
+🔗 [https://github.com/FBoucher/Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
 
 
 ---
@@ -41,7 +43,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
 
 Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
-🔗 https://github.com/FBoucher/ProjectDover
+🔗 [https://github.com/FBoucher/ProjectDover](https://github.com/FBoucher/ProjectDover)
 
 
 ---
@@ -52,18 +54,18 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
 
-🔗 https://github.com/FBoucher/use-r-vote
+🔗 [https://github.com/FBoucher/use-r-vote](https://github.com/FBoucher/use-r-vote)
 
 
 ---
 
 ## [Azure Subscription Cleaner (AzSubscriptionCleaner)](https://github.com/FBoucher/AzSubscriptionCleaner)
 
-<img src="https://github.com/FBoucher/AzSubscriptionCleaner/raw/master/medias/AzSubscriptionCleaner.png" alt="Blind2021 cover" width="400"/>
+<img src="https://github.com/FBoucher/AzSubscriptionCleaner/raw/main/medias/AzSubscriptionCleaner.png" alt="AzSubscriptionCleaner" width="400"/>
 
 Azure Subscription Cleaner is a simple tool that will automatically delete "expired" resources inside our Azure Subscription.
 
-🔗 https://github.com/FBoucher/AzSubscriptionCleaner
+🔗 [https://github.com/FBoucher/AzSubscriptionCleaner](https://github.com/FBoucher/AzSubscriptionCleaner)
 
 
 ---
@@ -74,7 +76,7 @@ Azure Subscription Cleaner is a simple tool that will automatically delete "expi
 
 Az Pics is a simple solution to manage your pictures and images. It will leverage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session. 
 
-🔗 https://github.com/FBoucher/AzPics
+🔗 [https://github.com/FBoucher/AzPics](https://github.com/FBoucher/AzPics)
 
 
 ---
@@ -85,6 +87,7 @@ Az Pics is a simple solution to manage your pictures and images. It will leverag
 
 A workshop 1 hour workshop to update a website using Cognitive services and Azure Function.
 
+🔗 [https://github.com/FBoucher/Not-a-Dog-Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
 
 ---
 
@@ -92,7 +95,7 @@ A workshop 1 hour workshop to update a website using Cognitive services and Azur
 
 A Solution to get an article to your eReader then collects your notes and generates a post. This is the third version of the solution. Every times it's to learn new technology.
 
-🔗 https://github.com/FBoucher/ReadingNotes
+🔗 [https://github.com/FBoucher/ReadingNotes](https://github.com/FBoucher/ReadingNotes)
 
 
 
@@ -105,7 +108,7 @@ Transforming the flat file into an Array JSON Objects. We also added XUnit Test.
 
 The idea is to generate a Docker image from this web API
 
-🔗 https://github.com/FBoucher/MyClippings-Parser
+🔗 [https://github.com/FBoucher/MyClippings-Parser](https://github.com/FBoucher/MyClippings-Parser)
 
 
 
@@ -119,7 +122,7 @@ On April 27, 2019, all communities will come together once again in the sixth gr
 
 In this repository you will find included all materials used during the demos so you can try them at home.
 
-🔗 https://github.com/MSDEVMTL/GlobalAzureBootcamp-2019
+🔗 [https://github.com/MSDEVMTL/GlobalAzureBootcamp-2019](https://github.com/MSDEVMTL/GlobalAzureBootcamp-2019)
 
 
 ---
@@ -130,7 +133,7 @@ Here a few little scripts that could help managing your Azure subscription. Ther
 
 We started creating a new one to Automatically delete "expired" resources inside our Azure subscription.
 
-🔗https://github.com/FBoucher/AzurePowerTools
+🔗 [https://github.com/FBoucher/AzurePowerTools](https://github.com/FBoucher/AzurePowerTools)
 
 ---
 
@@ -138,7 +141,7 @@ We started creating a new one to Automatically delete "expired" resources inside
 
 A simple Azure Function to Unzip files from a blob storage to another one 
 
-🔗 https://github.com/FBoucher/AzUnzipEverything
+🔗 [https://github.com/FBoucher/AzUnzipEverything](https://github.com/FBoucher/AzUnzipEverything)
 
 
 ---

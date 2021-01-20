@@ -2,7 +2,7 @@
 layout: post
 title: Live Coding Azure Deploy button and Asp.Net Core StartUp Task
 date: 2019-06-19
-categories: stream
+categories: not-a-dog-workshop
 ---
 
 ## Summary

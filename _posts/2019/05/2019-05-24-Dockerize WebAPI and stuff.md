@@ -2,7 +2,7 @@
 layout: post
 title: Dockerize WebAPI and stuff Container from Azure Pipeline
 date: 2019-05-24
-categories: stream
+categories: myclippings-parser
 ---
 
 

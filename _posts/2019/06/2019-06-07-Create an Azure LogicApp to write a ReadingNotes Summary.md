@@ -2,7 +2,7 @@
 layout: post
 title: Create an Azure LogicApp to write a ReadingNotes Summary
 date: 2019-06-07
-categories: stream
+categories: myclippings-parser
 ---
 
 ## Summary
