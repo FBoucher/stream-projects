@@ -1,12 +1,9 @@
 ---
 layout: post
-title: AzCleanerSubscription Adding Identity
+title:  Working on AzCleanerSubscription - Adding Identity in Azure Function
 date: 2019-08-30
-categories: stream
+categories: az-subscription-cleaner
 ---
-
-
-# 2019-08-30 - Working on AzCleanerSubscription - Adding Identity in Azure Function
 
 ## Summary
 

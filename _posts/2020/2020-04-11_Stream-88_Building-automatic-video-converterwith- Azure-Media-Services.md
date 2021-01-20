@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Stream 88_Building automatic video converterwith  Azure Media Services
+title: Stream 88 - Building automatic video converterwith Azure Media Services
 date: 2020-04-11
 categories: azvideoconverter
 ---
-
-
-# 2020-04-11 - Building an automatic video converter with AMS Azure Media Services
 
 ## Summary
 
@@ -39,7 +36,6 @@ Project
 -------
 
 All the code for this project is available on GitHub: Azure Automatic Video Converter - https://github.com/FBoucher/Azure-Automatic-Video-Converter
-
 
 
 Goals

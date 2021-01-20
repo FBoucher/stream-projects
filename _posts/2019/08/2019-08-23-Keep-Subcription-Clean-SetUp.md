@@ -2,11 +2,8 @@
 layout: post
 title: Keep Subcription Clean SetUp
 date: 2019-08-23
-categories: stream
+categories: az-subscription-cleaner
 ---
-
-
-# 2019-08-23 - Creating a Tool to keep our Azure Subscription Clean
 
 ## Summary
 

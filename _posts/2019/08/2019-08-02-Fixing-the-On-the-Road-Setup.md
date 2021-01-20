@@ -2,11 +2,8 @@
 layout: post
 title: Fixing the On the Road Setup
 date: 2019-08-02
-categories: stream
+categories: not-a-dog-workshop
 ---
-
-
-# 2019-08-02 - Fixing the on the road setup
 
 ## Summary
 

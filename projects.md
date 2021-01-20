@@ -130,7 +130,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 <img src="https://github.com/FBoucher/ProjectDover/raw/master/medias/Text-Based-Game_800.png" alt="Blind2021 cover" width="400"/>
 
 
-🔗 https://github.com/FBoucher/ProjectDover
+🔗 [https://github.com/FBoucher/ProjectDover](https://github.com/FBoucher/ProjectDover)
 
 
 <table>
@@ -159,7 +159,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 <img src="https://raw.githubusercontent.com/FBoucher/use-r-vote/master/medias/user-r-vote_800.png" alt="Blind2021 cover" width="400"/>
 
-🔗 https://github.com/FBoucher/use-r-vote
+🔗 [https://github.com/FBoucher/use-r-vote](https://github.com/FBoucher/use-r-vote)
 
 <table>
 <thead>
@@ -186,7 +186,7 @@ Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pr
 
 <img src="https://github.com/FBoucher/CloudBot/raw/main/medias/cloudbot_logo.png" alt="CeeBee cover" width="400"/>
 
-🔗 https://github.com/FBoucher/CloudBot
+🔗 [https://github.com/FBoucher/CloudBot](https://github.com/FBoucher/CloudBot)
 
 <table>
 <thead>
@@ -213,7 +213,7 @@ This workshop is for beginners who would like to learn more about the cloud and 
 
 <img src="https://github.com/FBoucher/Not-a-Dog-Workshop/raw/master/medias/workshopHeader.png" alt="sample" width="400"/>
 
-🔗 https://github.com/FBoucher/Not-a-Dog-Workshop
+🔗 [https://github.com/FBoucher/Not-a-Dog-Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
 
 <table>
 <thead>
@@ -243,7 +243,7 @@ A Resource is "expired" when it has a tag expireOn older then the current date.
 
 <img src="https://raw.githubusercontent.com/FBoucher/AzSubscriptionCleaner/main/medias/AzSubscriptionCleaner.png" alt="sample" width="400"/>
 
-🔗 https://github.com/FBoucher/AzSubscriptionCleaner
+🔗 [https://github.com/FBoucher/AzSubscriptionCleaner](https://github.com/FBoucher/AzSubscriptionCleaner)
 
 <table>
 <thead>

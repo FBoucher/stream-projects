@@ -2,7 +2,7 @@
 layout: post
 title: Deploy to Azure with CalvinAllen
 date: 2019-08-09
-categories: stream
+categories: not-a-dog-workshop
 ---
 
 

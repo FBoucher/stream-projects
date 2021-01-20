@@ -5,8 +5,6 @@ date: 2019-08-05
 categories: not-a-dog-workshop
 ---
 
-
-# 2019-08-05 - Chill Azure Development
 ## Summary
 
 In this session, Frank is finishing the new button to deploy to Azure the resulting solution of the Not-a-Dog workshop. Create some shield.io badge and introduce some idea for the next project.
