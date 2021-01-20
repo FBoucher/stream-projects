@@ -1,6 +1,6 @@
 #theNavbar {
     position: absolute;
-    width: 320px;
+    width: 300px;
     z-index: 10;
     bottom: -10px;
     right: 0;
@@ -10,7 +10,7 @@
   .navbarItem {
     display: block;
     float: right;
-    width: 50px;
+    width: 40px;
     height:20px;
     overflow: hidden;
   }
@@ -31,7 +31,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 10px;
     text-decoration: none;
   }
   
