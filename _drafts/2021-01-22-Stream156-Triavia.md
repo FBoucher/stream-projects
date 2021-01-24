@@ -7,13 +7,13 @@ categories: stream
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is joined by Jason Hand to continue to learn the trio Typescript + Nodejs + React. Finishing the first draft of the trivia game. 
 
 📺 - Twitch archive - stream no.156
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="TiteTbuqOcs" %}
 <br/><!--more-->
 
 ### Project

@@ -7,13 +7,13 @@ categories: tinyblazoradmin
 
 ## Summary
 
-In this live stream session, Frank is working to finish the continuous integration and continuous deployment (CI-CD) solution for the UrlShortener and TinyBlazorAdmin for the DEV environment. Some changes from the AAD cause some hiccups, but everuthing worked at the end...
+In this live stream session, Frank is working to finish the continuous integration and continuous deployment (CI-CD) solution for the UrlShortener and TinyBlazorAdmin for the DEV environment. Some changes from the AAD cause some hiccups, but everything worked in the end...
 
-📺 - Twitch archive - stream no.146
+📺 - Twitch archive - stream no.155
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="ASAk4CYfly0" %}
 <br/><!--more-->
 
 
