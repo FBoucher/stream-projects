@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 156 - Learning Typescript + Nodejs + React by building a trivia game"
-date: 
+date: 2021-01-22
 categories: stream
 ---
 
