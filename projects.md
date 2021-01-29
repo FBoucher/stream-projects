@@ -98,7 +98,7 @@ A trivia game to play with the viewers while streaming.
 ---
 
 
-### [Blind2021 (aka Project Dover)](https://github.com/FBoucher/ProjectDover)
+<h3 id="blind2021">Blind2021 (aka Project Dover)</h3>
 
 Text-based adventure game, in a near future where you and your glasses companion are exploring your environment. Base on the ProjectDover.  Using AI to simplify commands ( talk humans AI translate to game commands) 
 
