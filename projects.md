@@ -14,7 +14,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 ## Projects
 
 
-### [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
+<h3 id="tinyblazoradmin">TinyBlazorAdmin</h3>
 
  Admin tools for Azure Url Shortener using Blazor Single Page Application (webassembly)
 
@@ -41,7 +41,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ---
 
-### [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
+<h3 id="azurlshortener">AzUrlShortener</h3>
 
 An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
 
@@ -69,7 +69,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 ---
 
 
-### [Triavia the Trivia game](https://github.com/FBoucher/triavia)
+<h3 id="triavia">Triavia the Trivia game</h3>
 
 A trivia game to play with the viewers while streaming.
 
@@ -127,8 +127,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 
 ---
 
-
-### [Use-R-Vote (aka outspoken)](https://github.com/FBoucher/use-r-vote)
+<h3 id="use-r-vote">Use-R-Vote (aka outspoken)</h3>
 
 An online request/idea voting platform manage by the community. You pitch your idea the community vote on it. The most popular get picked.
 
@@ -155,7 +154,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 
 ---
 
-### [CloudBot](https://github.com/FBoucher/CloudBot)
+<h3 id="cloudbot">CloudBot</h3>
 
 Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pretext to learn (or refresh) my JavaScript knowledge, but it became quickly fun to add more and more feature to it. Have a look customize it. make suggestion... this is pure fun. :)
 
@@ -182,7 +181,7 @@ Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pr
 
 ---
 
-### [Not-a-Dog-Workshop](https://github.com/FBoucher/Not-a-Dog-Workshop)
+<h3 id="not-a-dog-workshop">Not-a-Dog-Workshop</h3>
 
 This workshop is for beginners who would like to learn more about the cloud and then try some available services. Today artificial intelligence (AI) can benefit a lot of our applications and most of the time it's easier than we think to implement it.
 
@@ -210,7 +209,7 @@ This workshop is for beginners who would like to learn more about the cloud and 
 
 ---
 
-### [AzSubscriptionCleaner](https://github.com/FBoucher/AzSubscriptionCleaner)
+<h3 id="az-subscription-cleaner">Az Subscription Cleaner</h3>
 
 The Simple way to keep your Azure Subscription "clean". This run on a schedule and automatically delete all "expired" resources inside your Azure Subscription, and nothing else.
 
@@ -239,7 +238,7 @@ A Resource is "expired" when it has a tag expireOn older then the current date.
 
 ---
 
-### [MyClippings-Parser](https://github.com/FBoucher/MyClippings-Parser)
+<h3 id="myclippings-parser">MyClippings-Parser</h3>
 
 As simple as it could be, a .Net Core parser for the Amazon Kindle's "My Clippings.txt" file. The current version support the "Kindle Paperwhite".
 
@@ -268,7 +267,7 @@ Transforming the flat file into an Array JSON Objects.
 
 ---
 
-### [AzUnzipEverything](https://github.com/FBoucher/AzUnzipEverything)
+<h3 id="azunzipeverything">AzUnzipEverything</h3>
 
 A simple Azure Function to Unzip files from a blob storage container to another one
 
@@ -302,7 +301,7 @@ The following features are supported in this current version:
 
 ---
 
-### [AzPics](https://github.com/FBoucher/AzPics)
+<h3 id="azpics">AzPics</h3>
 
 Az Pics is a simple solution to manage your pictures and images. It will levrage multiple Azure services and demonstrate the best practices in Azure. This is a project for only session.
 
@@ -331,7 +330,7 @@ Az Pics is a simple solution to manage your pictures and images. It will levrage
 
 ---
 
-### [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
+<h3 id="azvideoconverter">Azure-Automatic-Video-Converter</h3>
 
 An automatic video converter using Azure Medias Services (AMS) with Azure Functions & Azure Logic Apps, running in the cloud.
 
