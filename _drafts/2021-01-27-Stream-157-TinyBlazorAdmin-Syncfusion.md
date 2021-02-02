@@ -14,7 +14,7 @@ In this live stream session, Frank is working on the Tiny Blazor Admin website. 
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="ZIcjZyN8qHQ" %}
 <br/><!--more-->
 
 

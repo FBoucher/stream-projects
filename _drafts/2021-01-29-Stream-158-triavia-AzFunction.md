@@ -8,13 +8,13 @@ tags: [nodejs,typescript,azure function,github]
 
 ## Summary
 
-In this live stream session, Frank is joined be Jason to work on the Triavia game engin. They will start by sharing the advancement done offstream and announce the GitKraken PRO lisence giveaway. Then start the real challenge the goal is to use the Azure Function to call the openTdb API... But it's confusing docs are all about node and our firends are in Typescript...
+In this live stream session, Frank is joined by Jason to work on the Triavia game engine. They will start by sharing the advancement done off stream and announce the GitKraken PRO license giveaway. Then start the real challenge the goal is to use the Azure Function to call the openTdb API... But it's confusing docs are all about node and our friends are in Typescript...
 
 📺 - Twitch archive - stream no.158
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="Lh1-j6kClOw" %}
 <br/><!--more-->
 
 
