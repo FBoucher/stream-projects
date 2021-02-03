@@ -2,35 +2,20 @@
 layout: post
 title: "Stream 158 - Learning Typescript + Nodejs + Azure Function by building a trivia game"
 date: 2021-01-29
-categories: stream
+categories: triavia
+tags: [nodejs,typescript,azure function,github]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is joined by Jason to work on the Triavia game engine. They will start by sharing the advancement done off stream and announce the GitKraken PRO license giveaway. Then start the real challenge the goal is to use the Azure Function to call the openTdb API... But it's confusing docs are all about node and our friends are in Typescript...
 
 📺 - Twitch archive - stream no.158
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="Lh1-j6kClOw" %}
 <br/><!--more-->
-
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
-
-Project
--------
-
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
-
-All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
 
 
 ### Project
@@ -39,18 +24,24 @@ All the code for this project is available on GitHub: triavia - https://github.c
 
 ### TodDos
 
-- [ ] Do the Giveaway
+- [X] Do the Giveaway
 - [X] fix jason camera
 - [ ] **call the azFunction**
 - [ ] move shuffle into the Azure Function
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:37:17 set todo for the stream
     00:56:37 creating a new Azure Function
     01:06:10 let's test locally
     01:09:25 Ran the function locally and found a bug
     01:34:41 trying with the node-fetch package
+
+### New follower
+
+- [@murielundefined](https://www.twitch.tv/murielundefined): 0
 
 ### Game Results
 
@@ -76,4 +67,3 @@ All the code for this project is available on GitHub: triavia - https://github.c
 ### Notes/ References / Snippets
 
 - React on Azure video : https://youtu.be/7CmNSykJNoA
-- New follower murielundefined

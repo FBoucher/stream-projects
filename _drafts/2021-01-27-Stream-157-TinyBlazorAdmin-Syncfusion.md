@@ -2,43 +2,27 @@
 layout: post
 title: "Stream 157 - Let's make the URL Shortener prettier... playing with Blazor Syncfusion"
 date: 2021-01-27
-categories: stream
+categories: tinyblazoradmin
+tags: [blazor,syncfusion,css,dotnet]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is working on the Tiny Blazor Admin website. Updating the home, Urls manager and Statistics pages. THe goal is to have a nice looking verion to push into the branch main ASAP.
 
-📺 - Twitch archive - stream no.146
+📺 - Twitch archive - stream no.157
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="ZIcjZyN8qHQ" %}
 <br/><!--more-->
-
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
 
 
 Project
 -------
 
-All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
 All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
-All the code for this project is available on GitHub: Cloud Bot - https://github.com/FBoucher/CloudBot
-
-
-
-
-
-### Project
-
-All the code for this project is available on GitHub: tinyblazoradmin - https://github.com/FBoucher/tinyblazoradmin
 
 ### New Followers
 
@@ -54,8 +38,10 @@ All the code for this project is available on GitHub: tinyblazoradmin - https://
 - [X] make grid page pretty
 - [ ] **make stats page pretty**
 
-### TimeLogs
+## Timestamps
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:09:28 cleanning the Board
     00:33:07 working on Make the Home page more informative #42
     01:00:10 OMG css Frank!
