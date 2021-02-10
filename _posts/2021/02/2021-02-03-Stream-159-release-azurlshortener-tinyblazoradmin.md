@@ -2,7 +2,8 @@
 layout: post
 title: "Stream 159 - Package new version for AzUrlShortener and TinyBlazor Admin - GitHUb maintenance"
 date: 2021-02-03
-categories: stream
+categories: azurlshortener, tinyblazoradmin
+tags: [blazor,github,css,dotnet]
 ---
 
 ## Summary
@@ -13,14 +14,8 @@ In this live stream session, Frank is looking at some PR in different projects a
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="R3ei2pfNh_0" %}
 <br/><!--more-->
-
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
 
 
 ### Project
@@ -36,6 +31,8 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:06:15 plan of the day
     00:15:45 GitHub maintenance
     00:32:24 merging AzUrlShortener to vNext

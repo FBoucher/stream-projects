@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Stream 160 - Working on project trivia game going meta - Talking game mecanics"
+title: "Stream 160 - Working on project trivia game going meta - Talking game mechanics"
 date: 2021-02-05
 categories: triavia
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank and Jason are working on the trivia project. They will add a new category to filter the questions. All this while talking about old mobile games, more recent and some upcoming new projects.  
 
 📺 - Twitch archive - stream no.160
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="r6l0dp6SrRE" %}
 <br/><!--more-->
 
 
