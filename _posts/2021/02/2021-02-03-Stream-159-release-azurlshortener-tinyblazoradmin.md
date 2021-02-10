@@ -2,7 +2,7 @@
 layout: post
 title: "Stream 159 - Package new version for AzUrlShortener and TinyBlazor Admin - GitHUb maintenance"
 date: 2021-02-03
-categories: azurlshortener, tinyblazoradmin
+categories: [azurlshortener, tinyblazoradmin]
 tags: [blazor,github,css,dotnet]
 ---
 
