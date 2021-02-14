@@ -2,26 +2,20 @@
 layout: post
 title: "Stream 161 - Looking at your (aka Cloudies) GitHub PRs "
 date: 2021-02-10
-categories: stream
+tags: [github,dotnet,arm,azure,ad]
+categories: [azsubscriptioncleaner,azUnzipeverything,not-a-dog-workshop]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is maintaining and looking at PRs for the projects: Not-a-Dog-Workshop, AzSubscriptionCleaner, and AzUnzipEverything
 
 📺 - Twitch archive - stream no.161
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="U3FvIicYrHQ" %}
 <br/><!--more-->
-
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
 
 
 ### Project
@@ -37,6 +31,8 @@ All the code for this project is available on GitHub: github - https://github.co
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:05:42 Look a all PRs
     00:19:31 Working on Not-a-Dog-Workshop's PR
     00:27:34 Working on AzSubscriptionCleaner's PR
