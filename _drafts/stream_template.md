@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
+title: "Stream 163 - Learning Typescript + Nodejs + React by building a trivia game"
+featured-image: https://img.youtube.com/vi/________________/default.jpg
 date: 
 categories: stream
 ---
@@ -9,7 +10,7 @@ categories: stream
 
 In this live stream session, Frank is 
 
-📺 - Twitch archive - stream no.146
+📺 - Twitch archive - stream no.163
 
 ## Replay
 
