@@ -2,6 +2,7 @@
 layout: post
 title: "Stream 162 - Configuring a Codespace dev environment for our project Triavia"
 date: 2021-02-12
+featured-image: https://img.youtube.com/vi/rtOPg3XgBjY/default.jpg
 tags: [codespace,nodejs,typescript,container]
 categories: triavia
 ---
@@ -25,7 +26,7 @@ All the code for this project is available on GitHub: triavia - https://github.c
 ### TodDos
 
 - [X] hide broken code
-- [ ] **Build a working Codespace env.**
+- [X] **Build a working Codespace env.**
 - [ ] fix broken code from inside codespace env.
 
 ### TimeLogs
@@ -36,6 +37,11 @@ All the code for this project is available on GitHub: triavia - https://github.c
 00:46:04 What's Codespace
 01:48:48 Configuring task.json and launch.json
 02:18:19 Got the dev container to start the function
+
+
+### New Follower
+
+- [@ga_crow](https://www.twitch.tv/ga_crow)
 
 ### Game Results
 
@@ -56,7 +62,7 @@ All the code for this project is available on GitHub: triavia - https://github.c
 
 ### Notes/ References / Snippets
 
-- LearnTV s.microsoft.com/en-us/learn/tv/
+- LearnTV https://microsoft.com/en-us/learn/tv/
 - cool video: https://www.youtube.com/watch?v=nbLh4Db-vO4&feature=emb_logo
 - Codespaces: https://github.com/codespaces
 - Blog post: https://acloudguru.com/blog/engineering/how-to-develop-serverless-apps-with-github-codespaces
