@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Stream 163 - Building a automatic backup for my Azure resources"
-featured-image: https://img.youtube.com/vi/________________/default.jpg
+featured-image: https://img.youtube.com/vi/99JBG9GWWn0/default.jpg
 date: 2021-02-17
 categories: azBackup
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is exploring the Azure PowerShell commands to extract the code from different Logic Apps on a daily basis.
 
 📺 - Twitch archive - stream no.163
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="99JBG9GWWn0" %}
 <br/><!--more-->
 
 
