@@ -3,7 +3,7 @@ layout: post
 title: "Stream 163 - Building a automatic backup for my Azure resources"
 featured-image: https://img.youtube.com/vi/99JBG9GWWn0/default.jpg
 date: 2021-02-17
-categories: azBackup
+categories: azResourcesBackup
 ---
 
 ## Summary
@@ -18,16 +18,10 @@ In this live stream session, Frank is exploring the Azure PowerShell commands to
 <br/><!--more-->
 
 
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
-
 
 ### Project
 
-All the code for this project is available on GitHub: azBackup - https://github.com/FBoucher/azBackup
+All the code for this project is available on GitHub: azResourcesBackup - https://github.com/FBoucher/azResourcesBackup
 
 ### TodDos
 
@@ -38,6 +32,8 @@ All the code for this project is available on GitHub: azBackup - https://github.
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:18:06 getting started
     01:05:33 exploring some Azure PowerShell Commands
     01:33:04 should we list all the az Resources
