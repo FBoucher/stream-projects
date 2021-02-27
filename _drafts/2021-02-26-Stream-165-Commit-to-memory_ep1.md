@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stream 165 - Pivoting Rebooting our Trivia game. Moving to .Net"
+title: "Stream 165 - Pivoting - Rebooting our Trivia game. Moving from TypeScript to .Net"
 featured-image: https://img.youtube.com/vi/________________/default.jpg
 date: 2021-02-26
 categories: commit-to-memory
@@ -8,7 +8,7 @@ categories: commit-to-memory
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank and Jason share the reason why they decided to pivot and reboot the project Triavia (now renamed Commit to Memory). And start coding it using .Net
 
 📺 - Twitch archive - stream no.165
 
@@ -18,11 +18,6 @@ In this live stream session, Frank is
 <br/><!--more-->
 
 
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
 
 ### Project
 
@@ -30,6 +25,8 @@ All the code for this project is available on GitHub: commit-to-memory - https:/
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:15:03 Previously
     01:00:07 trying to deploy
 
