@@ -8,7 +8,7 @@ categories: azResourcesBackup
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is having a hard time trying to extract the code inside LogicApp using Azure PowerShell commands. Is it possible, or not?!
 
 📺 - Twitch archive - stream no.164
 
@@ -17,20 +17,14 @@ In this live stream session, Frank is
 {% include youtube.html id="________________" %}
 <br/><!--more-->
 
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
-
-
 ### Project
 
 All the code for this project is available on GitHub: azResourcesBackup - https://github.com/FBoucher/azResourcesBackup
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:11:04 Recap with done
 
 ### Game Results
