@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 165 - Pivoting - Rebooting our Trivia game. Moving from TypeScript to .Net"
-featured-image: https://img.youtube.com/vi/________________/default.jpg
+featured-image: https://img.youtube.com/vi/2rDsqW2hv1c/default.jpg
 date: 2021-02-26
 categories: commit-to-memory
 ---
@@ -14,10 +14,8 @@ In this live stream session, Frank and Jason share the reason why they decided t
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="2rDsqW2hv1c" %}
 <br/><!--more-->
-
-
 
 ### Project
 

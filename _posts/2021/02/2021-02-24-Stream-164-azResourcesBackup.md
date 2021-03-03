@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 164 - Using Azure Function to automatically backup Azure resources"
-featured-image: https://img.youtube.com/vi/________________/default.jpg
+featured-image: https://img.youtube.com/vi/T4KsUHYb6HA/default.jpg
 date: 2021-02-24
 categories: azResourcesBackup
 ---
@@ -14,7 +14,7 @@ In this live stream session, Frank is having a hard time trying to extract the c
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="T4KsUHYb6HA" %}
 <br/><!--more-->
 
 ### Project
