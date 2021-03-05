@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 163 - Building a automatic backup for my Azure resources"
-featured-image: https://img.youtube.com/vi/99JBG9GWWn0/default.jpg
+featured-image: https://img.youtube.com/vi/99JBG9GWWn0/hqdefault.jpg
 date: 2021-02-17
 categories: azResourcesBackup
 ---

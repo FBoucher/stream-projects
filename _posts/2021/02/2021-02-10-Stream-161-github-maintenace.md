@@ -2,7 +2,7 @@
 layout: post
 title: "Stream 161 - Looking at your (aka Cloudies) GitHub PRs "
 date: 2021-02-10
-featured-image: https://img.youtube.com/vi/U3FvIicYrHQ/default.jpg
+featured-image: https://img.youtube.com/vi/U3FvIicYrHQ/hqdefault.jpg
 tags: [github,dotnet,arm,azure,ad]
 categories: [azsubscriptioncleaner,azUnzipeverything,not-a-dog-workshop]
 ---

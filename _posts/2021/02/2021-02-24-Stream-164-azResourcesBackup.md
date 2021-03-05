@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 164 - Using Azure Function to automatically backup Azure resources"
-featured-image: https://img.youtube.com/vi/T4KsUHYb6HA/default.jpg
+featured-image: https://img.youtube.com/vi/T4KsUHYb6HA/hqdefault.jpg
 date: 2021-02-24
 categories: azResourcesBackup
 ---

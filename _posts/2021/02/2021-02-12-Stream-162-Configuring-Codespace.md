@@ -2,7 +2,7 @@
 layout: post
 title: "Stream 162 - Configuring a Codespace dev environment for our project Triavia"
 date: 2021-02-12
-featured-image: https://img.youtube.com/vi/rtOPg3XgBjY/default.jpg
+featured-image: https://img.youtube.com/vi/rtOPg3XgBjY/hqdefault.jpg
 tags: [codespace,nodejs,typescript,container]
 categories: triavia
 ---
