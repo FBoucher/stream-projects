@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Stream 166 - One stream Build - Exploring the idea of a scheduler module the URL Shortener"
-featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/mU4vJvFsZQY/hqdefault.jpg
 date: 
 categories: azurlshortener
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding a scheduler to the AzUrlShortener to create dynamic short links.
 
 📺 - Twitch archive - stream no.166
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="mU4vJvFsZQY" %}
 <br/><!--more-->
 
 

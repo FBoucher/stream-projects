@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Stream 167 - Commit to memory or AzUrlShortener"
-featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
+title: "Stream 167 - Adding a scheduler to AzUrlShortener"
+featured-image: https://img.youtube.com/vi/O2EsbEB244w/hqdefault.jpg
 date: 2021-03-05
 categories: stream
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is adding a scheduler to the AzUrlShortener using CRON expressions, to create dynamic short links.
 
 📺 - Twitch archive - stream no.167
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="O2EsbEB244w" %}
 <br/><!--more-->
 
 
