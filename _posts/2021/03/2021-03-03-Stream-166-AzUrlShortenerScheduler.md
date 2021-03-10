@@ -2,7 +2,7 @@
 layout: post
 title: "Stream 166 - One stream Build - Exploring the idea of a scheduler module the URL Shortener"
 featured-image: https://img.youtube.com/vi/mU4vJvFsZQY/hqdefault.jpg
-date: 
+date: 2021-03-03
 categories: azurlshortener
 ---
 
