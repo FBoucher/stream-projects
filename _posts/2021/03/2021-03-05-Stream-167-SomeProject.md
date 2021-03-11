@@ -2,8 +2,7 @@
 layout: post
 title: "Stream 167 - Adding a scheduler to AzUrlShortener"
 featured-image: https://img.youtube.com/vi/O2EsbEB244w/hqdefault.jpg
-date: 2021-03-12
-Published: 2021-03-12
+date: 2021-03-12 07:00 -0500
 categories: azurlshortener
 ---
 
