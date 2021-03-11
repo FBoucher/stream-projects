@@ -2,8 +2,9 @@
 layout: post
 title: "Stream 167 - Adding a scheduler to AzUrlShortener"
 featured-image: https://img.youtube.com/vi/O2EsbEB244w/hqdefault.jpg
-date: 2021-03-05
-categories: stream
+date: 2021-03-12
+Published: 2021-03-12
+categories: azurlshortener
 ---
 
 ## Summary
@@ -17,19 +18,13 @@ In this live stream session, Frank is adding a scheduler to the AzUrlShortener u
 {% include youtube.html id="O2EsbEB244w" %}
 <br/><!--more-->
 
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
-
 ### Project
 
 All the code for this project is available on GitHub: AzUrlShortener - https://github.com/FBoucher/AzUrlShortener
 
 ### TimeLogs
-
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:13:39 sharing project ideas
     00:19:26 looking at Scott Example
 
@@ -37,17 +32,16 @@ All the code for this project is available on GitHub: AzUrlShortener - https://g
 
 - [@talelearncode](https://www.twitch.tv/talelearncode)
 
-### Game Results
+### New Followers
 
+- [@p2a2020](https://www.twitch.tv/p2a2020)
+- [@MJT_au](https://www.twitch.tv/MJT_au)
 
 ### Notes/ References / Snippets
 
 - Cronos project:  https://github.com/HangfireIO/Cronos
 - https://crontab.guru
 - Cron Expression editor: https://crontab.guru/
-- New Follower @p2a2020
-- new follower MJT_au
-- test
-- How does this look?
+
 
 
