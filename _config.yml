@@ -6,7 +6,7 @@ twitter_username: fboucheros
 github_username: fboucher
 
 excerpt_separator: <!--more-->
-
+future: false
 paginate: 5
 paginate_path: "/page/:num/"
 
