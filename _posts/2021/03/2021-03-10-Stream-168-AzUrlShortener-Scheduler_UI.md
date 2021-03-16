@@ -2,13 +2,13 @@
 layout: post
 title: "Stream 168 - Adding some UI to edit the Schedules in AzUrlShortener"
 featured-image: https://img.youtube.com/vi/SLDQraceGuM/hqdefault.jpg
-date: 2021-03-10
+date: 2021-03-17 07:00 -0500
 categories: [azurlshortener, tinyblazoradmin]
 ---
 
 ## Summary
 
-In this live stream session, Frank is Continuing to build an user interface to create the schedule into the Url Shortener. We will find a few bugs along the road, start creating new components... A very productive show.
+In this live stream session, Frank is Continuing to build a user interface to create the schedule into the Url Shortener. We will find a few bugs along the road, start creating new components... A very productive show.
 
 📺 - Twitch archive - stream no.168
 
@@ -29,7 +29,7 @@ All the code for this project is available on GitHub: azurlshortener - https://g
     00:05:50 just chatting
     00:10:56 changing the stream setup because of a dog?!
     00:13:09 quick testing of the backend
-    01:10:59 debug a unwanted update
+    01:10:59 debug an unwanted update
     01:31:08 testing the UI
     02:10:56 Learning how to build Blazor Components
 
