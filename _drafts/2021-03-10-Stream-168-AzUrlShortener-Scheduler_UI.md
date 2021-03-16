@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Stream 168 - Adding some UI to edit the Schedules in AzUrlShortener"
-featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/SLDQraceGuM/hqdefault.jpg
 date: 2021-03-10
 categories: [azurlshortener, tinyblazoradmin]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is Continuing to build an user interface to create the schedule into the Url Shortener. We will find a few bugs along the road, start creating new components... A very productive show.
 
 📺 - Twitch archive - stream no.168
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="SLDQraceGuM" %}
 <br/><!--more-->
 
 
