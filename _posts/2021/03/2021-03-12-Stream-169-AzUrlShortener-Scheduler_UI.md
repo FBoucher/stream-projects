@@ -2,13 +2,13 @@
 layout: post
 title: "Stream 169 - We need a UI to add schedule to our UrlShortener"
 featured-image: https://img.youtube.com/vi/uC1-vZGPKN0/hqdefault.jpg
-date: 2021-03-12 07:00 -0500
+date: 2021-03-19 07:00 -0500
 categories: tinyblazoradmin
 ---
 
 ## Summary
 
-In this live stream session, Frank is Continuing to build an user interface to create the schedule into the Url Shortener. The goal is to be able to save a new schedule. And be able to visualize the information clearly.
+In this live stream session, Frank is Continuing to build a user interface to create the schedule into the Url Shortener. The goal is to be able to save a new schedule. And be able to visualize the information clearly.
 
 📺 - Twitch archive - stream no.169
 
@@ -39,6 +39,20 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 
 - [@Fr33maan_Gamedev](https://www.twitch.tv/Fr33maan_Gamedev) has raided you with a party of 6
 
+### New Subscriptions
+
+- [@tetedampoule66](https://www.twitch.tv/tetedampoule66)
+
+### New Followers
+
+- [@IcarusHQ](https://www.twitch.tv/IcarusHQ)
+- [@kaungmszz](https://www.twitch.tv/kaungmszz)
+
+- [@belide91](https://www.twitch.tv/belide91)
+- [@MetalRanger666](https://www.twitch.tv/MetalRanger666)
+- [@Ylliahc](https://www.twitch.tv/Ylliahc)
+
+
 ### Game Results
 
 - [@fboucheros](https://www.twitch.tv/fboucheros): 0
@@ -60,11 +74,6 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 
 ### Notes/ References / Snippets
 
-- new follower @IcarusHQ
-- new follower @kaungmszz
-- sub @tetedampoule66
-- New Follower belide91
-- New follower @MetalRanger666
 - add https://github.com/Mark-Phillipson/ @ MarcusVoiceProgrammer as collaborator
-- New FOllower Ylliahc
+
 
