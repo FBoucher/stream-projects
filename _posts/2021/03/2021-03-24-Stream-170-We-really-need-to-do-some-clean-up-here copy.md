@@ -1,35 +1,27 @@
 ---
 layout: post
 title: "Stream 170 - We really need to do some clean-up here"
-featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/S5iJzFDiBxo/hqdefault.jpg
+image: https://img.youtube.com/vi/S5iJzFDiBxo/hqdefault.jpg
 date: 2021-03-24 06:30 -0500
 categories: [github,azurlshortener]
 ---
 
 ## Summary
 
-In this live stream session, Frank is 
+In this live stream session, Frank is looking at the information and documentation on GitHub for the project Azure Url Shortener. Making it easier to read, more accurate, and cleaner. Because documentation is important.
 
 📺 - Twitch archive - stream no.170
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="S5iJzFDiBxo" %}
 <br/><!--more-->
-
-
-## Timestamps
-
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-
 
 Project
 -------
 
 All the code for this project is available on GitHub: Azure Url Shortener - https://github.com/FBoucher/AzUrlShortener
-
-All the code for this project is available on GitHub: Tiny Blazor Admin - https://github.com/FBoucher/TinyBlazorAdmin
 
 ### TodDos
 
@@ -39,6 +31,8 @@ All the code for this project is available on GitHub: Tiny Blazor Admin - https:
 
 ### TimeLogs
 
+    00:00:00 Intro
+    00:00:10 Bonjour, Hi!
     00:05:50 Share current status of azURLShortener
     00:15:39 cleaning AzUrlShortener
     00:55:10 cleaning up the Documentation
