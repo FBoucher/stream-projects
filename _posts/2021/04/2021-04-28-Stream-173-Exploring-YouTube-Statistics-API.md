@@ -9,7 +9,7 @@ categories: azYouTubeStats
 
 ## Summary
 
-In this live stream session, Frank is exploring YouTube Statistics #API. The goal is to build and Azure Function that will collect videos statistics from each video in a #YouTube playlist using the .Net #SDK Google.Apis.YouTube
+In this live stream session, Frank is exploring YouTube Statistics #API. The goal is to build an Azure Function that will collect video statistics from each video in a #YouTube playlist using the .Net #SDK Google.Apis.YouTube
 
 📺 - Twitch archive - stream no.173
 
