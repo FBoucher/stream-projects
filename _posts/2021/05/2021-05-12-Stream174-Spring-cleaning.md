@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 174 - Deleting, Moving, Changing Code; in short a spring cleaning"
-featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/5iKOB8elfkI/hqdefault.jpg
 date: 2021-05-19 06:30 -0500
 streaming date: 2021-05-12
 categories: azUrlShortener
@@ -15,7 +15,7 @@ In this live stream session, Frank is discussing how to improve the Url Shortene
 
 ## Replay
 
-{% include youtube.html id="________________" %}
+{% include youtube.html id="5iKOB8elfkI" %}
 <br/><!--more-->
 
 ### Project
