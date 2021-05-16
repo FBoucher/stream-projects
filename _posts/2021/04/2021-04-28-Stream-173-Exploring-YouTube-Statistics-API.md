@@ -2,8 +2,8 @@
 layout: post
 title: "Stream 173 - Exploring YouTube Statistics API"
 featured-image: https://img.youtube.com/vi/pZ-Wf-kLGsw/hqdefault.jpg
-date: 2022-05-05 06:30 -0500
-stream date: 2022-04-28 06:30 -0500
+date: 2021-05-05 06:30 -0500
+stream date: 2021-04-28 06:30 -0500
 categories: azYouTubeStats
 ---
 
