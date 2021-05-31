@@ -2,8 +2,8 @@
 layout: post
 title: "Stream 176 - Can we secured the AzFunction from inside an Azure Static Web App"
 featured-image: https://img.youtube.com/vi/wNoGCFRluEQ/hqdefault.jpg
-date: 2022-05-26 06:30 -0500
-stream date: 2022-05-19 06:30 -0500
+date: 2021-05-26 06:30 -0500
+stream date: 2021-05-19 06:30 -0500
 categories: azUrlShortener
 ---
 
