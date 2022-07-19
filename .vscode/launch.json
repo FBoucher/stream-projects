@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "msedge",
+        "request": "attach",
+        "name": "Attach",
+        "preLaunchTask": "Serve"
+      }
+    ]
+  }
