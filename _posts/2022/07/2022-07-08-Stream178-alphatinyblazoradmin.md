@@ -19,13 +19,13 @@ In this live stream session, Frank is sharing the current migration/ upgrade sta
 
 ## Chapters
 
-00:00:00 Setting up the stream
-00:02:59 Welcome to the stream! Plan of the day
-00:04:40 How do we start the chatbot?!
-00:13:16 Show and tell
-00:18:57 Demo current state alphaTinyBlazorAdmin
-00:13:16 Let's make it compile
-00:50:07 Future stream, and wrapping-up
+    00:00:00 Setting up the stream
+    00:02:59 Welcome to the stream! Plan of the day
+    00:04:40 How do we start the chatbot?!
+    00:13:16 Show and tell
+    00:18:57 Demo current state alphaTinyBlazorAdmin
+    00:13:16 Let's make it compile
+    00:50:07 Future stream, and wrapping-up
 
 
 ### Notes/ References / Snippets

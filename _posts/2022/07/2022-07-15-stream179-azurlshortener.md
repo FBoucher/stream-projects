@@ -19,16 +19,16 @@ In this live stream session, I'm starting the upgrade/ update of the AzUrlShorte
 
 ## Chapters
 
-00:00:00 Intro, plan of the day
-00:05:59 Looking at GitKraken Update V8.7.0
-00:14:53 Really starting looking at GitKraken Update
-00:33:37 Quick recap of AzUrlShortener project
-01:09:32 Update AzUrlShortener
-01:48:59 Commit, Push, Next time plan
+    00:00:00 Intro, plan of the day
+    00:05:59 Looking at GitKraken Update V8.7.0
+    00:14:53 Really starting looking at GitKraken Update
+    00:33:37 Quick recap of AzUrlShortener project
+    01:09:32 Update AzUrlShortener
+    01:48:59 Commit, Push, Next time plan
 
 ### Project
 
-All the code for this project is available on GitHub: AzUrlShortener - https://github.com/FBoucher/AzUrlShortener
+All the code for this project is available on GitHub: AzUrlShortener - [https://github.com/FBoucher/AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
 
 ### TodDos
 
