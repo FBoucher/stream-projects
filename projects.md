@@ -10,7 +10,7 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ![Stream_Screenshots][Stream_Screenshots]
 
-<h2 id="projectlist">Projects</h3>
+<h2 id="projectlist">Projects</h2>
 
 - [TinyBlazorAdmin](#tinyblazoradmin)
 - [AzUrlShortener](#azurlshortener)
