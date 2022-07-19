@@ -24,6 +24,26 @@
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "sh .devcontainer/post-create.sh",
 
+	"extensions": [
+        // yaml for data files
+        "redhat.vscode-yaml",
+        // liquid templating syntax highlighting
+        "sissel.shopify-liquid",
+        // jekyll
+        "ginfuru.ginfuru-vscode-jekyll-syntax",
+        "ginfuru.vscode-jekyll-snippets",
+        // markdown
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        // html/css
+        "ecmel.vscode-html-css",
+        "aeschli.vscode-css-formatter",
+        // editing
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.wordcount",
+		"eamodio.gitlens"
+    ],
+
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode"
 }
