@@ -13,6 +13,12 @@ This repository is to keep tracks of all work done on the stream (aka https://ww
 
 ## Projects
 
+- [TinyBlazorAdmin](#tinyblazoradmin)
+- [AzUrlShortener](#azurlshortener)
+- [Triavia the Trivia game](#triavia)
+- [Blind2021 (aka Project Dover)](#blind2021)
+
+
 
 <h3 id="tinyblazoradmin">TinyBlazorAdmin</h3>
 
