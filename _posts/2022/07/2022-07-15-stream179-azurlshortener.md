@@ -3,7 +3,7 @@ layout: post
 title: "Stream 179 - Let's start AzUrlShortener Upgrade/ update"
 featured-image: https://img.youtube.com/vi/q120szzJ-RE/hqdefault.jpg
 date: 2022-07-15 06:30 -0500
-categories: stream
+categories: azUrlShortener
 ---
 
 ## Summary
