@@ -367,4 +367,5 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     {% endfor %}
 </table>
 
+
 [Stream_Screenshots]: /medias/Stream_Screenshots.png
