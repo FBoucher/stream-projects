@@ -7,3 +7,4 @@
 
 # generated files
 _site/*
+.vscode/settings.json
