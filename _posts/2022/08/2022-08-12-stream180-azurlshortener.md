@@ -19,9 +19,11 @@ In this live stream session, I'm all over the place. I just came back from vacat
 
 ## Chapters
 
-    00:00:00 Intro, plan of the day
-    00:05:59 
-    00:05:59 
+    00:00:00 Show & tell
+    00:05:00 Plan of the day
+    00:27:44 Fill-up a GitHub project
+    01:03:21 Update the How to use it section
+    01:31:00 Wrapping up
 
 ### Project
 
