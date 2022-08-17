@@ -10,7 +10,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         </h2>
           <span class="post-meta">{{ post.date | date: "%F" }}</span>
           {{ post.excerpt }}<a href="{{ post.url }}">Read more...</a><br><br>
@@ -35,6 +35,6 @@ layout: default
       <span class="next ">Next</span>
     {% endif %}
   </div>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.url }}">via RSS</a></p>
 
 </div>
