@@ -8,7 +8,7 @@ categories: azurlshortener
 
 ## Summary
 
-In this live stream session, I'm all over the place. I just came back from vacation and this time off paid very well... Nevertheless I will create new tasks in the GitHub project to make the work visible toward version 3. In this stream I the focus was on the "How to use it" section of the documentation. 
+In this live stream session, Frank is reviewing the new GitKraken release v8.8 and writing documentation about how to use Azure Storate Explorer with AzUrlShortener as an admin tool.
 
 📺 - Twitch archive - stream no.180
 
@@ -24,7 +24,7 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 ### TodDos
 
 - [X] Look at GitKraken Update
-- [ ] **Write DOc for Azure Explorer with AzUrlShortener**
+- [ ] **Write Doc for Azure Explorer with AzUrlShortener**
 
 ### TimeLogs
 
