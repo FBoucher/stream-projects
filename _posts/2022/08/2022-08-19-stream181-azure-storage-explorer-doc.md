@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Stream 181 - Writing dos about how to use Azure Storate Explorer with AzUrlShortener"
-featured-image: https://img.youtube.com/vi/_______________/hqdefault.jpg
+title: "Stream 181 - Writing doc about how to use Azure Storate Explorer with AzUrlShortener"
+featured-image: https://img.youtube.com/vi/GZg4-ON8uGw/hqdefault.jpg
 date: 2022-08-19 06:30 -0500
 categories: azurlshortener
 ---
 
 ## Summary
 
-In this live stream session, Frank is reviewing the new GitKraken release v8.8 and writing documentation about how to use Azure Storate Explorer with AzUrlShortener as an admin tool.
+In this live stream session, Frank is reviewing the new GitKraken release v8.8 and writing documentation about how to use Azure Storage Explorer with AzUrlShortener as an admin tool.
 
 📺 - Twitch archive - stream no.180
 
 ## Replay
 
-{% include youtube.html id="_______________" %}
+{% include youtube.html id="GZg4-ON8uGw" %}
 <br/><!--more-->
 
 ### Project
@@ -28,9 +28,11 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 
 ### TimeLogs
 
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-    00:35:12 Writing Doc about Azure Storage Explorer
+00:00:00 Intro
+00:00:10 Bonjour, Hi!
+00:06:04 GitGKraken v8.8
+00:32:55 Writing Doc about Azure Storage Explorer
+01:31:00 Commit & Push
 
 ### Game Results
 
