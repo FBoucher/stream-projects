@@ -1,20 +1,20 @@
 ---
 layout: post
 title: "Stream 182 - Fixing the deployment to Azure for AzUrlShortener"
-featured-image: https://img.youtube.com/vi/-X6UITt04TU/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/4eI-5gg_spI/hqdefault.jpg
 date: 2022-08-26 06:30 -0500
 categories: azurlshortener
 ---
 
 ## Summary
 
-In this live stream session, I'm all over the place. I just came back from vacation and this time off paid very well... Nevertheless I will create new tasks in the GitHub project to make the work visible toward version 3. In this stream I the focus was on the "How to use it" section of the documentation. 
+In this live stream session, I'm trying to fix the deployment. THe goal is to have a one-click deployment directly from the GitHub repo directly to the user Azure account. We will also discuss the differences between GitHub Action and Azure DevOps. 
 
-📺 - Twitch archive - stream no.180
+📺 - Twitch archive - stream no.182
 
 ## Replay
 
-{% include youtube.html id="-X6UITt04TU" %}
+{% include youtube.html id="4eI-5gg_spI" %}
 <br/><!--more-->
 
 ### Project
@@ -28,12 +28,11 @@ All the code for this project is available on GitHub: azurlshortener - https://g
 
 ### TimeLogs
 
-    00:00:00 Intro
-    00:00:10 Bonjour, Hi!
-    00:00:30 todos
-    00:02:48 status
-    00:25:41 validate ARM template
-    00:46:55 Github Action vs Azure Devops
+    00:00:00 Bonjour, Hi!
+    00:01:31 status
+    00:21:41 validate ARM template
+    00:44:24 Q&A - Github Action vs Azure Devops
+    00:52:48 Back to the ARM template
 
 ### Game Results
 
