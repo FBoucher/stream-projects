@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 182 - Fixing the deployment to Azure for AzUrlShortener"
-featured-image: https://img.youtube.com/vi/-X6UITt04TU/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/4eI-5gg_spI/hqdefault.jpg
 date: 2022-08-26 06:30 -0500
 categories: azurlshortener
 ---
@@ -10,11 +10,11 @@ categories: azurlshortener
 
 In this live stream session, I'm all over the place. I just came back from vacation and this time off paid very well... Nevertheless I will create new tasks in the GitHub project to make the work visible toward version 3. In this stream I the focus was on the "How to use it" section of the documentation. 
 
-📺 - Twitch archive - stream no.180
+📺 - Twitch archive - stream no.182
 
 ## Replay
 
-{% include youtube.html id="-X6UITt04TU" %}
+{% include youtube.html id="4eI-5gg_spI" %}
 <br/><!--more-->
 
 ### Project
