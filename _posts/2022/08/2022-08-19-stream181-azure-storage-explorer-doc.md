@@ -10,7 +10,7 @@ categories: azurlshortener
 
 In this live stream session, Frank is reviewing the new GitKraken release v8.8 and writing documentation about how to use Azure Storage Explorer with AzUrlShortener as an admin tool.
 
-📺 - Twitch archive - stream no.180
+📺 - Twitch archive - stream no.181
 
 ## Replay
 
