@@ -8,7 +8,7 @@ categories: azurlshortener
 
 ## Summary
 
-In this live stream session, Frank is doing is best to not drop eveything there and go play outside... NOthing seams to work how it is suposed to... But we had fun and it and up....
+In this live stream session, Frank is doing his best to not drop everything there and go play outside... Nothing seems to work how it is supposed to... But we had fun and it and up...
 📺 - Twitch archive - stream no.184
 
 ## Replay
