@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stream 185 - GitKraken & GitLens Updates and TinyBlazorAdmin"
-featured-image: https://img.youtube.com/vi/________/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/_tgtE1U2Jb8/hqdefault.jpg
 date: 2022-10-25 06:30 -0500
 categories: tinyblazoradmin
 ---
@@ -13,7 +13,7 @@ In this live stream session, Frank is looking at the recent update of GitKraken 
 
 ## Replay
 
-{% include youtube.html id="________" %}
+{% include youtube.html id="_tgtE1U2Jb8" %}
 <br/><!--more-->
 
 
@@ -25,7 +25,7 @@ All the code for this project is available on GitHub: tinyblazoradmin - https://
 
 - [X] Look GitKraken updates
 - [X] Look GitLens
-- [ ] **Setup vNext for Tiny Blazor Admin**
+- [X] **Setup vNext for Tiny Blazor Admin**
 
 ### Game Results
 
@@ -48,3 +48,14 @@ All the code for this project is available on GitHub: tinyblazoradmin - https://
 - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 - Great talk also some demo about dev Container https://ignite.microsoft.com/en-US/sessions/0a1cf385-2cca-4cdf-89da-af49b86cf0de?source=sessions
 - Amazing talk about ZoomIt: https://ignite.microsoft.com/en-US/sessions/6b3aecf1-92ba-41f7-81eb-fdad7b4b4138?source=sessions
+
+
+### TimeLogs
+
+    00:00:00 Bonjour, Hi!
+    00:00:07 Trying to maximize GitKraken in my 2nd  monitor 
+    00:05:48 GItKraken client new release tour
+    00:12:27 GitLens new release tour
+    00:37:11 What's the current state of TinyBlazorAdmin v3?
+    00:58:54 Great talks at Microsoft Ignite 
+    01:04:49 Does it runs?
