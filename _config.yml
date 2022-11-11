@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Projects that we work on the stream (aka Twitch.com/fboucheros)
 twitter_username: fboucheros
 github_username: fboucher
+url: https://behindmycloud.com
 
 excerpt_separator: <!--more-->
 future: false
