@@ -7,7 +7,7 @@ categories: tinyblazoradmin
 ---
 
 ### Project
-
+In this live stream, we clean up the UI, get back on how the application should look. We also start working on the update process for short URLs. 
 All the code for this project is available on GitHub: tinyblazoradmin - https://github.com/FBoucher/tinyblazoradmin
 
 ### TodDos
