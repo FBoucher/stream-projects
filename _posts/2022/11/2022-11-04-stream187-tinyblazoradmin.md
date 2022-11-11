@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Stream 186 - Adding a schedule for short URLs"
-featured-image: https://img.youtube.com/vi/uYEUc8q7Nt0/hqdefault.jpg
-date: 2022-10-28 06:30 -0500
+title: "Stream 187 - It's time to clean-up the UI and add the Update functionality"
+featured-image: https://img.youtube.com/vi/Vk-Whb15V00/hqdefault.jpg
+date: 2022-11-04 06:30 -0500
 categories: tinyblazoradmin
 ---
 
 ### Project
-In this live stream, we clean up the UI, get back on how the application should look. We also start working on the update process for short URLs. 
+In this live stream, we clean up the UI, and get back to how the application should look. We also start working on the update process for short URLs. 
 All the code for this project is available on GitHub: tinyblazoradmin - https://github.com/FBoucher/tinyblazoradmin
+📺 - Twitch archive - stream no.187
+
+## Replay
+
+{% include youtube.html id="Vk-Whb15V00" %}
+<br/><!--more-->
 
 ### TodDos
 
