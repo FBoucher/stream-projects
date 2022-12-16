@@ -2,7 +2,7 @@
 <ul class="navbar">
     {% for nav in site.data.nav %}
     {% if nav.subcategories != null %}
-        <li>
+        <li class="active">
         <a class="navbarItem" href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
         </li>
     {% elsif nav.title == page.title %}

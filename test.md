@@ -4,6 +4,14 @@ title: Test
 permalink: /test/
 ---
 
+<!--
+
+bundle exec jekyll serve
+
+
+-->
+
+
 <!--div>
 <h1>Now{{ "now" | date: "%Y-%m-%d" }}</h1>
 
