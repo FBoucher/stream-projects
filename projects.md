@@ -6,25 +6,25 @@ permalink: /projects/
 
 # Stream Projects
 
-This repository is to keep tracks of all work done on the stream (aka https://www.twitch.tv/fboucheros). The complete list of the streams is available in the journal, here are those where I we worked on a specific project.
+This repository is to keep tracks of all work done on the stream (aka [https://www.twitch.tv/fboucheros](https://www.twitch.tv/fboucheros)). The complete list of the streams is available in the journal, here are those where I we worked on a specific project.
 
 ![Stream_Screenshots][Stream_Screenshots]
 
 <h2 id="projectlist">Projects</h2>
 
-- [TinyBlazorAdmin](#tinyblazoradmin)
-- [AzUrlShortener](#azurlshortener)
-- [Triavia the Trivia game](#triavia)
-- [Blind2021 (aka Project Dover)](#blind2021)
-- [Use-R-Vote (aka outspoken)](#use-r-vote)
-- [CloudBot](#cloudbot)
-- [Not-a-Dog-Workshop](#not-a-dog-workshop)
-- [Az Subscription Cleaner](#az-subscription-cleaner)
-- [MyClippings-Parser](#myclippings-parser)
 - [AzUnzipEverything](#azunzipeverything)
 - [AzPics](#azpics)
 - [Azure-Automatic-Video-Converter](#azvideoconverter)
-
+- [AzUrlShortener](#azurlshortener)
+- [Az Subscription Cleaner](#az-subscription-cleaner)
+- [Blind2021 (aka Project Dover)](#blind2021)
+- [CloudBot](#cloudbot)
+- [MyClippings-Parser](#myclippings-parser)
+- [Not-a-Dog-Workshop](#not-a-dog-workshop)
+- [Reading Notes](#readingnotes)
+- [TinyBlazorAdmin](#tinyblazoradmin)
+- [Triavia the Trivia game](#triavia)
+- [Use-R-Vote (aka outspoken)](#use-r-vote)
 
 ## Projects Detail
 
@@ -366,6 +366,35 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     </tr>
     {% endfor %}
 </table>
+
+---
+
+<h3 id="readingnotes">Reading Notes</h3>[🔝](#projectlist)
+
+ A Solution to get online blog posts cleaned and sent to your eReader. Collect your notes and generate a ReadingNotes blog post, with all the notes to took about those articles.
+
+<img src="https://raw.githubusercontent.com/FBoucher/ReadingNotes/master/module-pre-reading/medias/GettingPostToEReader.png" alt="schema of the pre-reading flow" width="400"/>
+
+ 🔗 [https://github.com/fboucher/readingnotes](https://github.com/fboucher/readingnotes)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:80px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["readingnotes"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
 
 
 [Stream_Screenshots]: /medias/Stream_Screenshots.png

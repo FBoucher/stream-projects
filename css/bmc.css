@@ -10,7 +10,7 @@
   .navbarItem {
     display: block;
     float: right;
-    width: 40px;
+    width: 45px;
     height:20px;
     overflow: hidden;
   }
@@ -35,8 +35,11 @@
     text-decoration: none;
   }
   
+  ul.navbar li.active {
+    background-color: rgb(0, 93, 199);
+  }
   ul.navbar li a:hover {
-    background-color: #111;
+    background-color: rgb(2, 37, 76);
   }
 
   .tags {
