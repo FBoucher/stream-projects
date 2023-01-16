@@ -4,7 +4,7 @@ title: "Stream 175 - Exploring Authentication and authorization into the new Azu
 featured-image: https://img.youtube.com/vi/oUzhBAF8P8o/hqdefault.jpg
 date: 2021-05-21 06:30 -0500
 stream date: 2021-05-14
-categories: stream
+categories: learning
 ---
 
 ## Summary

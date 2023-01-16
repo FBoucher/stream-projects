@@ -2,7 +2,7 @@
 layout: post
 title: Creating Demo and slides
 date: 2020-02-21
-categories: stream
+categories: learning
 ---
 
 

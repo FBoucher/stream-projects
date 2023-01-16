@@ -2,7 +2,7 @@
 layout: post
 title: Lets Learn Blazor dotNet Core on Linux
 date: 2019-07-15
-categories: stream
+categories: learning
 ---
 
 ## Summary

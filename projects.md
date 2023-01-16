@@ -19,6 +19,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 - [Az Subscription Cleaner](#az-subscription-cleaner)
 - [Blind2021 (aka Project Dover)](#blind2021)
 - [CloudBot](#cloudbot)
+- [Learning](#learning)
 - [MyClippings-Parser](#myclippings-parser)
 - [Not-a-Dog-Workshop](#not-a-dog-workshop)
 - [Reading Notes](#readingnotes)
@@ -385,6 +386,30 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
     </tr>
   </thead>
     {% for post in site.categories["readingnotes"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+---
+
+<h3 id="learning">Learning</h3>[🔝](#projectlist)
+
+Sometimes there is no real projects. It's about an experiment or to learn a new technologies. Here are regrouped those streams.
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:80px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["learning"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 

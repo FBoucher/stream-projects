@@ -3,7 +3,7 @@ layout: post
 title: "Stream 150 - Learning Typescript + Nodejs + React by building a trivia game"
 featured-image: https://img.youtube.com/vi/________________/hqdefault.jpg
 date: 2021-01-01 06:30 -0500
-categories: stream
+categories: learning
 ---
 
 ## Summary
