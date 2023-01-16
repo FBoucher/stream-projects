@@ -3,7 +3,7 @@ layout: post
 title: "Stream 177 - Is it still working?"
 featured-image: https://img.youtube.com/vi/R5OtvLCkXXc/hqdefault.jpg
 date: 2022-06-17 06:30 -0500
-categories: stream
+categories: learning
 ---
 
 ## Summary

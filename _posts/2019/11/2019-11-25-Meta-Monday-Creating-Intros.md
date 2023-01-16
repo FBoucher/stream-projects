@@ -2,7 +2,7 @@
 layout: post
 title: Meta-Monday Creating new Intros for Twitch streams
 date: 2019-11-25
-categories: stream
+categories: learning
 ---
 
 ## Summary

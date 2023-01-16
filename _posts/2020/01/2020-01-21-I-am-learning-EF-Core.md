@@ -2,7 +2,7 @@
 layout: post
 title: I am learning EF Core
 date: 2020-01-21
-categories: stream
+categories: learning
 ---
 
 

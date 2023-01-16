@@ -2,7 +2,7 @@
 layout: post
 title: Creating material for ARM template tutorial series
 date: 2020-02-14
-categories: stream
+categories: learning
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Stream 178 - Current status of the URL Shortener"
 featured-image: https://img.youtube.com/vi/dqFFTHnNiQk/hqdefault.jpg
 date: 2022-07-08 06:30 -0500
-categories: stream
+categories: learning
 ---
 
 ## Summary

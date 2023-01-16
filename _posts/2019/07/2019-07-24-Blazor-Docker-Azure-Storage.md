@@ -2,7 +2,7 @@
 layout: post
 title:  Learning Blazor on Linux (running SDK in Docker)
 date: 2019-07-24
-categories: stream
+categories: learning
 ---
 
 ## Summary

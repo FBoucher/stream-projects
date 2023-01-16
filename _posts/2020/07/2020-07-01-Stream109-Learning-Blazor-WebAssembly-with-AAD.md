@@ -2,7 +2,7 @@
 layout: post
 title: Stream 109 Learning Blazor WebAssembly with AAD
 date: 2020-07-01
-categories: stream
+categories: learning
 ---
 
 
