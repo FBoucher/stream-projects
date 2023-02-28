@@ -28,6 +28,13 @@ All the code for this project is available on GitHub: AzUrlshortener - https://g
 - [X] PR review
 - [ ] **Have fun with Minimal API**
 
+### TimeLogs
+
+    00:00:00 Bonjour, Hi!
+    00:16:18 About AzUrlShortener
+    01:01:29 Andrew Lock and ASP.NET Core in Action book
+    01:06:00 Having fun with minimal API
+
 ### Game Results
 
 - [@fboucheros](https://www.twitch.tv/fboucheros): 0
@@ -47,5 +54,6 @@ All the code for this project is available on GitHub: AzUrlshortener - https://g
 
 ### Notes/ References / Snippets
 
-- https://andrewlock.net/
-- book https://www.manning.com/books/asp-net-core-in-action-third-edition?utm_source=twitter&utm_medium=author&utm_campaign=book_lock3_asp_9_29_22
+- [How to edit a JSON object inside an Azure Logic App](https://www.frankysnotes.com/2023/02/how-to-edit-json-object-inside-azure.html) or [YouTube video](https://www.youtube.com/watch?v=2W1xf0rCoMQ)
+- Blog of Andrew Lock: https://andrewlock.net/
+- ASP.NET Core in Action book: https://www.manning.com/books/asp-net-core-in-action-third-edition?utm_source=twitter&utm_medium=author&utm_campaign=book_lock3_asp_9_29_22
