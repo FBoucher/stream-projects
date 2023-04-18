@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "Playing with Codespace Copilot and more (stream 197)"
-featured-image: https://img.youtube.com/vi/_________________/hqdefault.jpg
+title: "Playing with Codespace Copilot and more (stream 198)"
+featured-image: https://img.youtube.com/vi/Uc1x5_oLw08/hqdefault.jpg
 date: 2023-04-14 06:30 -0500
 categories: learning
 ---
 
 ## Summary
 
-In this stream Frank is sharing some cool milestones for AzUrlshortener. 
+In this video, I'm looking at a GitHub repo that I could use for an upcoming presentation about Codespace, Copilot, DevContainer and VSCode. 
 📺 - Twitch archive - stream no.197
 
 ## Replay
 
-{% include youtube.html id="_________________" %}
+{% include youtube.html id="Uc1x5_oLw08" %}
 <br/><!--more-->
 
 
 ### Project
 
-All the code for this project is available on GitHub: AzUrlshortener - https://github.com/microsoft/AzUrlshortener
+All the code for this project is available on GitHub: https://github.com/education/codespaces-project-template-dotnet#create-your-portfolio
 
 ### TodDos
 
