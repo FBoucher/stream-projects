@@ -7,7 +7,7 @@ categories: BogusToolkit
 ---
 
 ## Summary
-
+In this live coding stream we do a tour of some open source projects to look at new issues and PRs. Then looking at the library Bogus we plan how we could make it easier to use for everyone. Starting the project BogusToolkit.
 ... 
 
 📺 - Twitch archive - stream no.205 
