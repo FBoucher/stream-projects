@@ -13,7 +13,6 @@ In this stream, a .NET isolated Azure Function and slowly built an Bicep templat
 
 {% include youtube.html id="MUw9r-QrO_4" %}
 <br/><!--more-->
-### Project
 
 ### Project
 
