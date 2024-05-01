@@ -11,7 +11,7 @@ In this stream, Frank is sharing how he solve last stream issues by using docker
 
 ## Replay
 
-{% include youtube.html id="**3b_EI2piomk**" %}
+{% include youtube.html id="3b_EI2piomk" %}
 <br/><!--more-->
 
 ### Project
