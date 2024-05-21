@@ -3,7 +3,7 @@ layout: post
 title: "Adding creatures to the 2D6 Dungeon App(stream 219)"
 featured-image: https://img.youtube.com/vi/Ek_HRx14POI/hqdefault.jpg
 date: 2024-05-03 06:30 -0500
-categories: learning
+categories: 2d6-dungeon-app
 ---
 ## Summary
 In this stream, Frank is adding creatures to the 2D6 Dungeon App. Creating the database table and writting some SQL queries to insert and select data. And then, adding the reference into the Data API Builder config so the APIs are generated. 
@@ -16,7 +16,7 @@ In this stream, Frank is adding creatures to the 2D6 Dungeon App. Creating the d
 
 ### Project
 
-All the code for this project is available on GitHub: 2d6dungeon - https://github.com/FBoucher/2d6dungeon
+All the code for this project is available on GitHub: 2d6dungeon - https://github.com/FBoucher/2d6-dungeon-app
 
 ### Raids
 

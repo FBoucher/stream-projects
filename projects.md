@@ -12,6 +12,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 
 <h2 id="projectlist">Projects</h2>
 
+- [2d6-dungeon-app](#2d6-dungeon-app)
 - [AzUnzipEverything](#azunzipeverything)
 - [AzPics](#azpics)
 - [Azure-Automatic-Video-Converter](#azvideoconverter)
@@ -410,6 +411,37 @@ Sometimes there is no real projects. It's about an experiment or to learn a new 
     </tr>
   </thead>
     {% for post in site.categories["learning"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+---
+
+<h3 id="learning">2D6 Dungeon App</h3>[🔝](#2d6-dungeon-app)
+
+[2D6 Dungeon](https://drgames.co.uk/2d6-dungeon-a-classic-dungeon-crawler-solo-player-game/) is a classic style dungeon crawler, print and play, roll and write game designed for solo play. You explore randomly generated dungeon rooms, fight monsters and collect treasure as you gain experience and strive to become a legendary adventurer. Every adventure and dungeon is unique. I was created by DR Games and it's a paper and dices game.
+
+This project is a digital version of the game, with creator's approval. It's a web application that allows you to play the game on your computer or mobile device. It's a work in progress. I progress by iteration improuving the code, the struture at each passes.
+
+<img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/blob/main/medias/new_adventure.png" alt="new adventure screen" width="400"/>
+
+ 🔗 [https://github.com/FBoucher/2d6-dungeon-app](https://github.com/FBoucher/2d6-dungeon-app)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:80px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["2d6-dungeon-app"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 
