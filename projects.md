@@ -424,13 +424,13 @@ Sometimes there is no real projects. It's about an experiment or to learn a new 
 
 ---
 
-<h3 id="learning">2D6 Dungeon App</h3>[🔝](#2d6-dungeon-app)
+<h3 id="2d6-dungeon-app">2D6 Dungeon App</h3>[🔝](#2d6-dungeon-app)
 
 [2D6 Dungeon](https://drgames.co.uk/2d6-dungeon-a-classic-dungeon-crawler-solo-player-game/) is a classic style dungeon crawler, print and play, roll and write game designed for solo play. You explore randomly generated dungeon rooms, fight monsters and collect treasure as you gain experience and strive to become a legendary adventurer. Every adventure and dungeon is unique. I was created by DR Games and it's a paper and dices game.
 
 This project is a digital version of the game, with creator's approval. It's a web application that allows you to play the game on your computer or mobile device. It's a work in progress. I progress by iteration improuving the code, the struture at each passes.
 
-<img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/blob/main/medias/new_adventure.png" alt="new adventure screen" width="400"/>
+<img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/main/medias/new_adventure.png" alt="new adventure screen" width="400"/>
 
  🔗 [https://github.com/FBoucher/2d6-dungeon-app](https://github.com/FBoucher/2d6-dungeon-app)
 
