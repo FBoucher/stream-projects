@@ -6,7 +6,7 @@ date: 2024-05-31 06:30 -0500
 categories: 2d6-dungeon-app
 ---
 ## Summary
-In this stream, we talk about sessions we like from Microsoft Build, improve the docker compose file by removing password and fix a bug where the table magic potion was missing. 
+In this stream, we start looking at the combat screen, what we will need, and start shaping it. Just before we pumped up the package version, and that cause build errors. WE will try to fix it but without success...
 📺 - Twitch archive - stream no.222 
 
 ## Replay
