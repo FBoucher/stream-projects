@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding a creature card to 2d6 Dungeon App (stream 223)"
-featured-image: https://img.youtube.com/vi/0HbH1_Ie6TI/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/uaZ83UD97kI/hqdefault.jpg
 date: 2024-06-07 06:30 -0500
 categories: 2d6-dungeon-app
 ---
@@ -11,7 +11,7 @@ In this stream, we are adding a creature card to the 2D6 dungeon App project. Ad
 
 ## Replay
 
-{% include youtube.html id="0HbH1_Ie6TI" %}
+{% include youtube.html id="uaZ83UD97kI" %}
 <br/><!--more-->
 
 
