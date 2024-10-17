@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Adding .NET Aspire to 2D6 Dungeon-App (stream 231)"

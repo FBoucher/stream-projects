@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Refactoring code in Blazor component for 2D6 Dungeon App (stream 229)"

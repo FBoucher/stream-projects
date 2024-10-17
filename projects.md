@@ -20,6 +20,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 - [Az Subscription Cleaner](#az-subscription-cleaner)
 - [Blind2021 (aka Project Dover)](#blind2021)
 - [CloudBot](#cloudbot)
+- [NoteBookmark](#NoteBookmark)
 - [Learning](#learning)
 - [MyClippings-Parser](#myclippings-parser)
 - [Not-a-Dog-Workshop](#not-a-dog-workshop)
@@ -442,6 +443,35 @@ This project is a digital version of the game, with creator's approval. It's a w
     </tr>
   </thead>
     {% for post in site.categories["2d6-dungeon-app"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
+---
+
+<h3 id="NoteBookmark">Note Bookmark</h3>[🔝](#NoteBookmark)
+
+Note Bookmark is a website to keep tracks of the things you read. It's a new spin of my reading notes project. The goal is to build it with a CICD, using Blazor with FluentUI-Blazor, Minimal API, Azure Container Apps, Azure Table Storage, and .NET Aspire when working locally.
+
+<!--img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/main/medias/new_adventure.png" alt="new adventure screen" width="400"/-->
+
+ 🔗 [https://github.com/FBoucher/NoteBookmark](https://github.com/FBoucher/NoteBookmark)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:80px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["NoteBookmark"] %}
     <tr>
         <td> {{ post.date | date: "%F" }} </td>
         <td> 
