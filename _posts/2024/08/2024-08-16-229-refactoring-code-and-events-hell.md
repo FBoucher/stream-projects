@@ -2,7 +2,7 @@
 layout: post
 title: "Refactoring code in Blazor component for 2D6 Dungeon App (stream 229)"
 featured-image: https://img.youtube.com/vi/7CLj0zglc6M/hqdefault.jpg
-date: 2024-07-19 06:30 -0500
+date: 2024-08-16 06:30 -0500
 categories: 2d6-dungeon-app
 ---
 ## Summary
