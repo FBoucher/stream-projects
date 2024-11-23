@@ -18,6 +18,6 @@ Adding .NET aspire to our 2D6 Dungeon-App. We had a few issues with the environm
 
 ### Project
 
-All the code for this project is available on GitHub:  - https://github.com/FBoucher/
+All the code for this project is available on GitHub:  - https://github.com/FBoucher/2d6-dungeon-app
 
 

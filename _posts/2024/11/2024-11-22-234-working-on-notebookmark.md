@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Upgrading NoteBookmark to .NET 9 and all packages to the latest version (stream 233)"
+title: "Upgrading NoteBookmark to .NET 9 and all packages to the latest version (stream 234)"
 featured-image: https://img.youtube.com/vi/hF6X2AURWiQ/hqdefault.jpg
 date: 2024-11-22 06:30 -0500
 categories: NoteBookmark
@@ -8,7 +8,7 @@ categories: NoteBookmark
 ## Summary
 Today we started by upgrading the NoteBookmark project to .NET 9 and all the packages to the latest version. Using dotnet-outdated we were able to see all the packages that needed to be updated. We then started to update the packages and fix the issues that came with it. I got some sounds issues but nothing that impacted you. I really need to fix or change this Rode Unify setting, I keep having weird issue since the start.
 
-📺 - Twitch archive - stream no.233
+📺 - Twitch archive - stream no.234
 
 ## Replay
 
