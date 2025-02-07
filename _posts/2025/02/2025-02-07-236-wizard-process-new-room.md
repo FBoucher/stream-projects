@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adding .NET Aspire to 2D6 Dungeon-App (stream 236)"
+title: "Creating new room using wizard process for 2D6 Dungeon-App (stream 236)"
 featured-image: https://img.youtube.com/vi/NE4QXKf4WI8/hqdefault.jpg
 date: 2025-02-07 06:30 -0500
 categories: 2d6-dungeon-app
