@@ -2,11 +2,11 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  schedule:
-     - cron: '0 7 * * MON-THU'
+  # schedule:
+  #   - cron: '0 7 * * MON-THU'
   # Runs on pushes targeting the default branch
-  #push:
-  #  branches: ["main"]
+  push:
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -29,18 +29,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1.0' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v5
-      - run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} # defaults output to '/_site'
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3 # This will automatically upload an artifact from the '/_site' directory
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
