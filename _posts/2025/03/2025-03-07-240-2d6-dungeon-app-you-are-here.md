@@ -8,7 +8,7 @@ categories: 2d6-dungeon-app
 ## Summary
 In this stream we fixed a few bugs related to the room creation and implemented a new feature! The current room will from now on be draw with a floor of a different color. This will help us see the current room on the map.
 
-📺 - Twitch archive - stream no.239
+📺 - Twitch archive - stream no.240
 
 ## Replay
 
